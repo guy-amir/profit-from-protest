@@ -1,0 +1,636 @@
+Company,CEI_Score,Year
+Aetna Inc. Hartford,100.0,2002
+AMR Corp./American Airlines! Dallas-Fort Worth Airport,100.0,2002
+Apple Computer Inc. Cupertino,100.0,2002
+Avaya Inc. Basking Ridge,100.0,2002
+"Eastman Kodak Co."" Rochester",100.0,2002
+Intel Corp. Santa Clara,100.0,2002
+J.P. Morgan Chase Co New York,100.0,2002
+Lucent Technologies Inc. Murray Hill,100.0,2002
+NCR Corp. Dayton,100.0,2002
+"Nike Inc."" Beaverton",100.0,2002
+Replacements Ltd. Greensboro,100.0,2002
+Worldspan L.P. Atlanta,100.0,2002
+Xerox Corp. Stamford,100.0,2002
+ABN AMRO Chicago,86.0,2002
+Accenture Chicago,86.0,2002
+Agilent Technologies Inc.” Wilmington,86.0,2002
+American Express Co. New York,86.0,2002
+AOL Time Warner Inc. New York,86.0,2002
+ATT” New York,86.0,2002
+Bank of America Corp. Charlotte,86.0,2002
+Bank One Corp. Chicago,86.0,2002
+Bausch Lomb Inc. Rochester,86.0,2002
+BellSouth Corp. Atlanta,86.0,2002
+Booz Allen Hamilton McLean,86.0,2002
+"BP formerly BP Amoco"" Chicago",86.0,2002
+"Capital One Financial Corp."" Falls Church",86.0,2002
+ChevronTexaco Corp. San Ramon,86.0,2002
+Chubb Corp. Warren,86.0,2002
+Cingular Wireless Atlanta,86.0,2002
+Citigroup Inc. New York,86.0,2002
+Compaq Computer Corp. Houston,86.0,2002
+"Coors Brewing Co."" Golden",86.0,2002
+Daimler Chrysler Corp. Auburn Hills,86.0,2002
+Deloitte Touche Tohmatsu International New York,86.0,2002
+ETRADE Group Inc. Menlo Park,86.0,2002
+FleetBoston Financial Corp.” Boston,86.0,2002
+Ford Motor Co. Dearborn,86.0,2002
+Gannett Co. Inc. Arlington,86.0,2002
+General Mills Inc.!° Minneapolis,86.0,2002
+General Motors Detroit,86.0,2002
+GlaxoSmithKline Inc. Research Triangle Park,86.0,2002
+Goldman Sachs Investment Banking New York,86.0,2002
+Harris Trust Savings Bank Chicago,86.0,2002
+Hartford Financial Services Co. Hartford,86.0,2002
+Hewitt Associates Lincolnshire,86.0,2002
+"Hewlett-Packard Co."" Palo Alto",86.0,2002
+Honeywell International Inc. Morristown,86.0,2002
+IBM International Business Machines Corp. Armonk,86.0,2002
+John Hancock Financial Services Inc. Boston,86.0,2002
+Kaiser Permanente Foundation Health Plan Inc. Oakland,86.0,2002
+"KPMG, LLP Montvale",86.0,2002
+Levi Strauss Co. San Francisco,86.0,2002
+Lincoln National Corp. Philadelphia,86.0,2002
+McKinsey Co. Inc. New York,86.0,2002
+Merck Co. Inc. Whitehouse Station,86.0,2002
+Merrill Lynch Co. New York,86.0,2002
+Microsoft Corp.” Redmond,86.0,2002
+Mitchell Gold Co. Taylorsville,86.0,2002
+Motorola Inc. Schaumburg,86.0,2002
+Northern Trust Corp. Chicago,86.0,2002
+Pfizer New York,86.0,2002
+PGE Corp. San Francisco,86.0,2002
+Polaroid Corp. Cambridge,86.0,2002
+PricewaterhouseCoopers New York,86.0,2002
+Prime Access Inc. New York,86.0,2002
+Procter Gamble Cincinnati,86.0,2002
+"Prudential Financial Inc."" Newark",86.0,2002
+Quark Inc. Denver,86.0,2002
+Qwest Communications International Inc. Englewood,86.0,2002
+Raytheon Co. Lexington,86.0,2002
+SBC Communications Inc. San Antonio,86.0,2002
+SC Johnson Son Inc. Racine,86.0,2002
+Scholastic Corp. New York,86.0,2002
+SGI Mountain View,86.0,2002
+Shell Oil Co.” Houston,86.0,2002
+St. Paul Companies St. Paul,86.0,2002
+Starbucks Corp. Seattle,86.0,2002
+Subaru of America Inc. Cherry Hill,86.0,2002
+Sun Microsystems Palo Alto,86.0,2002
+Target Corp. Minneapolis,86.0,2002
+Texas Instruments Inc. Dallas,86.0,2002
+The Charles Schwab Corp.” San Francisco,86.0,2002
+The Gillette Co. Boston,86.0,2002
+UVAL/United Airlines Inc. Elk Grove,86.0,2002
+UBS Paine Webber New York,86.0,2002
+Unisys Blue Bell,86.0,2002
+US Airways Group Arlington,86.0,2002
+US Bancorp Minneapolis,86.0,2002
+Verizon Communications New York,86.0,2002
+Vivendi Universal New York,86.0,2002
+Wachovia Corp. Charlotte,86.0,2002
+Walgreens Co. Deerfield,86.0,2002
+Walt Disney Co. Burbank,86.0,2002
+Washington Mutual Savings Bank Seattle,86.0,2002
+Wells Fargo Co. San Francisco,86.0,2002
+Abbott Laboratories Abbot Park,71.0,2002
+Adobe Systems San Jose,71.0,2002
+Advanced Micro Devices Sunnyvale,71.0,2002
+Air Products 8 Chemicals Inc. Allentown,71.0,2002
+Applied Materials Santa Clara,71.0,2002
+Arise Communications Inc. Oakland,71.0,2002
+Aventis Pharmaceuticals Inc. Bridgewater,71.0,2002
+Ben and Jerry’s Homemade Inc. South Burlington,71.0,2002
+Blockbuster Inc. Dallas,71.0,2002
+Bristol-Myers Squibb Co. New York,71.0,2002
+Clorox Co. Oakland,71.0,2002
+Consolidated Edison Co. New York,71.0,2002
+Cummins Inc. Columbus,71.0,2002
+Darden Restaurants Orlando,71.0,2002
+Dell Computer Corp. Austin,71.0,2002
+Delphi Automotive ‘Troy,71.0,2002
+Delta Airlines Inc. Atlanta,71.0,2002
+Deluxe Corp. Shoreview,71.0,2002
+Dow Chemical Co. Midland,71.0,2002
+Edison International Rosemead,71.0,2002
+Fannie Mae Washington,71.0,2002
+Freddie Mac McLean,71.0,2002
+Hyatt Corp. Chicago,71.0,2002
+Kellogg Co. Battle Creek,71.0,2002
+Lillian Vernon Corp. New Rochelle,71.0,2002
+MetLife Metropolitan Life Insurance New York,71.0,2002
+New York Times Co. New York,71.0,2002
+Nordstrom Seattle,71.0,2002
+Northeast Utilities System Berlin,71.0,2002
+Northwest Airlines Eagan,71.0,2002
+Oracle Corp. Redwood Shores,71.0,2002
+Providian Financial Corp. San Francisco,71.0,2002
+QualComm San Diego,71.0,2002
+Reebok International Stoughton,71.0,2002
+Roche Group Hoffman-La Roche Nutley,71.0,2002
+Ryder System Inc. Miami,71.0,2002
+Safeco Seattle,71.0,2002
+Sempra Energy San Diego,71.0,2002
+Starwood Hotels Resorts Worldwide White Plains,71.0,2002
+The Allstate Corp. Northbrook,71.0,2002
+The Boeing Co.” Seattle,71.0,2002
+The Coca-Cola Co. Atlanta,71.0,2002
+The Limited Inc. Columbus,71.0,2002
+The Men’s Wearhouse Inc. Houston,71.0,2002
+Toyota North America Inc. Erlanger,71.0,2002
+USA Education Inc. Sallie Mae Reston,71.0,2002
+Verio Inc. Englewood,71.0,2002
+Viacom Inc. New York,71.0,2002
+Vision Service Plan Rancho Cordova,71.0,2002
+Wainwright Bank Boston,71.0,2002
+Working Assets Funding Service San Francisco,71.0,2002
+Agouron Pharmaceuticals La Jolla,57.0,2002
+Allegheny Energy Hagerstown,57.0,2002
+Arhaus Columbus,57.0,2002
+Avon Products New York,57.0,2002
+Barnes Noble New York,57.0,2002
+Baxter International Deerfield,57.0,2002
+Cinergy Corp. Cincinnati,57.0,2002
+Cisco Systems San Jose,57.0,2002
+Colgate-Palmolive New York,57.0,2002
+Compass Group North America Charlotte,57.0,2002
+Continental Airlines Houston,57.0,2002
+Digitaria Interactive Inc. San Diego,57.0,2002
+Donna Karan New York,57.0,2002
+DPR Construction Redwood City,57.0,2002
+Du Pont E. I. du Pont de Nemours Wilmington,57.0,2002
+Dun Bradstreet New York,57.0,2002
+Electronic Data Systems Corp. Plano,57.0,2002
+Ernst and Young New York,57.0,2002
+Estee Lauder Companies New York,57.0,2002
+Federated Department Stores Cincinnati,57.0,2002
+Gap Inc. San Francisco,57.0,2002
+General Dynamics Corp. Falls Church,57.0,2002
+Health Net Woodland Hills,57.0,2002
+Home Depot Atlanta,57.0,2002
+Kimberly-Clark Dallas,57.0,2002
+Knight-Ridder Newspapers Inc. San Jose,57.0,2002
+L.L. Bean Inc. Freeport,57.0,2002
+Liz Claiborne Inc. New York,57.0,2002
+Marimba Inc. Mountain View,57.0,2002
+MassMutual Life Insurance Springfield,57.0,2002
+Miller Brewing Co. Milwaukee,57.0,2002
+Minnesota Mining and Manufacturing 3M St. Paul,57.0,2002
+Nextel Communications Reston,57.0,2002
+Northrop Grumman Corp. Los Angeles,57.0,2002
+Pharmacia Corp. Peapack,57.0,2002
+Philip Morris New York,57.0,2002
+Pitney Bowes Stamford,57.0,2002
+PPG Industries Pittsburgh,57.0,2002
+Principal Financial Group Des Moines,57.0,2002
+Quaker Oats Co. Chicago,57.0,2002
+Reuters America Holdings Inc. New York,57.0,2002
+Software House International Somerset,57.0,2002
+SunTrust Banks Inc. Atlanta,57.0,2002
+Tech Data Corp. Clearwater,57.0,2002
+The Gallup Organization Princeton,57.0,2002
+The Middleware Co. Austin,57.0,2002
+The Progressive Corp. Mayfield Village,57.0,2002
+Times Mirror Co. Los Angeles,57.0,2002
+University Hospitals of Cleveland Cleveland,57.0,2002
+Visa International Foster City,57.0,2002
+Whole Foods Market Inc. Austin,57.0,2002
+WPP Group USA New York,57.0,2002
+Abercrombie Fitch Co. New Albany,43.0,2002
+American President Lines Oakland,43.0,2002
+Amgen Inc. Thousand Oaks,43.0,2002
+Anheuser-Busch St. Louis,43.0,2002
+Anthem Insurance Indianapolis,43.0,2002
+Avnet Inc. Great Neck,43.0,2002
+Baltimore Gas Electric Co. Baltimore,43.0,2002
+Bridgestone/Firestone Inc. Nashville T™N,43.0,2002
+Cambridge Technology Group Cambridge,43.0,2002
+Campbell Soup Co. Camden,43.0,2002
+Carlson Companies Inc. Minneapolis,43.0,2002
+Celestial Seasonings Boulder,43.0,2002
+Cendant Corp. New York,43.0,2002
+Cigna Philadelphia,43.0,2002
+Costco Wholesale Issaquah,43.0,2002
+Dana Corp. Toledo,43.0,2002
+Dow Jones New York,43.0,2002
+EMC Corp. Hopkinton,43.0,2002
+Gateway Inc. North Sioux City,43.0,2002
+General Electric Fairfield,43.0,2002
+Harvard Pilgrim Health Care Inc. Quincy,43.0,2002
+Hilton Hotels Beverly Hills,43.0,2002
+"Howard Howard Attorneys, PC Bloomfield Hills",43.0,2002
+Humana Inc. Louisville,43.0,2002
+Instinet Group Inc. New York,43.0,2002
+True North Communications Inc. Chicago,43.0,2002
+J.C. Penney Corp. Inc. Plano,43.0,2002
+Johnson Johnson New Brunswick,43.0,2002
+Latrobe Brewing Co. Latrobe,43.0,2002
+Lehman Brothers Holdings New York,43.0,2002
+Lexmark International Inc. Lexington,43.0,2002
+Marriott International Bethesda,43.0,2002
+Marsh McLennan New York,43.0,2002
+Mattel Inc. El Segundo,43.0,2002
+McDonald’s Corp. Oakbrook,43.0,2002
+McGraw-Hill New York,43.0,2002
+Mellon Financial Corp. Pittsburgh,43.0,2002
+Morgan Stanley Dean Witter Co. New York,43.0,2002
+Ortho-Neutrogena Los Angeles,43.0,2002
+Northern Telecom Inc. Nashville T™N,43.0,2002
+NW Ayer Partners Inc. New York,43.0,2002
+Office Depot Delray Beach,43.0,2002
+Omnicom Group New York,43.0,2002
+Owens Corning Toledo,43.0,2002
+PacifiCare Health Systems Santa Ana,43.0,2002
+Pacificorp Portland,43.0,2002
+Pennzoil-Quaker State Co. Houston,43.0,2002
+Rockwell Collins - Passenger Systems Pomona,43.0,2002
+Safeway Oakland,43.0,2002
+SAP America Newton Square,43.0,2002
+Sara Lee Corp. Chicago,43.0,2002
+Schering-Plough Corp. Madison,43.0,2002
+Scudder Kemper Investments New York,43.0,2002
+Seagate Technology Inc. Scotts Valley,43.0,2002
+"Sears, Roebuck and Co. Chicago",43.0,2002
+Southwest Airlines Dallas,43.0,2002
+State Farm Group Bloomington,43.0,2002
+The Williams Companies Inc. Tulsa,43.0,2002
+Toys R Us Framingham,43.0,2002
+"UnumProvident Corp."" Portland",43.0,2002
+Whirlpool Corp. Benton Harbor,43.0,2002
+A.G. Edwards Inc. St. Louis,29.0,2002
+Advanced Digital Information Corp. Redmond,29.0,2002
+AIG American International Group New York,29.0,2002
+Albertson’s Inc. Boise,29.0,2002
+Applied Materials Engineering Inc. San Francisco,29.0,2002
+Archer Daniels Midland Co. Decatur,29.0,2002
+Automatic Data Processing Inc. Roseland,29.0,2002
+Baldor Electric Co. Fort Smith,29.0,2002
+Bank of New York Co. New York,29.0,2002
+Bayer Corp. Pittsburgh,29.0,2002
+Bethlehem Steel Bethlehem,29.0,2002
+Circuit City Stores Inc. Richmond,29.0,2002
+Coca-Cola Enterprises Atlanta,29.0,2002
+Comark Inc. Bloomingdale,29.0,2002
+Dole Food Co. Inc. Westlake Village,29.0,2002
+Eli Lilly Co. Indianapolis,29.0,2002
+Franklin Templeton Investments San Mateo,29.0,2002
+Genuine Parts Co. Atlanta,29.0,2002
+H. E. Butt Grocery San Antonio,29.0,2002
+H. J. Heinz Co. Pittsburgh,29.0,2002
+Hallmark Cards Kansas City,29.0,2002
+Hannaford Brothers Scarborough,29.0,2002
+Hasbro Inc. Pawtucket,29.0,2002
+Hormel Foods Austin,29.0,2002
+Illinois Tool Works Inc. Glenview,29.0,2002
+International Paper Purchase,29.0,2002
+Lear Corp. Southfield,29.0,2002
+Maytag Corp. North Newton,29.0,2002
+MBNA Corp. Wilmington,29.0,2002
+Morningstar Inc. Chicago,29.0,2002
+Nestle Purina PetCare Co. St. Louis,29.0,2002
+New York Life Insurance Co. New York,29.0,2002
+Newell Rubbermaid Inc. Freeport,29.0,2002
+Quantum Milpitas,29.0,2002
+R.R. Donnelley Sons Chicago,29.0,2002
+Radioshack Fort Worth,29.0,2002
+Rite Aid Corp. Camp Hill,29.0,2002
+Rohm Haas Philadelphia,29.0,2002
+Sprint Corp. Westwood,29.0,2002
+Staples Inc. Westborough,29.0,2002
+The Kroger Co. Cincinnati,29.0,2002
+The May Department Stores Co. St. Louis,29.0,2002
+TIAA-CREF New York,29.0,2002
+United Parcel Service UPS Atlanta,29.0,2002
+Volkswagen of America Inc. Auburn Hills,29.0,2002
+WorldCom Inc. Clinton,29.0,2002
+Domino’s Inc. Ann Arbor,14.0,2002
+Exxon Mobil Corp. Irving,14.0,2002
+FedEx Corp. Memphis,14.0,2002
+MeadWestvaco Corp. Dayton,14.0,2002
+Meijer Inc. Grand Rapids,14.0,2002
+Perot Systems Corp. Dallas,14.0,2002
+Shaw Industries Inc. Dalton,14.0,2002
+Wal-Mart Stores Inc. Bentonville,14.0,2002
+CBRL Group Inc. Cracker Barrel restaurants Lebanon ™,0.0,2002
+Emerson Electric Co. St. Louis,0.0,2002
+Lockheed Martin Corp. Bethesda,0.0,2002
+Advertising and Marketing Prime Access Inc. New York,86.0,2002
+Advertising and Marketing WPP Group USA New York,57.0,2002
+Advertising and Marketing True North Communications Inc. Chicago,43.0,2002
+Advertising and Marketing NW Ayer Partners Inc. New York,43.0,2002
+Advertising and Marketing Omnicom Group New York,43.0,2002
+Aerospace and Defense Honeywell International Inc. Morristown,86.0,2002
+Aerospace and Defense Raytheon Co. Lexington,86.0,2002
+Aerospace and Defense General Dynamics Corp. Falls Church,57.0,2002
+Aerospace and Defense Northrop Grumman Corp. Los Angeles,57.0,2002
+Aerospace and Defense Lockheed Martin Corp. Bethesda,0.0,2002
+Airlines AMR Corp./American Airlines Dallas-Fort Worth Airport,100.0,2002
+Airlines UAL/United Airlines Inc. Elk Grove,86.0,2002
+Airlines US Airways Group Arlington,86.0,2002
+Airlines Delta Airlines Inc. Atlanta,71.0,2002
+Airlines Northwest Airlines Eagan,71.0,2002
+Airlines Continental Airlines Houston,57.0,2002
+Airlines Southwest Airlines Dallas,43.0,2002
+Apparel and Dept. Stores Nike Inc. Beaverton,100.0,2002
+Apparel and Dept. Stores Levi Strauss Co. San Francisco,86.0,2002
+Apparel and Dept. Stores Nordstrom Seattle,71.0,2002
+Apparel and Dept. Stores Reebok International Stoughton,71.0,2002
+Apparel and Dept. Stores The Limited Inc. Columbus,71.0,2002
+Apparel and Dept. Stores The Men’s Wearhouse Inc. Houston,71.0,2002
+Apparel and Dept. Stores Donna Karan New York,57.0,2002
+Apparel and Dept. Stores Federated Department Stores Cincinnati,57.0,2002
+Apparel and Dept. Stores Gap Inc. San Francisco,57.0,2002
+Apparel and Dept. Stores L.L. Bean Inc. Freeport,57.0,2002
+Apparel and Dept. Stores Liz Claiborne Inc. New York,57.0,2002
+Apparel and Dept. Stores Abercrombie Fitch Co. New Albany,43.0,2002
+Apparel and Dept. Stores J.C. Penney Corp. Inc. Plano,43.0,2002
+Apparel and Dept. Stores The May Department Stores Co. St. Louis,29.0,2002
+Automotive Daimler Chrysler Corp. Auburn Hills,86.0,2002
+Automotive Ford Motor Co. Dearborn,86.0,2002
+Automotive General Motors Detroit,86.0,2002
+Automotive Subaru of America Inc. Cherry Hill,86.0,2002
+Automotive Delphi Automotive ‘Troy,71.0,2002
+Automotive Toyota North America Inc. Erlanger,71.0,2002
+Automotive Bridgestone/Firestone Inc. Nashville T™N,43.0,2002
+Automotive Dana Corp. Toledo,43.0,2002
+Automotive Pennzoil-Quaker State Co. Houston,43.0,2002
+Automotive Genuine Parts Co. Atlanta,29.0,2002
+Automotive Lear Corp. Southfield,29.0,2002
+Automotive Volkswagen of America Inc. Auburn Hills,29.0,2002
+Banking and Financial Services J.P. Morgan Chase Co. New York,100.0,2002
+Banking and Financial Services ABN AMRO Chicago,86.0,2002
+Banking and Financial Services American Express Co. New York,86.0,2002
+Banking and Financial Services Bank of America Corp. Charlotte,86.0,2002
+Banking and Financial Services Bank One Corp. Chicago,86.0,2002
+Banking and Financial Services Capital One Financial Corp. Falls Church,86.0,2002
+Banking and Financial Services Citigroup Inc. New York,86.0,2002
+Banking and Financial Services ETRADE Group Inc. Menlo Park,86.0,2002
+Banking and Financial Services FleetBoston Financial Corp. Boston,86.0,2002
+Banking and Financial Services Goldman Sachs Investment Banking New York,86.0,2002
+Banking and Financial Services Harris Trust Savings Bank Chicago,86.0,2002
+Banking and Financial Services Merrill Lynch Co. New York,86.0,2002
+Banking and Financial Services Northern Trust Corp. Chicago,86.0,2002
+Banking and Financial Services Prudential Financial Inc. Newark,86.0,2002
+Banking and Financial Services The Charles Schwab Corp. San Francisco,86.0,2002
+Banking and Financial Services UBS Paine Webber New York,86.0,2002
+Banking and Financial Services US Bancorp Minneapolis,86.0,2002
+Banking and Financial Services Wachovia Corp. Charlotte,86.0,2002
+Banking and Financial Services Washington Mutual Savings Bank Seattle,86.0,2002
+Banking and Financial Services Wells Fargo Co. San Francisco,86.0,2002
+Banking and Financial Services Deluxe Corp. Shoreview,71.0,2002
+Banking and Financial Services Fannie Mae Washington,71.0,2002
+Banking and Financial Services Freddie Mac McLean,71.0,2002
+Banking and Financial Services Providian Financial Corp. San Francisco,71.0,2002
+Banking and Financial Services USA Education Inc. Sallie Mae Reston,71.0,2002
+Banking and Financial Services Wainwright Bank Boston,71.0,2002
+Banking and Financial Services Working Assets Funding Service San Francisco,71.0,2002
+Banking and Financial Services SunTrust Banks Inc. Atlanta,57.0,2002
+Banking and Financial Services Visa International Foster City,57.0,2002
+Banking and Financial Services Dow Jones New York,43.0,2002
+Banking and Financial Services General Electric Fairfield,43.0,2002
+Banking and Financial Services Instinet Group Inc. New York,43.0,2002
+Banking and Financial Services Lehman Brothers Holdings New York,43.0,2002
+Banking and Financial Services Marsh McLennan New York,43.0,2002
+Banking and Financial Services Mellon Financial Corp. Pittsburgh,43.0,2002
+Banking and Financial Services Morgan Stanley Dean Witter Co. New York,43.0,2002
+Banking and Financial Services Scudder Kemper Investments New York,43.0,2002
+Banking and Financial Services A.G. Edwards Inc. St. Louis,29.0,2002
+Banking and Financial Services Bank of New York Co. New York,29.0,2002
+Banking and Financial Services Franklin Templeton Investments San Mateo,29.0,2002
+Banking and Financial Services MBNA Corp. Wilmington,29.0,2002
+Banking and Financial Services Morningstar Inc. Chicago,29.0,2002
+Chemicals and Biotechnology Air Products Chemicals Inc. Allentown,71.0,2002
+Chemicals and Biotechnology Dow Chemical Co. Midland,71.0,2002
+Chemicals and Biotechnology PPG Industries Pittsburgh,57.0,2002
+Computer and Data Services SGI Mountain View,86.0,2002
+Computer and Data Services Unisys Blue Bell,86.0,2002
+Computer and Data Services Arise Communications Inc. Oakland,71.0,2002
+Computer and Data Services Digitaria Interactive Inc. San Diego,57.0,2002
+Computer and Data Services Electronic Data Systems Corp. Plano,57.0,2002
+Computer and Data Services Automatic Data Processing Inc. Roseland,29.0,2002
+Computer and Data Services Perot Systems Corp. Dallas,14.0,2002
+Computer Software Microsoft Corp. Redmond,86.0,2002
+Computer Software Quark Inc. Denver,86.0,2002
+Computer Software Adobe Systems San Jose,71.0,2002
+Computer Software Oracle Corp. Redwood Shores,71.0,2002
+Computer Software Marimba Inc. Mountain View,57.0,2002
+Computer Software The Middleware Co. Austin,57.0,2002
+Computer Software Cambridge Technology Group Cambridge,43.0,2002
+Computer Software SAP America Newton Square,43.0,2002
+Computer Software Advanced Digital Information Corp. Redmond,29.0,2002
+Computers and Office Equipment = Apple Computer Inc. Cupertino,100.0,2002
+Computers and Office Equipment | NCR Corp. Dayton,100.0,2002
+Computers and Office Equipment Xerox Corp. Stamford,100.0,2002
+Computers and Office Equipment | Compaq Computer Corp. Houston,86.0,2002
+Computers and Office Equipment — Hewlett-Packard Co. Palo Alto,86.0,2002
+Computers and Office Equipment _ International Business Machines Corp. Armonk,86.0,2002
+Computers and Office Equipment — Sun Microsystems Palo Alto,86.0,2002
+Computers and Office Equipment —_ Dell Computer Corp. Austin,71.0,2002
+Computers and Office Equipment Pitney Bowes Stamford,57.0,2002
+Computers and Office Equipment — Software House International Somerset,57.0,2002
+Computers and Office Equipment Tech Data Corp. Clearwater,57.0,2002
+Computers and Office Equipment — Avnet Inc. Great Neck,43.0,2002
+Computers and Office Equipment |= EMC Corp. Hopkinton,43.0,2002
+Computers and Office Equipment Gateway Inc. North Sioux City,43.0,2002
+Computers and Office Equipment — Lexmark International Inc. Lexington,43.0,2002
+Computers and Office Equipment _—_ Seagate Technology Inc. Scotts Valley,43.0,2002
+Computers and Office Equipment = Comark Inc. Bloomingdale,29.0,2002
+Computers and Office Equipment Quantum Milpitas,29.0,2002
+Computers and Office Equipment — Radioshack Fort Worth,29.0,2002
+Consulting Accenture Chicago,86.0,2002
+Consulting Booz Allen Hamilton McLean,86.0,2002
+Consulting Deloitte Touche Tohmatsu International New York,86.0,2002
+Consulting Hewitt Associates Lincolnshire,86.0,2002
+"Consulting KPMG, LLP Montvale",86.0,2002
+Consulting McKinsey Co. Inc. New York,86.0,2002
+Consulting PricewaterhouseCoopers New York,86.0,2002
+Consulting Ernst and Young New York,57.0,2002
+Consulting The Gallup Organization Princeton,57.0,2002
+Engineering and Construction DPR Construction Redwood City,57.0,2002
+Engineering and Construction The Williams Companies Inc. Tulsa,43.0,2002
+Engineering and Construction Applied Materials Engineering Inc. San Francisco,29.0,2002
+Engineering and Construction Bethlehem Steel Bethlehem,29.0,2002
+Engineering and Construction Hlinois Tool Works Inc. Glenview,29.0,2002
+Entertainment and Publishing AOL Time Warner Inc. New York,86.0,2002
+Entertainment and Publishing Gannett Co. Inc. Arlington,86.0,2002
+Entertainment and Publishing Scholastic Corp. New York,86.0,2002
+Entertainment and Publishing Vivendi Universal New York,86.0,2002
+Entertainment and Publishing Walt Disney Co. Burbank,86.0,2002
+Entertainment and Publishing Blockbuster Inc. Dallas,71.0,2002
+Entertainment and Publishing New York Times Co. New York,71.0,2002
+Entertainment and Publishing Viacom Inc. New York,71.0,2002
+Entertainment and Publishing Dun Bradstreet New York,57.0,2002
+Entertainment and Publishing Knight-Ridder Newspapers Inc. San Jose,57.0,2002
+Entertainment and Publishing Reuters America Holdings Inc. New York,57.0,2002
+Entertainment and Publishing Times Mirror Co. Los Angeles,57.0,2002
+Entertainment and Publishing McGraw-Hill New York,43.0,2002
+Entertainment and Publishing R.R. Donnelley Sons Chicago,29.0,2002
+"Food, Beverages and Groceries Coors Brewing Co. Golden",86.0,2002
+"Food, Beverages and Groceries General Mills Inc. Minneapolis",86.0,2002
+"Food, Beverages and Groceries Starbucks Corp. Seattle",86.0,2002
+"Food, Beverages and Groceries Ben and Jerry's Homemade Inc. South Burlington",71.0,2002
+"Food, Beverages and Groceries Darden Restaurants Orlando",71.0,2002
+"Food, Beverages and Groceries Kellogg Co. Battle Creek",71.0,2002
+"Food, Beverages and Groceries The Coca-Cola Co. Atlanta",71.0,2002
+"Food, Beverages and Groceries Compass Group North America Charlotte",57.0,2002
+"Food, Beverages and Groceries Miller Brewing Co. Milwaukee",57.0,2002
+"Food, Beverages and Groceries Quaker Oats Co. Chicago",57.0,2002
+"Food, Beverages and Groceries Whole Foods Market Inc. Austin",57.0,2002
+"Food, Beverages and Groceries Anheuser-Busch St. Louis",43.0,2002
+"Food, Beverages and Groceries Campbell Soup Co. Camden",43.0,2002
+"Food, Beverages and Groceries Celestial Seasonings Boulder",43.0,2002
+"Food, Beverages and Groceries Costco Wholesale Issaquah",43.0,2002
+"Food, Beverages and Groceries Latrobe Brewing Co. Latrobe",43.0,2002
+"Food, Beverages and Groceries McDonald's Corp. Oakbrook",43.0,2002
+"Food, Beverages and Groceries Safeway Oakland",43.0,2002
+"Food, Beverages and Groceries Sara Lee Corp. Chicago",43.0,2002
+"Food, Beverages and Groceries Albertson’s Inc. Boise",29.0,2002
+"Food, Beverages and Groceries Archer Daniels Midland Co. Decatur",29.0,2002
+"Food, Beverages and Groceries Coca-Cola Enterprises Atlanta",29.0,2002
+"Food, Beverages and Groceries Dole Food Co. Inc. Westlake Village",29.0,2002
+"Food, Beverages and Groceries H. E. Butt Grocery San Antonio",29.0,2002
+"Food, Beverages and Groceries H. J. Heinz Co. Pittsburgh",29.0,2002
+"Food, Beverages and Groceries Hannaford Brothers Scarborough",29.0,2002
+"Food, Beverages and Groceries Nestle Purina PetCare Co. St. Louis",29.0,2002
+"Food, Beverages and Groceries PepsiCo Inc. Purchase",29.0,2002
+"Food, Beverages and Groceries The Kroger Co. Cincinnati",29.0,2002
+"Food, Beverages and Groceries Domino’s Inc. Ann Arbor",14.0,2002
+"Food, Beverages and Groceries CBRL Group Inc. Cracker Barrel restaurants Lebanon T™N",0.0,2002
+Forest and Paper Products Kimberly-Clark Dallas,57.0,2002
+Forest and Paper Products International Paper Purchase,29.0,2002
+Forest and Paper Products MeadWestvaco Corp. Dayton,14.0,2002
+Health Care Aetna Inc. Hartford,100.0,2002
+Health Care Kaiser Permanente Foundation Health Plan Inc. Oakland,86.0,2002
+Health Care Vision Service Plan Rancho Cordova,71.0,2002
+Health Care Health Net Woodland Hills,57.0,2002
+Health Care University Hospitals of Cleveland Cleveland,57.0,2002
+Health Care Cigna Philadelphia,43.0,2002
+Health Care Harvard Pilgrim Health Care Inc. Quincy,43.0,2002
+Health Care Humana Inc. Louisville,43.0,2002
+Health Care PacifiCare Health Systems Santa Ana,43.0,2002
+High-Tech/Photo/Science Equip. Avaya Inc. Basking Ridge,100.0,2002
+High-Tech/Photo/Science Equip. Eastman Kodak Co. Rochester,100.0,2002
+High-Tech/Photo/Science Equip. Intel Corp. Santa Clara,100.0,2002
+High-Tech/Photo/Science Equip. Lucent Technologies Inc. Murray Hill,100.0,2002
+High-Tech/Photo/Science Equip. Agilent Technologies Inc. Wilmington,86.0,2002
+High-Tech/Photo/Science Equip. Motorola Inc. Schaumburg,86.0,2002
+High-Tech/Photo/Science Equip. Polaroid Corp. Cambridge,86.0,2002
+High-Tech/Photo/Science Equip. Texas Instruments Inc. Dallas,86.0,2002
+High-Tech/Photo/Science Equip. Advanced Micro Devices Sunnyvale,71.0,2002
+High-Tech/Photo/Science Equip. Applied Materials Santa Clara,71.0,2002
+High-Tech/Photo/Science Equip. QualComm San Diego,71.0,2002
+High-Tech/Photo/Science Equip. Baxter International Deerfield,57.0,2002
+High-Tech/Photo/Science Equip. Cisco Systems San Jose,57.0,2002
+High-Tech/Photo/Science Equip. Rockwell Collins - Passenger Systems Pomona,43.0,2002
+High-Tech/Photo/Science Equip. Baldor Electric Co. Fort Smith,29.0,2002
+High-Tech/Photo/Science Equip. Emerson Electric Co. St. Louis,0.0,2002
+Home Furnishing Arhaus Columbus,57.0,2002
+Home Furnishing Shaw Industries Inc. Dalton,14.0,2002
+"Hotels, Resorts and Casinos Hyatt Corp. Chicago",71.0,2002
+"Hotels, Resorts and Casinos Starwood Hotels Resorts Worldwide White Plains",71.0,2002
+"Hotels, Resorts and Casinos Carlson Companies Inc Minneapolis",43.0,2002
+"Hotels, Resorts and Casinos Hilton Hotels Beverly Hills",43.0,2002
+"Hotels, Resorts and Casinos Marriott International Bethesda",43.0,2002
+Insurance Chubb Corp. Warren,86.0,2002
+Insurance Hartford Financial Services Co. Hartford,86.0,2002
+Insurance John Hancock Financial Services Inc. Boston,86.0,2002
+Insurance Lincoln National Corp. Philadelphia,86.0,2002
+Insurance St. Paul Companies St. Paul,86.0,2002
+Insurance MetLife Metropolitan Life Insurance New York,71.0,2002
+Insurance Safeco Seattle,71.0,2002
+Insurance The Allstate Corporation Northbrook,71.0,2002
+Insurance MassMutual Life Insurance Springfield,57.0,2002
+Insurance Principal Financial Group Des Moines,57.0,2002
+Insurance The Progressive Corp. Mayfield Village,57.0,2002
+Insurance Anthem Insurance Indianapolis,43.0,2002
+Insurance State Farm Group Bloomington,43.0,2002
+Insurance UnumProvident Corp. Portland,43.0,2002
+Insurance AIG American International Group New York,29.0,2002
+Insurance New York Life Insurance Co. New York,29.0,2002
+Insurance TIAA-CREF New York,29.0,2002
+"Law Firms Howard Howard Attorneys, PC Bloomfield Hills",43.0,2002
+Law Firms Rohm Haas Philadelphia,29.0,2002
+"Mail, Package and Freight Delivery | United Parcel Service UPS Atlanta",29.0,2002
+"Mail, Package and Freight Delivery | FedEx Corp. Memphis",14.0,2002
+Manufacturing Cummins Inc. Columbus,71.0,2002
+Manufacturing Owens Corning Toledo,43.0,2002
+Miscellaneous Minnesota Mining and Manufacturing 3M St. Paul,57.0,2002
+Miscellaneous Cendant Corp. New York,43.0,2002
+Oil and Gas BP formerly BP Amoco Chicago,86.0,2002
+Oil and Gas ChevronTexaco Corp. San Ramon,86.0,2002
+Oil and Gas Shell Oil Co. Houston,86.0,2002
+Oil and Gas Exxon Mobil Corp. Irving,14.0,2002
+Pharmaceuticals Bausch Lomb Inc. Rochester,86.0,2002
+Pharmaceuticals GlaxoSmithKline Inc. Research Triangle Park,86.0,2002
+Pharmaceuticals Merck Co. Inc. Whitehouse Station,86.0,2002
+Pharmaceuticals Pfizer New York,86.0,2002
+Pharmaceuticals Abbott Laboratories Abbot Park,71.0,2002
+Pharmaceuticals Aventis Pharmaceuticals Inc. Bridgewater,71.0,2002
+Pharmaceuticals Bristol-Myers Squibb Co. New York,71.0,2002
+Pharmaceuticals Roche Group Hoffman-La Roche Nutley,71.0,2002
+Pharmaceuticals Agouron Pharmaceuticals La Jolla,57.0,2002
+Pharmaceuticals Pharmacia Corp. Peapack,57.0,2002
+Pharmaceuticals Amgen Inc. Thousand Oaks,43.0,2002
+Pharmaceuticals Johnson Johnson New Brunswick,43.0,2002
+Pharmaceuticals Ortho-Neutrogena Los Angeles,43.0,2002
+Pharmaceuticals Schering-Plough Corp. Madison,43.0,2002
+Pharmaceuticals Bayer Corp. Pittsburgh,29.0,2002
+Pharmaceuticals Eli Lilly Co. Indianapolis,29.0,2002
+Pharmaceuticals Wyeth formerly American Home Products Madison,29.0,2002
+Retail and Consumer Products Replacements Ltd. Greensboro,100.0,2002
+Retail and Consumer Products Procter Gamble Cincinnati,86.0,2002
+Retail and Consumer Products Mitchell Gold Co. Taylorsville,86.0,2002
+Retail and Consumer Products SC Johnson Son Inc. Racine,86.0,2002
+Retail and Consumer Products Target Corp. Minneapolis,86.0,2002
+Retail and Consumer Products The Gillette Co. Boston,86.0,2002
+Retail and Consumer Products Walgreens Co. Deerfield,86.0,2002
+Retail and Consumer Products Clorox Co. Oakland,71.0,2002
+Retail and Consumer Products Lillian Vernon Corp. New Rochelle,71.0,2002
+Retail and Consumer Products Avon Products New York,57.0,2002
+Retail and Consumer Products Barnes Noble New York,57.0,2002
+Retail and Consumer Products Colgate-Palmolive New York,57.0,2002
+Retail and Consumer Products Estee Lauder Companies New York,57.0,2002
+Retail and Consumer Products Home Depot Atlanta,57.0,2002
+Retail and Consumer Products Kmart Troy,43.0,2002
+Retail and Consumer Products Mattel Inc. El Segundo,43.0,2002
+Retail and Consumer Products Office Depot Delray Beach,43.0,2002
+"Retail and Consumer Products Sears, Roebuck and Co. Chicago",43.0,2002
+Retail and Consumer Products Toys R Us Framingham,43.0,2002
+Retail and Consumer Products Whirlpool Corp. Benton Harbor,43.0,2002
+Retail and Consumer Products Circuit City Stores Inc. Richmond,29.0,2002
+Retail and Consumer Products Hallmark Cards Kansas City,29.0,2002
+Retail and Consumer Products Hasbro Inc. Pawtucket,29.0,2002
+Retail and Consumer Products Maytag Corp. North Newton,29.0,2002
+Retail and Consumer Products Newell Rubbermaid Inc. Freeport,29.0,2002
+Retail and Consumer Products Rite Aid Corp. Camp Hill,29.0,2002
+Retail and Consumer Products Staples Inc. Westborough,29.0,2002
+Retail and Consumer Products Meijer Inc. Grand Rapids,14.0,2002
+Retail and Consumer Products Wal-Mart Stores Inc. Bentonville,14.0,2002
+Telecommunications ATT New York,86.0,2002
+Telecommunications BellSouth Corp. Atlanta,86.0,2002
+Telecommunications Cingular Wireless Atlanta,86.0,2002
+Telecommunications Qwest Communications International Inc. Englewood,86.0,2002
+Telecommunications SBC Communications Inc. San Antonio,86.0,2002
+Telecommunications Verizon Communications New York,86.0,2002
+Telecommunications Verio Inc. Englewood,71.0,2002
+Telecommunications Nextel Communications Reston,57.0,2002
+Telecommunications Northern Telecom Inc. Nashville,43.0,2002
+Telecommunications Sprint Corp. Westwood,29.0,2002
+Telecommunications WorldCom Inc. Clinton,29.0,2002
+Tobacco Philip Morris New York,57.0,2002
+‘Transportation and Travel Worldspan L.P. Atlanta,100.0,2002
+Transportation and Travel Ryder System Inc. Miami,71.0,2002
+Transportation and Travel The Boeing Co. Seattle,71.0,2002
+Transportation and Travel American President Lines Oakland,43.0,2002
+Utilities PGE Corp. San Francisco,86.0,2002
+Utilities Consolidated Edison Co. New York,71.0,2002
+Utilities Edison International Rosemead,71.0,2002
+Utilities Northeast Utilities System Berlin,71.0,2002
+Utilities Sempra Energy San Diego,71.0,2002
+Utilities Allegheny Energy Hagerstown,57.0,2002
+Utilities Cinergy Corp. Cincinnati,57.0,2002
+Utilities Baltimore Gas Electric Co. Baltimore,43.0,2002
+Utilities Pacificorp Portland,43.0,2002
+Kmart Troy,43.0,2002
+Chemicals and Biotechnology Du Pont E. I. du Pont de Nemours Wilmington,57.0,2002

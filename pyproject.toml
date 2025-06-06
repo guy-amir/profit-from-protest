@@ -21,7 +21,11 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
 ]
 dependencies = [
-    "numpy", "pandas", "matplotlib", "pytest"
+    "numpy", 
+    "pandas", 
+    "matplotlib", 
+    "camelot-py[cv]",
+    "pytest"
 ]
 
 [project.optional-dependencies]

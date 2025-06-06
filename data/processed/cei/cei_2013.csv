@@ -1,0 +1,626 @@
+Company,CEI_Score,Year
+"3M Co. St. Paul, MN e ee ee  : 100",97.0,2013
+"A.T. Kearney Inc. Chicago, IL e e e e e e e e",100.0,2013
+"Aetna Inc. Hartford, CT e e e e e e e e 100",77.0,2013
+"Alston Bird LLP Atlanta, GA e e e e e e e e",100.0,2013
+"American Express Co. New York, NY e e e e e e e e 100",91.0,2013
+"Apple Inc. Cupertino, CA e e e e e e e e 100",35.0,2013
+"Arnold Porter LLP Washington, DC e e e e e e e e",100.0,2013
+"ATT Inc. Dallas, TX e e e e e e e e 100",12.0,2013
+"Bain Co. Inc./ Bridgespan Group Boston, MA e e e e e e e e",100.0,2013
+"Baker McKenzie LLP Chicago, IL e e e e e e e e",100.0,2013
+"Bank of America Corp. Charlotte, NC e e e e e e e e 100",9.0,2013
+"Best Buy Co. Inc. Richfield, MN e e e e e e e e 100",47.0,2013
+"BMO Bankcorp Inc. Chicago, IL e e e e e e e e",100.0,2013
+"Boehringer Ingelheim USA Corp. Ridgefield, CT e e e e e e e e",100.0,2013
+"Boston Consulting Group Boston, MA e e e e e e e e",100.0,2013
+"Bryan Cave LLP Saint Louis, MO e e e e e e e e",100.0,2013
+"Cadwalader, Wickersham Taft LLP New York, NY e e e e e e e e",100.0,2013
+"Cardinal Health Inc. Dublin, OH ° ee ee  : 100",19.0,2013
+"Cargill Inc. Wayzata, MN e e e e e e e e",100.0,2013
+"Chapman and Cutler LLP Chicago, IL e e e e e e e e",100.0,2013
+"Chevron Corp. San Ramon, CA e e e e e e e e 100",3.0,2013
+"Choate, Hall Stewart LLP Boston, MA e e e e e e e e",100.0,2013
+"Choice Hotels International Inc. Silver Spring, MD e e e e e e e e",100.0,2013
+"Chrysler Group LLC Auburn Hills, MI e e e e e e e e 100",59.0,2013
+"Cisco Systems Inc. San Jose, CA e e e e e e e e 100",62.0,2013
+"Cleary, Gottlieb, Steen Hamilton LLP New York, NY e e e e e e e e",100.0,2013
+"Clifford Chance US LLP New York, NY e e e e e e e e",100.0,2013
+"Coca-Cola Co., The Atlanta, GA e e e e e e e e 100",70.0,2013
+"Comcast Corp. Philadelphia, PA e e e e e e e e 100",66.0,2013
+"Covington Burling LLP Washington, DC e e e e e e e e",100.0,2013
+"Crowell Moring LLP Washington, DC e e e e e e e e",100.0,2013
+"Dechert LLP Philadelphia, PA e e e e e e e e",100.0,2013
+"Delhaize America Inc. Salisbury, NC e e e e e e e e",100.0,2013
+"Deloitte LLP New York, NY e e e e e e e e",100.0,2013
+"Depository Trust Clearing Corp., The New York, NY e e e e e e e e",100.0,2013
+"Dewey LeBoeuf LLP New York, NY e e e e e e e e",100.0,2013
+"Dickstein Shapiro LLP Washington, DC e e e e e e e e",100.0,2013
+"Dorsey Whitney LLP Minneapolis, MN e e e e e e e e",100.0,2013
+"Dow Chemical Co., The Midland, MI e e e e e e e e 100",45.0,2013
+"EJ Gallo Winery Modesto, CA e e e e e e e e",100.0,2013
+"Ernst Young LLP New York, NY e ee ee",100.0,2013
+"Faegre Benson LLP Minneapolis, MN e e e e e e e e",100.0,2013
+"Federal Home Loan Mortgage Corp. Freddie Mac McLean, VA e e e e e e e e 100",20.0,2013
+"Ford Motor Co. Dearborn, MI e e e e e e e e 100",10.0,2013
+"Fried, Frank, Harris, Shriver Jacobson LLP New York, NY e e e e e e e e",100.0,2013
+"Genentech Inc. South San Francisco, CA e e e e e e e e",100.0,2013
+"General Motors Co. Detroit, MI e e e e e e e e 100",8.0,2013
+"Gibson, Dunn Crutcher LLP Los Angeles, CA e e e e e e e e",100.0,2013
+"GlaxoSmithKline LLC Research Triange Park, NC e e e e e e e e",100.0,2013
+"Goldman Sachs Group Inc., The New York, NY e e e e e e e e 100",54.0,2013
+"Google Inc. Mountain View, CA e e e e e e e e 100",92.0,2013
+"Group Health Cooperative Seattle, WA e e e e e e e e",100.0,2013
+"Harvard Pilgrim Health Care Inc. Wellesley, MA e e e e e e e e",100.0,2013
+"Herman Miller Inc. Zeeland, MI e e e e e e e e",100.0,2013
+"Hewlett-Packard Co. Palo Alto, CA e e e e e e e e 100",11.0,2013
+"Hinshaw Culbertson LLP Chicago, IL e e e e e e e e",100.0,2013
+"Hogan Lovells US LLP Washington, DC e e e e e e e e",100.0,2013
+"Hunton Williams LLP Richmond, VA e e e e e e e e",100.0,2013
+"ING North America Insurance Corp. Atlanta, GA e e e e e e e e",100.0,2013
+"International Business Machines Corp. IBM Armonk, NY e e e e e e e e 100",18.0,2013
+"Jenner Block LLP Chicago, IL e e e e e e e e",100.0,2013
+"JPMorgan Chase Co. New York, NY e e e e e e e e 100",13.0,2013
+"KL Gates LLP Pittsburgh, PA e e e e e e e e",100.0,2013
+"Katten Muchin Rosenman LLP Chicago, IL e e e e e e e e",100.0,2013
+"Kimpton Hotel Restaurant Group Inc. San Francisco, CA e e e e e e e e",100.0,2013
+"Kirkland Ellis LLP Chicago, IL e e e e e e e e",100.0,2013
+"KPMG LLP New York, NY e e e e e e e e",100.0,2013
+"Lockheed Martin Corp. Bethesda, MD e e e e e e e e 100",52.0,2013
+"Mayer Brown LLP Chicago, IL e e e e e e e e",100.0,2013
+"McDermott Will Emery LLP Chicago, IL e e e e e e e e",100.0,2013
+"Merck Co. Inc. Whitehouse Station, NU e e e e e e e e 100",53.0,2013
+"MetLife Inc. New York, NY e e e e e e e e 100",46.0,2013
+"Microsoft Corp. Redmond, WA e e e e e e e e 100",38.0,2013
+"Milbank, Tweed, Hadley McCloy LLP New York, NY e e e e e e e e",100.0,2013
+"Mintz, Levin, Cohn, Ferris, Glovsky Popeo PC Boston, MA e e e e e e e e",100.0,2013
+"Morgan Lewis Bockius LLP Philadelphia, PA e e e e e e e e",100.0,2013
+"Morrison Foerster LLP San Francisco, CA e e e e e e e e",100.0,2013
+"Navigant Consulting Inc. Chicago , IL e e e e e e e e",100.0,2013
+"Nixon Peabody LLP Rochester, NY e e e e e e e e",100.0,2013
+"Novartis Pharmaceuticals Corp. East Hanover, NJ e e e e e e e e",100.0,2013
+"O'Melveny Myers LLP Los Angeles, CA e e e e e e e e",100.0,2013
+"Oracle Corp. Redwood City, CA e e e e e e e e 100",96.0,2013
+"Orbitz Worldwide Inc. Chicago, IL e e e e e e e e",100.0,2013
+"Orrick, Herrington Sutcliffe LLP San Francisco, CA e e e e e e e e",100.0,2013
+"Patterson Belknap Webb Tyler LLP New York, NY e e e e e e e e",100.0,2013
+"Paul Hastings LLP Los Angeles, CA e e e e e e e e",100.0,2013
+"PepsiCo Inc. Purchase, NY e e e e e e e e 100",43.0,2013
+"Perkins Coie LLP Seattle, WA e e e e e e e e",100.0,2013
+"Pillsbury Winthrop Shaw Pittman LLP New York, NY e e e e e e e e",100.0,2013
+"PricewaterhouseCoopers LLP New York, NY e e e e e : e e e",100.0,2013
+"Prudential Financial Inc. Newark, NJ e e e e e e e e 100",64.0,2013
+"Robins, Kaplan, Miller Ciresi LLP Minneapolis, MN e e e e e e e e",100.0,2013
+"S.C. Johnson Son Inc. Racine, WI e e e e e e e e",100.0,2013
+"Schiff Hardin LLP Chicago, IL e e e e e e e e",100.0,2013
+"Sears Holdings Corp. Hoffman Estates, IL e e e e e e e e 100",57.0,2013
+"Sedgwick LLP San Francisco, CA e e e e e e e e",100.0,2013
+"Seyfarth Shaw LLP Chicago, IL e e e e e e e e",100.0,2013
+"Shearman Sterling LLP New York, NY e e e e e e e e",100.0,2013
+"Sheppard, Mullin, Richter Hampton LLP Los Angeles, CA e e e e e e e e",100.0,2013
+"Shook, Hardy Bacon LLP Kansas City, MO e e e e e e e e",100.0,2013
+"Sidley Austin LLP Chicago, IL e e e e e e e e",100.0,2013
+"Skadden, Arps, Slate, Meagher Flom LLP New York, NY e e e e e e e e",100.0,2013
+"SNR Denton US LLP Chicago, IL e e e e e e e e",100.0,2013
+"Sodexo Inc. Gaithersburg, MD e e e e e e e e",100.0,2013
+"Sony Pictures Entertainment Inc. Culver City, CA e e e e e e e e",100.0,2013
+"Southern California Edison Co. Rosemead, CA e e e e e e e e",100.0,2013
+"Sprint Nextel Corp. Overland Park, KS e e e e e e e e 100",85.0,2013
+"Starcom MediaVest Group Chicago, IL e e e e e e e e",100.0,2013
+"Stoel Rives LLP Portland, OR e e e e e e e e",100.0,2013
+"Supervalu Inc. Eden Prairie, MN e e e e e e e e 100",61.0,2013
+"Sutherland Asbill Brennan LLP Atlanta, GA e e e e e e e e",100.0,2013
+"Target Corp. Minneapolis, MN e e e e e e e e 100",33.0,2013
+"TD Bank, N.A. Wilmington , DE e e e e e e e e",100.0,2013
+"Teachers Insurance Annuity Assn. - College Retirement Equities Fund New York, NY e e e e e e e e 100",87.0,2013
+"Thompson Coburn LLP Saint Louis, MO e e e e e e e e",100.0,2013
+"Thompson Hine LLP Cleveland, OH e e e e e e e e",100.0,2013
+"Time Warner Inc. New York, NY e e e : e : e : e e e 100",95.0,2013
+"Toyota Financial Services Torrance, CA e e e e e e e e",100.0,2013
+"Toyota Motor Sales USA Inc. Torrance, CA e e e e e e e e",100.0,2013
+"Troutman Sanders LLP Atlanta, GA e e e e e e e e",100.0,2013
+"United Technologies Corp. Hartford, CT e e e e e e e e 100",44.0,2013
+"UnitedHealth Group Inc. Minnetonka, MN e e e e e e e e 100",22.0,2013
+"Volkswagen Group of America Inc. Herndon, VA e e e e e e e e",100.0,2013
+"Walgreen Co. Deerfield, IL e e e e e e e e 100",32.0,2013
+"Wells Fargo Co. San Francisco, CA e e e e e e e e 100",23.0,2013
+"White Case LLP New York, NY e e e e e e e e",100.0,2013
+"Wilmer Cutler Pickering Hale Dorr LLP Washington, DC e e e e e e e e",100.0,2013
+"Winston Strawn LLP Chicago, IL e e e e e e e e",100.0,2013
+"3M Co. St. Paul, MN  ee  100",97.0,2013
+"Accenture Ltd. New York, NY e e e e e e e e",100.0,2013
+"Acer Inc. Irvine, CA e e i}",35.0,2013
+"AEGON USA Inc. Cedar Rapids, IA e »",20.0,2013
+"Ahold USA Inc. Quincy, MA e e e » >",55.0,2013
+"Allianz Life Insurance Co. of North America Minneapolis, MN e e e » e",60.0,2013
+"Allscripts-Misys Healthcare Solutions Inc. Chicago, IL e » > d",30.0,2013
+"AmerisourceBergen Corp. Chesterbrook, PA 55",27.0,2013
+"Andrews Kurth LLP Houston, TX e e e e e e e",90.0,2013
+"Anheuser-Busch Companies Inc. St. Louis, MO e e e e e e e",90.0,2013
+"Archer Daniels Midland Co. Decatur, IL 35",39.0,2013
+"Arent Fox LLP Washington, DC e e e » e e e",85.0,2013
+"Astellas Pharma US, Inc. Deerfield, IL e e » e i} }",55.0,2013
+"Baker Daniels LLP Indianapolis, IN e e e e e e e",90.0,2013
+"Baldor Electric Co. Fort Smith, AR e » : : »",25.0,2013
+"Ballard Spahr LLP Philadelphia, PA e e e e e e e",90.0,2013
+"Bausch Lomb Inc. Rochester, NY e e e » e e i}",75.0,2013
+"Bayer Corp. Pittsburgh, PA e e e e e e",80.0,2013
+"Berkshire Hathaway Inc. Omaha, NE 0",7.0,2013
+"Bingham McCutchen LLP Boston, MA e e e e e e e e",100.0,2013
+"Boeing Co. Chicago, IL e e e » e e e 85",36.0,2013
+"BP America Inc. Houston, TX e e e e e e e",90.0,2013
+"Bracewell Giuliani Houston, TX e e e e e",60.0,2013
+"Bridgestone Americas Holding Inc. Nashville, TN e e » e e e",70.0,2013
+"Bright Horizons Family Solutions Inc. Watertown, MA e e e e e e e",90.0,2013
+"Bryan Cave LLP Saint Louis, MO  ee",100.0,2013
+"Burlington Northern Santa Fe Corp. Fort Worth, TX e »",20.0,2013
+"CS Wholesale Grocers Inc. Keene, NH e e",30.0,2013
+"Canadian Imperial Bank of Commerce New York, NY e e e » e e",70.0,2013
+"Capgemini U.S. LLC New York, NY e e e e e e e",90.0,2013
+"Cardinal Health Inc. Dublin, OH e e e e e e e e 100",19.0,2013
+"Carlson Companies Inc. Minnetonka, MN e e e » e e e",85.0,2013
+"Caterpillar Inc. Peoria, IL e e » e e e 70",58.0,2013
+"CDW Corp. Vernon Hills, IL e e e e e e e",90.0,2013
+"Chamberlin Edmonds Associates Inc. Atlanta, GA e e » »",40.0,2013
+"Cisco Systems Inc. San Jose, CA e : e : e : e : e e : e : e 100",62.0,2013
+"Classified Ventures LLC Chicago, IL e e e e e e e",90.0,2013
+"CNA Insurance Chicago, IL e e e » e e e",85.0,2013
+"Compass Bancshares Inc. BBVA Compass Birmingham, AL e e » » e",55.0,2013
+"Compass Group USA Inc. Charlotte, NC e e e d »",50.0,2013
+"Compuware Corp. Detroit, MI e e e > » »",60.0,2013
+"Corbis Corp. Seattle, WA e e e »",50.0,2013
+"Costco Wholesale Corp. Issaquah, WA e e e e e e e 90",28.0,2013
+"Cox Enterprises Inc. Atlanta, GA e e e e e e e",90.0,2013
+"CVS Caremark Corp. Woonsocket, RI e : e : e : > : : e : : 60",21.0,2013
+"Davis Polk Wardwell LLP New York, NY e e e e e e",75.0,2013
+"Davis Wright Tremaine LLP Seattle, WA e e e e e e e",85.0,2013
+"Debevoise Plimpton LLP New York, NY e e e e e e e e",100.0,2013
+"Deere Co. Moline, IL e e e e e 65",98.0,2013
+"Delta Air Lines Inc. Atlanta, GA e e e e e e e 90",88.0,2013
+"Deutsche Bank New York, NY e e e e e e e e",100.0,2013
+"Digitas Inc. Boston, MA e e e e e e e e",100.0,2013
+"Dollar Thrifty Automotive Group Inc. Tulsa, OK e e e > e > »",70.0,2013
+"Drinker Biddle Reath LLP Philadelphia, PA e e e e e e e",90.0,2013
+"Duane Morris LLP Philadelphia, PA e e e » e e e",85.0,2013
+"Dykema Gossett PLLC Detroit, MI e e e > e e e e",95.0,2013
+"EJ Gallo Winery Modesto, CA e e e e : e : e e e",100.0,2013
+"E. |. du Pont de Nemours and Co. DuPont Wilmington, DE e e e » e e e e 95",84.0,2013
+"Edwards Wildman Palmer LLP Boston, MA e e e e e e e e",100.0,2013
+"Enterprise Holdings Inc. St. Louis, MO e e e e e",65.0,2013
+"Enterprise Products Partners LP Houston, TX 15",80.0,2013
+"Epstein Becker Green PC New York, NY e e e e e e e",90.0,2013
+"Ernst Young LLP New York, NY e e e e e e e e",100.0,2013
+"Esurance Inc. San Francisco, CA e e e e e » e",85.0,2013
+"Excellus Health Plan Inc. Rochester, NY e e e e e e e",90.0,2013
+"Express Scripts Inc. St. Louis, MO 30",55.0,2013
+"Exxon Mobil Corp. Irving, TX e By",2.0,2013
+"Federal Reserve Bank of Boston Boston, MA e e e e e e",80.0,2013
+"FedEx Corp. Memphis, TN e e e d e e e 85",73.0,2013
+"Financial Industry Regulatory Authority Inc. Washington, DC e e e e e e e",90.0,2013
+"Finnegan, Henderson, Farabow, Garrett Dunner LLP Washington, DC e e e e e e e",90.0,2013
+. : ’ Percentage of the rated employers who are,93.0,2013
+| | 14832_Textindd / : PM | |,18.0,2013
+| 14832_Text.indd /2012 : PM |,19.0,2013
+"religion, sex including pregnancy, national origin, age or older, disability and genetic",40.0,2013
+"gay, bisexual and transgender employees, but it remains legal in states to discriminate",29.0,2013
+of CEI-rated employers provide employment protections,99.0,2013
+| of CEI-rated employers provide employment protections on,8.0,2013
+| | 14832_Text.indd /2012 : PM | |,20.0,2013
+> Arizona,8.0,2013
+| | 14832_Text.indd /2012 : pn | |,22.0,2013
+"states and the District of Columbia California 1992, 2003,",16.0,2013
+"Illinois 2006, lowa 2007, Massachusetts 1989, effective July , 2072,",1.0,2013
+states and the District of Columbia In addition to the states above,21.0,2013
+| | 14832_Text.indd // : PM | |,23.0,2013
+of CEl-rated employers provide medical and comprehensive health,89.0,2013
+| | 14832_Textindd /2012 : PM | |,24.0,2013
+Ny f percent of emplo' -,20.0,2013
+~~: overall compensation. _ ™,4.0,2013
+_ | 14832_Text.indd // : pn | _,26.0,2013
+of CEl-rated employers have complete parity in spousal and partner,65.0,2013
+Bereavement Leave,95.0,2013
+Employee assistance programs,95.0,2013
+FMLA-type Leave,87.0,2013
+Employee discounts,83.0,2013
+Relocation assistance,80.0,2013
+Supplemental Life Insurance,79.0,2013
+Adoption,57.0,2013
+"Spotlight on Baby | January , 2011 and every day for the next years, , Baby Boomers will reach age ,",1.0,2013
+"Retiree Health | Of the CEl-rated employers offering retiree health care coverage, percent of CEl-rated",85.0,2013
+"rollover provision as of January , 2010. The PPA also allows for hardship withdrawals from",1.0,2013
+their employees; percent of those with pensions offer QUSAs to their employees’,74.0,2013
+"domestic partners, while percent offer QPSAs.",71.0,2013
+"of major U.S. employers affording transgender-inclusive health care coverage, from in",49.0,2013
+of this year’s rated businesses afford transgender-inclusive,42.0,2013
+| | 14832_Text.indd /2012 :47PM | |,28.0,2013
+of CEl-rated employers offer a robust set of practices,69.0,2013
+Findings | Organizational Competency in LGBT Inclusion,1.0,2013
+: 2008 == ee,0.0,2013
+: : Vo Businesses with Inclusive _,68.0,2013
+| | 14832_Text.indd // : pn | |,31.0,2013
+"Currently, percent of CEI participants allow employees to voluntarily disclose their sexual",44.0,2013
+of CEl-rated employers have an employee resource group or,83.0,2013
+"have employee groups, percent have diversity councils and percent of rated",77.0,2013
+: : O/ with an LGBT Employee,7.0,2013
+"recognized LGBT employee group, percent reported being expressly for LGBT and allied",86.0,2013
+"A majority percent of executive champions identify as allies, while percent reported",64.0,2013
+: . ” CEl-Rated Employee groups are,96.0,2013
+| 14832_Text_X.indd // : PM |,35.0,2013
+Criterion | Businesses That Positively Engage the External LGBT Community,4.0,2013
+of CEl-rated businesses report some form of public engagement,80.0,2013
+This percent of participants represents at least three discreet engagement efforts per,80.0,2013
+"ett te, - .",100.0,2013
+"° P P90, —",75.0,2013
+| 14832_Text.indd // : PM |,37.0,2013
+"and the businesses that contract them. By courting LGBT-owned businesses, percent of this",29.0,2013
+"In another show of steadfast support for the LGBT community, percent of CEI participants",60.0,2013
+"2011-2012 Amazon.com Inc. McGraw-Hill Companies Skadden, Arps, Slate,",78.0,2013
+Washington Google Inc. Nixon Peabody LLP Vulcan Inc.,92.0,2013
+Brief/s to U.S. Court | Aetna Inc. Foley Hoag LLP New Balance Athletic Shoe Inc.,77.0,2013
+of Appeals opposing | Amold Porter LLP Gap Inc. Nike Inc.,48.0,2013
+the federal Defense | Baker McKenzie LLP Goulston Storrs Nixon Peabody LLP,1.0,2013
+"of Marriage Act Bank of New York Mellon Goodwin Proctor LLP Ogilvy Group Inc., The",35.0,2013
+Bright Horizons Family Solutions Inc. Frankel LLP Stonyfield Farm Inc.,87.0,2013
+Edwards Wildman Palmer LLP Microsoft Corp.,92.0,2013
+The majority of businesses surveyed in the CEI — percent of rated employers — have,68.0,2013
+"each of their global operations, and percent have distinct global codes of conduct or",52.0,2013
+businesses report such established ERGs are in place overseas and an additional,46.0,2013
+of conduct or employment standards that are inclusive,5.0,2013
+g / f |,8.0,2013
+of Percent,100.0,2013
+wi iw iwoicad:ico:cdio:wi:if <,3.0,2013
+Employer Headquarters Location la 1b : 2a 2b : 2c : 3a | 3b : : a,4.0,2013
+"3M Co. St. Paul, MN e ee ee",100.0,2013
+"AAA Northern California, Nevada Utah Insurance Exchange Walnut Creek, CA e e e e e e e e",100.0,2013
+"Abercrombie Fitch Co. New Albany, OH e e e e e e e e",100.0,2013
+"Aetna Inc. Hartford, CT e e e e e e e e",100.0,2013
+"AIG New York, NY e e e e e e e e",100.0,2013
+"Akin, Gump, Strauss, Hauer Feld LLP Washington, DC e e e e e e e e",100.0,2013
+"Alcatel-Lucent Murray Hill, NJ e e e e e e e e",100.0,2013
+"Alcoa Inc. New York, NY e e e e e e e e",100.0,2013
+"AMC Entertainment Inc. Kansas City, MO e e e e e e e e",100.0,2013
+"American Express Co. New York, NY e e e e e e e e",100.0,2013
+"Ameriprise Financial Inc. Minneapolis, MN e e e e e e e e",100.0,2013
+"AMR Corp. American Airlines Fort Worth, TX e e e e e e e e",100.0,2013
+"Aon Corp. Chicago, IL e e e e e e e e",100.0,2013
+"Apple Inc. Cupertino, CA e e e e e e e e",100.0,2013
+"ATT Inc. Dallas, TX e e e e e e e e",100.0,2013
+"Automatic Data Processing Inc. Roseland, NJ e e e e e e e e",100.0,2013
+"Avon Products Inc. New York, NY e e e e e e e e",100.0,2013
+"Bank of America Corp. Charlotte, NC e e e e e e e e",100.0,2013
+"Bank of New York Mellon Corp., The New York, NY e e e e e e e e",100.0,2013
+"Barclays New York, NY e e e e t e e e",100.0,2013
+"Barnes Noble Inc. New York, NY e e e e e e e e",100.0,2013
+"Best Buy Co. Inc. Richfield, MN e e e e e e e e",100.0,2013
+"BlackRock New York, NY e e e e e e e e",100.0,2013
+"Blue Cross Blue Shield of Florida Inc. Jacksonville, FL e e e e e e e e",100.0,2013
+"Blue Cross Blue Shield of Minnesota Eagan, MN e e e e e e e e",100.0,2013
+"BNP Paribas New York, NY e e e e e e e e",100.0,2013
+"Booz Allen Hamilton Inc. McLean, VA e e e e e e e e",100.0,2013
+"Bristol-Myers Squibb Co. New York, NY e e e e e e e e",100.0,2013
+"Broadridge Financial Solutions Inc. Lake Success, NY e e e e e e e e",100.0,2013
+"Brown Rudnick LLP Boston, MA e e t e t e t e",100.0,2013
+"Brown-Forman Corp. Louisville, KY e e e e e e e e",100.0,2013
+"CA Inc. Islandia, NY e e e e e e e e",100.0,2013
+"Caesars Entertainment Corp. Las Vegas, NV e e e e e e e e",100.0,2013
+"Capital One Financial Corp. McLean, VA e e e : e : e : e e e",100.0,2013
+wi Oo: OF oi oi: o:;:wu0,0.0,2013
+"Cardinal Health Inc. Dublin, OH ° ee ee",100.0,2013
+"Carlton Fields PA Tampa, FL e e e e e e e e",100.0,2013
+"Charles Schwab Corp., The San Francisco, CA e e e e e e e e",100.0,2013
+"Chevron Corp. San Ramon, CA e e e e e e e e",100.0,2013
+"Chrysler Group LLC Auburn Hills, MI e e e e e e e e",100.0,2013
+"Chubb Corp. Warren, NJ e e e e e e e e",100.0,2013
+"CIGNA Corp. Bloomfield, CT e e e e e e e e",100.0,2013
+"Cisco Systems Inc. San Jose, CA e e e e e e e e",100.0,2013
+"Citigroup Inc. New York, NY e e e e e e e e",100.0,2013
+"Clorox Co. Oakland, CA e e e e e e e e A411",100.0,2013
+"Coca-Cola Co., The Atlanta, GA e e e e e e e e",100.0,2013
+"Comcast Corp. Philadelphia, PA e e e e e e e e",100.0,2013
+"Corning Inc. Corning, NY e e e e e e e e",100.0,2013
+"Cummins Inc. Columbus, IN e e e e e e e e",100.0,2013
+"Darden Restaurants Inc. Orlando, FL e e e e e e e e",100.0,2013
+"Dell Inc. Round Rock, TX e e e e e e e e Al",100.0,2013
+"Diageo North America Norwalk, CT e e e e e e e e",100.0,2013
+"DLA Piper Baltimore, MD e e e e e e e e",100.0,2013
+"Dow Chemical Co., The Midland, MI e e e e e e e e",100.0,2013
+"Eastman Kodak Co. Rochester, NY e e e e e e e e",100.0,2013
+"eBay Inc. San Jose, CA e e e e e e e e",100.0,2013
+"Ecolab Inc. St. Paul, MN e e e e e e e e",100.0,2013
+"Electronic Arts Inc. Redwood City, CA e e e e e e e e",100.0,2013
+"Eli Lilly Co. Indianapolis, IN e e e e e e e e",100.0,2013
+"EMC Corp. Hopkinton, MA e ry e : e : e : e e e",100.0,2013
+£ ££ BE ££ FE BF FB ee =,5.0,2013
+"Exelon Corp. Chicago, IL e e e e e e e e",100.0,2013
+"Federal Home Loan Mortgage Corp. Freddie Mac McLean, VA e e e e e e e e",100.0,2013
+"Fenwick West LLP Mountain View, CA e e e e e e e e",100.0,2013
+"Foley Lardner LLP Milwaukee, WI e e e e e e e e",100.0,2013
+"Ford Motor Co. Dearborn, MI e e e e e e e e",100.0,2013
+"GameStop Corp. Grapevine, TX e e e e e e e e",100.0,2013
+"Gap Inc. San Francisco, CA e e e e e e e e",100.0,2013
+"General Mills Inc. Minneapolis, MN e e e e e e e e",100.0,2013
+"General Motors Co. Detroit, MI e e e e e e e e",100.0,2013
+"Goldman Sachs Group Inc., The New York, NY e e e e e e e e",100.0,2013
+"Google Inc. Mountain View, CA e e e e e e e e",100.0,2013
+"Hartford Financial Services Group Inc., The Hartford, CT e e e e e e e e",100.0,2013
+"Hewlett-Packard Co. Palo Alto, CA e e e e e e e e",100.0,2013
+"HSBC - North America New York, NY e e e e e e e e",100.0,2013
+"Hyatt Hotels Corp. Chicago, IL e e e e e e e e",100.0,2013
+"International Business Machines Corp. IBM Armonk, NY e e e e e e e e",100.0,2013
+"Interpublic Group of Companies Inc. New York, NY e e e e e e e e",100.0,2013
+"Intuit Inc. Mountain View, CA e e e e e e e e",100.0,2013
+"Johnson Johnson New Brunswick, NJ e e e e e e e e",100.0,2013
+"JPMorgan Chase Co. New York, NY e e e e e e e e",100.0,2013
+"Kaiser Permanente Oakland, CA e e e e e e e e",100.0,2013
+"Kellogg Co. Battle Creek, MI e e e e e e e e",100.0,2013
+"KeyCorp Cleveland, OH e e e e e e e e",100.0,2013
+"Kraft Foods Inc. Northfield, IL e e e e e e e e",100.0,2013
+"Kramer Levin Naftalis Frankel LLP New York, NY e e e e e e e e",100.0,2013
+"Levi Strauss Co. San Francisco, CA e e e e e e e e",100.0,2013
+"Lexmark International Inc. Lexington, KY e e e : e : e : e e e",100.0,2013
+o » » ¢ Be,2.0,2013
+Employer Headquarters Location la 1b : 2a 2b 2c | 3a. 3b : : a,4.0,2013
+"Limited Brands Inc. Columbus, OH e ee ee",100.0,2013
+"Littler Mendelson PC San Francisco, CA e e e e e e e e",100.0,2013
+"Lockheed Martin Corp. Bethesda, MD e e e e e e e e",100.0,2013
+"Marsh McLennan Companies Inc. New York, NY e e e e e e e e",100.0,2013
+"MasterCard Inc. Purchase, NY e e e e e e e e",100.0,2013
+"McKinsey Co. Inc. New York, NY e e e e e e e e",100.0,2013
+"Medtronic Inc. Minneapolis, MN e e e e e e e e",100.0,2013
+"Merck Co. Inc. Whitehouse Station, NU e e e e e e e e",100.0,2013
+"MetLife Inc. New York, NY e e e e e e e e",100.0,2013
+"MGM Resorts International Las Vegas, NV e e e e e e e e",100.0,2013
+"Microsoft Corp. Redmond, WA e e e e e e e e",100.0,2013
+"MillerCoors LLC Chicago, IL e e e e e e e e",100.0,2013
+"Mitchell Gold + Bob Williams Taylorsville, NC e e e e e e e e",100.0,2013
+"Monsanto Co. St. Louis, MO e e e e e e e e",100.0,2013
+"Moody's Corp. New York, NY e e e e e e e e",100.0,2013
+"Morgan Stanley New York, NY e e e e e e e e",100.0,2013
+"Nationwide Columbus, OH e e e e e e e e",100.0,2013
+"Nike Inc. Beaverton, OR e e e e e e e e",100.0,2013
+"Nokia Corp. Irving, TX e e e e e e e e",100.0,2013
+"Nordstrom Inc. Seattle, WA e e e e e e e e",100.0,2013
+"Northern Trust Corp. Chicago, IL e e e e e e e e",100.0,2013
+"Office Depot Inc. Boca Raton, FL e e e e e e e e",100.0,2013
+"Oracle Corp. Redwood City, CA e e e e e e e e",100.0,2013
+"Owens Corning Toledo, OH e e e e e e e e",100.0,2013
+"Paul, Weiss, Rifkind, Wharton Garrison LLP New York, NY e e e e e e e e",100.0,2013
+"PepsiCo Inc. Purchase, NY e e e e e e e e",100.0,2013
+"Pfizer Inc. New York, NY e e e e e e e e",100.0,2013
+"PGE Corp. San Francisco, CA e e e e e e e e",100.0,2013
+"PNC Financial Services Group Inc., The Pittsburgh, PA e e e e e e e e",100.0,2013
+"Progressive Corp., The Mayfield Village, OH e ee ee",100.0,2013
+"Prudential Financial Inc. Newark, NJ e e e e e e e e",100.0,2013
+"Publicis Inc. New York, NY e e e e e e e e",100.0,2013
+"Raytheon Co. Waltham, MA e e e e e e e e",100.0,2013
+"Razorfish Seattle, WA e e e e e e e e",100.0,2013
+"RBC Wealth Management Minneapolis, MN e e e e e e e e",100.0,2013
+"Replacements, Ltd. McLeansville, NC e e e e e e e e",100.0,2013
+"Rockwell Automation Inc. Milwaukee, WI e e e e e e e e",100.0,2013
+"Ropes Gray LLP Boston, MA e e e e e e e e",100.0,2013
+"Sears Holdings Corp. Hoffman Estates, IL e e e e e e e e",100.0,2013
+"Sempra Energy San Diego, CA e e e e e e e e",100.0,2013
+"Simpson, Thacher Bartlett LLP New York, NY e e e e e e e e",100.0,2013
+"Sprint Nextel Corp. Overland Park, KS e e e e e e e e",100.0,2013
+"Squire Sanders Cleveland, OH e e e e e e e e",100.0,2013
+"Staples Inc. Framingham, MA e e e e e e e e",100.0,2013
+"Starwood Hotels Resorts Worldwide Stamford, CT e e e e e e e e",100.0,2013
+"Sun Life Financial Inc. U.S. Wellesley Hills, MA e e e e e e e e",100.0,2013
+"SunTrust Banks Inc. Atlanta, GA e e e e e e e e",100.0,2013
+"Supervalu Inc. Eden Prairie, MN e e e e e e e e",100.0,2013
+"Symantec Corp. Mountain View, CA e e e e e e e e",100.0,2013
+"Target Corp. Minneapolis, MN e e e e e e e e",100.0,2013
+"Teachers Insurance Annuity Assn. - College Retirement Equities Fund New York, NY e e e e e e e e",100.0,2013
+"Tech Data Corp. Clearwater, FL e e e e e e e e",100.0,2013
+"Thomson Reuters New York, NY e e e e e e e e",100.0,2013
+"Time Warner Cable Inc. New York, NY e e e e e e e e",100.0,2013
+"Time Warner Inc. New York, NY e e e : e : e : e e e",100.0,2013
+"TJX Companies Inc., The Framingham, MA e ee ee",100.0,2013
+"U.S. Bancorp Minneapolis, MN e e e e e e e e",100.0,2013
+"UBS AG Stamford, CT e e e e e e e e",100.0,2013
+"Unilever Englewood Cliffs, NJ e e e e e e e e",100.0,2013
+"United Airlines Chicago, IL e e e e e e e e",100.0,2013
+"United Technologies Corp. Hartford, CT e e e e e e e e",100.0,2013
+"UnitedHealth Group Inc. Minnetonka, MN e e e e e e e e",100.0,2013
+"Verizon Communications Inc. New York, NY e e e e e e e e",100.0,2013
+"Wachtell, Lipton, Rosen Katz LLP New York, NY e e e e e e e e",100.0,2013
+"Walgreen Co. Deerfield, IL e e e e e e e e",100.0,2013
+"Walt Disney Co., The Burbank, CA e e e e e e e e",100.0,2013
+"Wells Fargo Co. San Francisco, CA e e e e e e e e",100.0,2013
+"Whirlpool Corp. Benton Harbor, MI e e e e e e e e",100.0,2013
+"Wyndham Worldwide Corp. Parsippany, NJ e e e e e e e e",100.0,2013
+"Wynn Resorts Ltd. Las Vegas, NV e e e e e e e e",100.0,2013
+"Xerox Corp. Norwalk, CT e e e e e e e e",100.0,2013
+"Yahoo! Inc. Sunnyvale, CA e e e : e e : e e e",100.0,2013
+Employer Headquarters Location la : 1b : 2a 2b = 2c 3a : 3b : : a,4.0,2013
+"3M Co. St. Paul, MN  ee",100.0,2013
+"A|X Armani Exchange New York, NY e e e e e e d e",95.0,2013
+"Abbott Laboratories Abbott Park, IL e e i} e e",60.0,2013
+"Adecco North America LLC Melville, NY e e e e e e e",90.0,2013
+"Adobe Systems Inc. San Jose, CA e e e e e e e",90.0,2013
+"Advanced Micro Devices Inc. Sunnyvale, CA e e e e > »",65.0,2013
+"AECOM Technology Corp. Los Angeles, CA e e e e e e e",90.0,2013
+"Aéropostale Inc. New York, NY e e e e e d »",75.0,2013
+"AES Corp., The Arlington,",15.0,2013
+"AFLAC Inc. Columbus,",30.0,2013
+"Agco Duluth,",15.0,2013
+"Agilent Technologies Inc. Santa Clara, CA e e e e e e e",90.0,2013
+"Air Products Chemicals Inc. Allentown, PA e e e e e e e",90.0,2013
+"AK Steel Holding Corp. West Chester,",30.0,2013
+"Alaska Air Group Inc. Seattle, WA e e e e e e e",90.0,2013
+"Allegheny Energy Inc. Greensburg, PA e",15.0,2013
+"Allergan Inc. Irvine,",15.0,2013
+"Alliant Energy Corp. Madison, WI e e » e »",50.0,2013
+"Alliant Techsystems Inc. Minneapolis, MN e e e »",50.0,2013
+"Allstate Corp., The Northbrook, IL e e e e e e",1.0,2013
+"Ally Financial Inc. Detroit,",15.0,2013
+"Altria Group Inc. Richmond,",15.0,2013
+"Amazon.com Inc. Seattle, WA e e e e e e e",90.0,2013
+"Ameren Corp. St. Louis, MO e e e » e e e",85.0,2013
+"American Eagle Outfitters Inc. Pittsburgh, PA e e e e e e d e",95.0,2013
+"American Electric Power Co. Inc. Columbus, OH e e e e »",55.0,2013
+"American Family Insurance Group Madison, WI e e » » e",55.0,2013
+"American Financial Group Cincinnati, OH :",1.0,2013
+Employer Headquarters Location la : 1b : 2a : 2b 2c 3a: 3b : : a,4.0,2013
+"Amerigroup Corp. Virginia Beach, VA : : : : :",15.0,2013
+"AmerisourceBergen Corp. Chesterbrook,",55.0,2013
+"Amgen Inc. Thousand Oaks, CA e e e » e",60.0,2013
+"Anadarko Petroleum The Woodlands,",15.0,2013
+"Anixter International Inc. Glenview,",30.0,2013
+"AOL New York, NY e e e e e e e",90.0,2013
+"Apache Corp. Houston,",30.0,2013
+"Apollo Group Inc. Phoenix,",15.0,2013
+"Applied Materials Inc. Santa Clara, CA e e e » e e e",85.0,2013
+"Aramark Corp. Philadelphia, PA e e e e e e e",90.0,2013
+"Archer Daniels Midland Co. Decatur,",35.0,2013
+"Arrow Electronics Melville,",15.0,2013
+"ArvinMeritor Inc. Troy,",15.0,2013
+"Ashland Inc. Covington,",15.0,2013
+"Assurant New York, NY e e e e e e",1.0,2013
+"AstraZeneca PLC Wilmington, DE e e » e »",50.0,2013
+"Atmos Energy Corp. Dallas,",30.0,2013
+"Austin Radiological Assn. Austin, TX e e » >",40.0,2013
+"Autoliv Inc. Auburn Hills,",15.0,2013
+"AutoNation Inc. Fort Lauderdale,",15.0,2013
+"Auto-Owners Insurance Group Lansing,",0.0,2013
+"AutoZone Inc. Memphis, TN e",15.0,2013
+"Avaya Inc. Basking Ridge, NJ e e e e e e »",80.0,2013
+"Avery Dennison Pasadena,",15.0,2013
+"Avis Budget Group Inc. Parsippany, NJ e e » e »",50.0,2013
+"Avnet Inc. Phoenix, AZ e e » e >",50.0,2013
+"B J's Wholesale Club Westborough, MA e e »",35.0,2013
+"Baker Botts LLP Houston, TX e e e e e e e",90.0,2013
+"Baker Hughes Inc. Houston,",15.0,2013
+"Baker, Donelson, Bearman, Caldwell Berkowitz PC Memphis, TN e e e » e e e",85.0,2013
+im °,8.0,2013
+Employer Headquarters Location la : 1b 2a 2b 2c 3a : 3b : : a,4.0,2013
+"Ball Corp. Broomfield, CO e ie >: e >» »",55.0,2013
+"Barclays New York, NY e e e e e e e e",100.0,2013
+"BASF Corp. Florham Park, NJ e e e e e e e",90.0,2013
+"Baxter International Inc. Deerfield, IL e e e » e e",75.0,2013
+"BBT Corp. Winston-Salem, NC e e e » e » e",80.0,2013
+"Becton, Dickinson and Co. Franklin Lakes,",30.0,2013
+"Bed Bath Beyond Inc. Union,",30.0,2013
+"Bemis Co. Inc. Neenah,",15.0,2013
+"Berkshire Hathaway Inc. Omaha,",0.0,2013
+"Big Lots Columbus,",15.0,2013
+"Biogen Idec Inc Weston, MA e e e » e e e",85.0,2013
+"Blue Cross Blue Shield of Michigan Detroit, MI e e » e e e e",80.0,2013
+"Blue Cross Blue Shield of North Carolina Durham, NC e e e e e e",75.0,2013
+"BMC Software Inc. Houston, TX e e e e e e",80.0,2013
+"Bob Evans Farms Inc. Columbus, OH e e e » e e »",75.0,2013
+"Boeing Co. Chicago, IL e e e » e e e",85.0,2013
+"Bon-Ton Stores, Inc. York, PA e e e e e e e",90.0,2013
+"BorgWarner Inc. Auburn Hills,",30.0,2013
+"Boston Scientific Corp. Natick, MA e e e e e",65.0,2013
+"Brightpoint, Inc Indianapolis, IN e » d »",30.0,2013
+"Brinker International Inc. Dallas, TX e e e » e",60.0,2013
+"Broadcom Corp. Irvine,",20.0,2013
+"Brown Rudnick LLP Boston, MA e e e e e e e e",100.0,2013
+"Brown Shoe Company, Inc. St. Louis, MO e » e » TAT",35.0,2013
+"Brown-Forman Corp. Louisville, KY e e e e : e : e e e",100.0,2013
+| | 14832_Text_X.indd // : PM | |,54.0,2013
+"Burger King Corp. Miami, FL e e > » e",55.0,2013
+"Burlington Coat Factory Warehouse Corp. Burlington, NJ e e e e d",60.0,2013
+"C. H. Robinson Worldwide Eden Prairie,",15.0,2013
+"Calpine Corp. Houston, TX e e » >",40.0,2013
+"Cameron International Corp. Houston,",0.0,2013
+"Campbell Soup Co. Camden, NJ e e e e e e e",90.0,2013
+"Capital One Financial Corp. McLean, VA e e e e e e e e",100.0,2013
+"Cardinal Health Inc. Dublin, OH e e e e e e e e",100.0,2013
+"CareFusion Corp. San Diego, CA e e e e e e e",90.0,2013
+"CarMax Inc. Richmond, VA e e e » e e e",85.0,2013
+"Caterpillar Inc. Peoria, IL e e » e e e",70.0,2013
+"CBRE, Inc. Los Angeles, CA e e e » e e e",85.0,2013
+"CBS Corp. New York, NY e e e e e e e",90.0,2013
+"CC Media Holdings Inc. Clear Channel San Antonio, TX e e e e e",1.0,2013
+"Celanese Corp. Dallas,",15.0,2013
+"CenterPoint Energy Inc. Houston,",15.0,2013
+"CenturyLink Inc. Monroe,",50.0,2013
+"Cerner Corp. Kansas City, MO e e e » e » »",70.0,2013
+"CH2M HILL Companies Ltd. Englewood, CO e e e » e e e",85.0,2013
+"Chadbourne Parke LLP New York, NY e e e e e e e",90.0,2013
+"Charter Communications St. Louis,",15.0,2013
+"Chesapeake Energy Corp Oklahoma City,",15.0,2013
+"Chipotle Mexican Grill Inc. Denver, CO e e e e d e",75.0,2013
+"CIGNA Corp. Bloomfield, CT e e e e : e : e e e",100.0,2013
+"Cisco Systems Inc. San Jose, CA e : e : e : e : e e : e : e",100.0,2013
+"CIT Group Inc. New York, NY e",15.0,2013
+"Cleveland-Cliffs Inc. Cleveland, OH ATT",30.0,2013
+"CMS Energy Services Jackson, MI e e » »",35.0,2013
+"Coach Inc. New York, NY e e e e e",1.0,2013
+"Cognizant Technology Solutions Corp. Teaneck,",15.0,2013
+"Colgate-Palmolive Co. New York, NY e e e » e e e",85.0,2013
+"Comerica Inc. Dallas, TX e e e » e e e e",95.0,2013
+"Commercial Metals Irving,",30.0,2013
+"Community Health Systems Inc. Franklin,",30.0,2013
+"Computer Sciences Corp. CSC Falls Church, VA e e e } e e e",1.0,2013
+"ConAgra Foods Inc. Omaha, NE e e e » e e e e",95.0,2013
+"ConocoPhillips Houston, TX e e » e e",55.0,2013
+"Consol Energy, Inc. Canonsburg,",15.0,2013
+"Consolidated Edison Co. New York, NY e e e e e e e",90.0,2013
+"Constellation Energy Group Inc. Baltimore, MD e e e e e e e",90.0,2013
+"Convergys Corp. Cincinnati, OH e » e »",35.0,2013
+"Con-way Inc. Ann Arbor,",30.0,2013
+"Cooper Tire Rubber Co. Findlay, OH e » d",25.0,2013
+"CoreLogic Santa Ana, CA e e e e e e e",90.0,2013
+"Core-Mark Holding Company Inc. South San Francisco, CA A412",0.0,2013
+"Costco Wholesale Corp. Issaquah, WA e e e e e e e",90.0,2013
+"Coventry Health Care Bethesda,",15.0,2013
+"Cracker Barrel Old Country Store Inc. Lebanon, TN e > e »",35.0,2013
+"Crate and Barrel / CB2 Northbrook, IL e e e e e e e",90.0,2013
+"Cravath, Swaine Moore LLP. New York, NY e e e e e e e",90.0,2013
+"Crown Holdings Philadelphia,",15.0,2013
+"CSX Corp. Jacksonville, FL e e e » e e e",85.0,2013
+"CUNA Mutual Insurance Group Madison, WI e » : : e",30.0,2013
+"CVS Caremark Corp. Woonsocket, RI e : e : e : > : : e",60.0,2013
+"Dana Holding Corp. Maumee, OH e e > » »",45.0,2013
+"Danaher Corp. Washington, DC e e e d",50.0,2013
+"DaVita Inc. Denver,",15.0,2013
+"Dean Foods Co. Dallas, TX e e » d",40.0,2013
+"Deere Co. Moline, IL e e e e e",65.0,2013
+"Delta Air Lines Inc. Atlanta, GA e e e e e e e",90.0,2013
+"Devon Energy Corp. Oklahoma City,",30.0,2013
+"Dick's Sporting Goods Inc. Coraopolis,",15.0,2013
+"Dillard's Inc. Little Rock,",30.0,2013
+"DIRECTV El Segundo, CA e e e » e e e e",95.0,2013
+"Discover Financial Services Riverwoods, IL e e » » »",45.0,2013
+"Dole Food Co. Inc. Westlake Village, CA e e",30.0,2013
+"Dollar General Corp. Goodlettsville, TN e e » e",45.0,2013
+"Dollar Tree Stores Inc. Chesapeake,",30.0,2013
+"Dominion Resources Inc. Richmond, VA e e e » e e e",85.0,2013
+"Domino's Pizza Inc. Ann Arbor, MI e » e »",35.0,2013
+"Domtar Corp. Fort Mill,",15.0,2013
+"Dover Corp. Downers Grove,",15.0,2013
+"Dr Pepper Snapple Group Inc. Plano, TX e e e e e",70.0,2013
+"DTE Energy Co. Detroit, MI e » e >",35.0,2013
+"Duke Energy Corp. Charlotte, NC e e e e e e e",90.0,2013
+"Dun Bradstreet Corp., The Short Hills, NJ e e",30.0,2013
+"ETRADE Financial Corp. New York, NY  >: ae",55.0,2013
+"E. |. du Pont de Nemours and Co. DuPont Wilmington, DE e e e » e e e e",95.0,2013
+"EarthLink Inc. Atlanta, GA e e e » d",55.0,2013
+"Eastman Chemical Co Kingsport,",15.0,2013
+"Eaton Corp. Cleveland,",15.0,2013
+"Edison International Rosemead,",30.0,2013
+"EMC Corp. Hopkinton, MA e e e e e e e e",100.0,2013
+"EMCOR Group Inc Norwalk,",15.0,2013
+"Emerson Electric Co. St. Louis, MO e e e",40.0,2013
+"Enbridge Energy Partners Houston,",15.0,2013
+"Energy Future Holdings Corp Dallas,",15.0,2013
+"Energy Transfer Partners, L.P. Dallas,",0.0,2013
+"Entergy Corp. New Orleans, LA e e e e e e e",90.0,2013
+"Enterprise Products Partners LP Houston,",15.0,2013
+"EOG Resources Houston,",15.0,2013
+"Erie Insurance Group Erie,",30.0,2013
+"Estée Lauder Companies Inc., The New York, NY e e e » e e e",85.0,2013
+"Expedia Inc. Bellevue, WA e e e e e e",80.0,2013
+"Expeditors International of Washington, Inc. Seattle,",15.0,2013
+"Express Scripts Inc. St. Louis,",30.0,2013
+"Family Dollar Stores Matthews,",30.0,2013
+"Federal National Mortgage Association Fannie Mae Washington, DC e e e e e e",80.0,2013
+"Federal Reserve Bank of Richmond Richmond, VA e e e e e e",80.0,2013
+"FedEx Corp. Memphis, TN e e e d e e e",85.0,2013
+"Fidelity National Financial Corp. Jacksonville,",30.0,2013
+"Fidelity National Information Services Inc. Jacksonville,",15.0,2013
+"Fifth Third Bancorp Cincinnati, OH e e e d e e e",85.0,2013
+"First Data Corp. Atlanta, GA e » : : e",30.0,2013

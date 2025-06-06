@@ -62,6 +62,8 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/cei/
+!data/processed/cei/*.csv
 results/figures/*
 !results/figures/.gitkeep
 results/models/*
