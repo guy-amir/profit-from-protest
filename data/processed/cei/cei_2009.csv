@@ -1,597 +1,591 @@
-Company,CEI_Score,Year
-Dana Holding Corp.,20.0,2009
-Darden Restaurants,80.0,2009
-Davis Wright Tremaine LLP,85.0,2009
-"Davis, Polk & Wardwell",95.0,2009
-Dean Foods Co.,73.0,2009
-Debevoise & Plimpton LLP,100.0,2009
-Deere & Co.,33.0,2009
-Dell Inc.,100.0,2009
-Deloitte LLP,100.0,2009
-Delphi Corp.,45.0,2009
-Delta Air Lines Inc.,85.0,2009
-Deutsche Bank,100.0,2009
-Dewey & LeBoeuf LLP,100.0,2009
-Diageo North America,100.0,2009
-Dickstein Shapiro LLP,100.0,2009
-Discover Financial Services,58.0,2009
-DLA Piper,100.0,2009
-Dole Food Co. Inc.,45.0,2009
-Dollar Thrifty Automotive Group Inc.,83.0,2009
-Dominion Resources Inc.,90.0,2009
-Domino’s Pizza Inc.,60.0,2009
-Dorsey & Whitney LLP,100.0,2009
-Dow Chemical Co.,100.0,2009
-Dow Jones & Co. Inc.,30.0,2009
-DPR Construction Inc.,30.0,2009
-Drinker Biddle & Reath LLP,95.0,2009
-DTE Energy Co.,75.0,2009
-Duane Morris LLP,95.0,2009
-Duke Energy Corp.,75.0,2009
-"Dun & Bradstreet Corp., The",35.0,2009
-DuPont (E.I. du Pont de Nemours),100.0,2009
-"Dykema Gossett P, LLC",80.0,2009
-E*TRADE Financial Corp.,93.0,2009
-EarthLink Inc.,88.0,2009
-Eastman Kodak Co.,100.0,2009
-eBay Inc.,100.0,2009
-Edison International,35.0,2009
-Edwards Angell Palmer & Dodge LLP,100.0,2009
-"Employer
-Electronic Arts Inc.",100.0,2009
-Electronic Data Systems Corp.,95.0,2009
-Eli Lilly & Co.,100.0,2009
-EMC Corp.,95.0,2009
-Emerson Electric Co.,45.0,2009
-Entergy Corp.,95.0,2009
-Enterprise Rent-A-Car Co.,80.0,2009
-Ernst & Young LLP,100.0,2009
-Estee Lauder Companies,100.0,2009
-Esurance Inc.,100.0,2009
-Exelon Corp.,95.0,2009
-Expedia Inc.,50.0,2009
-Exxon Mobil Corp.,0.0,2009
-Faegre & Benson LLP,100.0,2009
-Fannie Mae,100.0,2009
-FedEx Corp.,55.0,2009
-Fenwick & West LLP,95.0,2009
-Fifth Third Bancorp,75.0,2009
-Fish & Richardson PC,80.0,2009
-Fisher Scientiﬁ c International,40.0,2009
-Foley & Lardner LLP,100.0,2009
-Foley Hoag LLP,100.0,2009
-Food Lion LLC,95.0,2009
-Ford Motor Co.,100.0,2009
-Franklin Resources Inc.,50.0,2009
-Freddie Mac,85.0,2009
-Freescale Semiconductor Inc.,100.0,2009
-Frost Brown Todd LLC,85.0,2009
-Fulbright & Jaworski LLP,85.0,2009
-GameStop Corp.,100.0,2009
-Gannett Co. Inc.,65.0,2009
-Gap Inc.,100.0,2009
-Genentech Inc.,100.0,2009
-General Dynamics Corp.,40.0,2009
-General Electric Co.,80.0,2009
-General Mills Inc.,95.0,2009
-General Motors Corp.,100.0,2009
-"Gibson, Dunn & Crutcher LLP",100.0,2009
-GlaxoSmithKline plc,100.0,2009
-Global Hyatt Corp.,100.0,2009
-"Goldman Sachs Group Inc., The",100.0,2009
-Goodwin Procter LLP,75.0,2009
-Google Inc.,100.0,2009
-Gordon & Rees LLP,95.0,2009
-Group Health Cooperative,78.0,2009
-H&R Block,65.0,2009
-H.E. Butt Grocery Co.,40.0,2009
-H.J. Heinz Co.,68.0,2009
-Hain Celestial Group Inc.,55.0,2009
-Hallmark Cards Inc.,90.0,2009
-Hannaford Brothers,83.0,2009
-Harrah’s Entertainment Inc.,100.0,2009
-Harris Bankcorp Inc.,90.0,2009
-Harris Interactive Inc.,93.0,2009
-Harry & David Holdings Inc.,83.0,2009
-Hartford Financial Services Co.,100.0,2009
-Harvard Pilgrim Health Care Inc.,100.0,2009
-Hasbro Inc.,50.0,2009
-Haynes and Boone LLP,100.0,2009
-Health Care Service Corp.,95.0,2009
-Health Net Inc.,93.0,2009
-Heller Ehrman LLP,100.0,2009
-Herman Miller Inc.,100.0,2009
-"Hershey Co., The",70.0,2009
-Hewitt Associates,100.0,2009
-Hewlett-Packard Co.,100.0,2009
-Hilton Hotels Corp.,90.0,2009
-Hoffmann-La Roche Inc.,100.0,2009
-Hogan & Hartson LLP,95.0,2009
-Holland & Knight LLP,100.0,2009
-Holme Roberts & Owen LLP,60.0,2009
-Home Depot Inc.,85.0,2009
-Honeywell International Inc.,100.0,2009
-"Employer
-Hospira Inc.",100.0,2009
-Host Hotels & Resorts,45.0,2009
-Hotels.com LP,85.0,2009
-Howard & Howard Attorneys PC,48.0,2009
-Howrey LLP,100.0,2009
-HSBC - North America,100.0,2009
-Humana Inc.,45.0,2009
-Huntington Bancshares,75.0,2009
-Hunton & Williams LLP,75.0,2009
-Husch Blackwell Sanders LLP,100.0,2009
-IKON Ofﬁ ce Solutions,65.0,2009
-Illinois Tool Works Inc.,68.0,2009
-Imation Corp.,88.0,2009
-IndyMac Bancorp Inc.,100.0,2009
-ING North America Insurance Corp.,100.0,2009
-Intel Corp.,100.0,2009
-International Paper Co.,70.0,2009
-Interpublic Group of Companies Inc.,60.0,2009
-Intuit Inc.,100.0,2009
-ITT Industries Inc.,75.0,2009
-J.C. Penney Co. Inc.,100.0,2009
-J.P. Morgan Chase & Co.,100.0,2009
-Jacobs Engineering Group Inc.,40.0,2009
-Jenner & Block LLP,100.0,2009
-JetBlue Airways Corp.,80.0,2009
-John Hancock Financial Services Inc.,88.0,2009
-Johnson & Johnson,100.0,2009
-Jones Apparel Group Inc.,45.0,2009
-Kaiser Permanente,100.0,2009
-Katten Muchin Rosenman LLP,85.0,2009
-Kaye Scholer LLP,80.0,2009
-KB Home,75.0,2009
-Keane Inc.,50.0,2009
-Kelley Drye & Warren LLP,95.0,2009
-Kellogg Co.,60.0,2009
-Kenneth Cole Productions Inc.,95.0,2009
-KeyCorp,100.0,2009
-Kilpatrick Stockton LLP,95.0,2009
-Kimberly-Clark Corp.,100.0,2009
-Kimpton Hotel & Restaurant Group Inc.,100.0,2009
-King & Spalding LLP,95.0,2009
-Kirkland & Ellis LLP,100.0,2009
-KLA-Tencor Corp.,58.0,2009
-KPMG LLP,100.0,2009
-Kraft Foods Inc.,95.0,2009
-Kramer Levin Naftalis & Frankel LLP,100.0,2009
-"Kroger Co., The",75.0,2009
-L.L. Bean Inc.,73.0,2009
-Laclede Group Inc.,5.0,2009
-Land O’Lakes,53.0,2009
-LaSalle Bank Corp.,95.0,2009
-Latham & Watkins LLP,100.0,2009
-Lauren Manufacturing Co.,5.0,2009
-Lear Corp.,20.0,2009
-Lehman Brothers Holdings Inc.,100.0,2009
-Levi Strauss & Co.,100.0,2009
-Lexmark International Inc.,100.0,2009
-Lillian Vernon Corp.,40.0,2009
-Limited Brands Inc.,80.0,2009
-Lincoln National Corp.,95.0,2009
-Littler Mendelson PC,100.0,2009
-Liz Claiborne Inc.,100.0,2009
-Lockheed Martin Corp.,100.0,2009
-"Lord, Bissell & Brook",80.0,2009
-Luce Forward Hamilton & Scripps LLP,80.0,2009
-Macy’s Inc.,100.0,2009
-"Manatt, Phelps & Phillips LLP",100.0,2009
-Marriott International Inc.,100.0,2009
-Mars Inc.,48.0,2009
-Marsh & McLennan Companies Inc.,100.0,2009
-Massachusetts Mutual Life Insurance Co.,100.0,2009
-MasterCard Inc.,100.0,2009
-Mattel Inc.,93.0,2009
-Mayer Brown LLP,95.0,2009
-McAfee Inc.,53.0,2009
-"Employer
-McCarter & English LLP",90.0,2009
-McDermott Will & Emery LLP,100.0,2009
-McDonald’s Corp.,85.0,2009
-"McGraw-Hill Companies Inc., The",80.0,2009
-McGuireWoods LLP,95.0,2009
-"McKenna, Long & Aldridge LLP",90.0,2009
-McKesson Corp.,68.0,2009
-McKinsey & Co. Inc.,100.0,2009
-MeadWestvaco Corp.,60.0,2009
-Medtronic Inc.,95.0,2009
-Meijer Inc.,15.0,2009
-"Men’s Wearhouse Inc., The",50.0,2009
-Merck & Co. Inc.,100.0,2009
-Merrill Lynch & Co.,100.0,2009
-MetLife Inc.,100.0,2009
-MGM Mirage,85.0,2009
-Microsoft Corp.,100.0,2009
-"Milbank, Tweed, Hadley & McCloy LLP",85.0,2009
-Miller Brewing Co.,90.0,2009
-Mirant Corp.,45.0,2009
-Mitchell Gold + Bob Williams,100.0,2009
-Mohawk Industries Inc.,65.0,2009
-Monsanto Co.,85.0,2009
-Moody’s Corp.,83.0,2009
-Morgan Lewis & Bockius LLP,80.0,2009
-Morgan Stanley,100.0,2009
-Morningstar Inc.,58.0,2009
-Morrison & Foerster LLP,100.0,2009
-Motorola Inc.,100.0,2009
-Mutual of Omaha Insurance,80.0,2009
-National City Corp.,80.0,2009
-National Grid USA,100.0,2009
-Nationwide,100.0,2009
-NCR Corp.,100.0,2009
-Nestle Purina PetCare Co.,75.0,2009
-New York Life Insurance Co.,100.0,2009
-New York Times Co.,100.0,2009
-Newell Rubbermaid Inc.,100.0,2009
-"Nielsen Co., The",100.0,2009
-Nike Inc.,100.0,2009
-Nissan North America Inc.,50.0,2009
-Nixon Peabody LLP,100.0,2009
-Nokia,50.0,2009
-Nordstrom Inc.,100.0,2009
-Nortel Networks Corp.,85.0,2009
-Northeast Utilities,65.0,2009
-Northern Trust Corp.,100.0,2009
-Northrop Grumman Corp.,100.0,2009
-Northwest Airlines Corp.,85.0,2009
-Novartis Pharmaceutical Corp.,100.0,2009
-Ofﬁ ce Depot Inc.,60.0,2009
-Ofﬁ ceMax Inc.,80.0,2009
-O’Melveny & Myers LLP,100.0,2009
-Omnicom Group,80.0,2009
-Oracle Corp.,100.0,2009
-Orbitz Worldwide Inc.,100.0,2009
-"Orrick, Herrington & Sutcliffe LLP",100.0,2009
-Owens & Minor Inc.,55.0,2009
-Owens Corning,100.0,2009
-Paciﬁ c Mutual Holding Co.,65.0,2009
-Paciﬁ Corp,85.0,2009
-Palm Management Corp.,78.0,2009
-Pathmark Stores Inc.,53.0,2009
-Patterson Belknap Webb & Tyler LLP,100.0,2009
-"Paul, Hastings, Janofsky & Walker LLP",100.0,2009
-"Paul, Weiss, Rifkind, Wharton & Garrison LLP",80.0,2009
-Pepco Holdings Inc.,65.0,2009
-Pepper Hamilton LLP,90.0,2009
-"Pepsi Bottling Group Inc., The",100.0,2009
-PepsiAmericas Inc.,95.0,2009
-PepsiCo Inc.,100.0,2009
-"Perkins & Will Group, Ltd.,The",55.0,2009
-Perkins Coie,100.0,2009
-Perot Systems Corp.,0.0,2009
-Pﬁ zer Inc.,100.0,2009
-"Employer
-PG&E Corp.",100.0,2009
-Pillsbury Winthrop Shaw Pittman LLP,100.0,2009
-Pitney Bowes Inc.,85.0,2009
-PNC Financial Services Group Inc.,80.0,2009
-PNM Resources Inc.,43.0,2009
-Polaroid Corp.,60.0,2009
-Polsinelli Shalton Welte Suelthaus PC,80.0,2009
-Powell Goldstein LLP,100.0,2009
-PPG Industries Inc.,45.0,2009
-PPL Corp.,65.0,2009
-Praxair Inc.,25.0,2009
-PricewaterhouseCoopers LLP,100.0,2009
-Principal Financial Group,95.0,2009
-Procter & Gamble Co.,85.0,2009
-Progress Energy Inc.,68.0,2009
-"Progressive Corp., The",100.0,2009
-Proskauer Rose LLP,100.0,2009
-Prudential Financial Inc.,100.0,2009
-QUALCOMM Inc.,95.0,2009
-Quarles & Brady LLP,80.0,2009
-Quest Diagnostics Inc.,85.0,2009
-Qwest Communications International Inc.,80.0,2009
-R.R. Donnelley & Sons Co.,55.0,2009
-RadioShack Corp.,40.0,2009
-Raymond James Financial Inc.,100.0,2009
-Raytheon Co.,100.0,2009
-Realogy Corp.,80.0,2009
-Recreational Equipment Inc.,100.0,2009
-Reebok International,68.0,2009
-Reed Smith LLP,75.0,2009
-Reliant Energy Inc.,75.0,2009
-Replacements Ltd.,100.0,2009
-Reynolds American Inc.,100.0,2009
-Rite Aid Corp.,85.0,2009
-"Robins, Kaplan, Miller & Ciresi LLP",100.0,2009
-Rockwell Collins Inc.,75.0,2009
-Rohm and Haas Co.,80.0,2009
-Ropes & Gray LLP,100.0,2009
-Royal Caribbean Cruises Ltd.,55.0,2009
-Ryder System Inc.,93.0,2009
-Ryland Group,30.0,2009
-Sabre Holdings Inc.,100.0,2009
-SAFECO Corp.,75.0,2009
-Safeway Inc.,75.0,2009
-Sanoﬁ -Aventis U.S. LLC,65.0,2009
-SAP America Inc.,90.0,2009
-Sara Lee Corp.,75.0,2009
-Saul Ewing LLP,68.0,2009
-S. C. Johnson & Son Inc.,100.0,2009
-Schering-Plough Corp.,100.0,2009
-Schiff Hardin LLP,80.0,2009
-Scholastic Corp.,50.0,2009
-"Schulte, Roth &  Zabel LLP",80.0,2009
-Seagate Technology LLC,60.0,2009
-Sears Holdings Corp.,100.0,2009
-"Sedgwick, Detert, Moran & Arnold LLP",100.0,2009
-Selective Insurance Group,85.0,2009
-Sempra Energy,100.0,2009
-Severn Trent Services Inc.,65.0,2009
-Seyfarth Shaw LLP,100.0,2009
-Shell Oil Co.,100.0,2009
-"Sheppard, Mullin, Richter & Hampton LLP",95.0,2009
-"Shook, Hardy & Bacon LLP",85.0,2009
-Sidley Austin LLP,100.0,2009
-Sierra Health Services Inc.,88.0,2009
-Sirius Satellite Radio Inc.,80.0,2009
-SLM Corp. (Sallie Mae),60.0,2009
-Sodexho Inc.,100.0,2009
-Software House International,40.0,2009
-"Sonnenschein, Nath & Rosenthal LLP",100.0,2009
-Southern California Edison Co.,100.0,2009
-Southern Co.,48.0,2009
-Southwest Airlines Co.,90.0,2009
-Sprint Nextel Corp.,100.0,2009
-"Squire, Sanders & Dempsey LLP",100.0,2009
-"Employer
-SRA International Inc.",75.0,2009
-Staples Inc.,93.0,2009
-Starbucks Corp.,100.0,2009
-Starcom MediaVest Group,100.0,2009
-Starwood Hotels & Resorts Worldwide,100.0,2009
-State Farm Group,80.0,2009
-State Street Corp.,100.0,2009
-Steelcase Inc.,60.0,2009
-Steptoe & Johnson LLP,85.0,2009
-Stinson Morrison Hecker LLP,95.0,2009
-Stoel Rives LLP,95.0,2009
-Subaru of America Inc.,100.0,2009
-Sullivan & Cromwell LLP,100.0,2009
-Sun Life Financial Inc. (U.S.),100.0,2009
-Sun Microsystems Inc.,100.0,2009
-SunTrust Banks Inc.,100.0,2009
-Supervalu Inc.,100.0,2009
-Sutherland Asbill & Brennan LLP,95.0,2009
-Symantec Corp.,100.0,2009
-Target Corp.,100.0,2009
-Association - College Retirement,78.0,2009
-Tech Data Corp.,100.0,2009
-Tenet Healthcare,35.0,2009
-Texas Instruments Inc.,100.0,2009
-Thompson Coburn LLP,100.0,2009
-Tiffany & Co.,68.0,2009
-Time Warner Inc.,100.0,2009
-"TJX Companies, Inc., The",100.0,2009
-Toyota Financial Services Corp.,100.0,2009
-Toyota Motor Sales USA Inc.,100.0,2009
-Toys ‘R’ Us Inc.,65.0,2009
-"Travel Impressions, Ltd.",93.0,2009
-"Travelers Companies Inc., The",50.0,2009
-Travelport Inc.,100.0,2009
-Troutman Sanders LLP,100.0,2009
-U.S. Bancorp,100.0,2009
-United Parcel Service Inc. (UPS),43.0,2009
-United Technologies Corp.,42.0,2009
-UnitedHealth Group Inc.,21.0,2009
-Verizon Communications Inc.,13.0,2009
-Wachovia Corp.,46.0,2009
-Walgreen Co.,44.0,2009
-Wal-Mart Stores Inc.,1.0,2009
-Walt Disney Co.,64.0,2009
-Washington Mutual Inc.,81.0,2009
-WellPoint Inc.,35.0,2009
-Wells Fargo & Co.,41.0,2009
-"Employer
-Wildman, Harrold, Allen & Dixon LLP",80.0,2009
-Williams Companies Inc.,55.0,2009
-Wilmer Cutler Pickering Hale & Dorr LLP,100.0,2009
-Wilson Sonsini Goodrich & Rosati PC,100.0,2009
-Winston & Strawn LLP,100.0,2009
-Wisconsin Energy Corp.,55.0,2009
-Womble Carlyle Sandridge & Rice LLC,65.0,2009
-WPP Group USA,93.0,2009
-Wyeth,80.0,2009
-Wyndham Worldwide Corp.,100.0,2009
-Xcel Energy,60.0,2009
-Xerox Corp.,100.0,2009
-XM Satellite Radio Holdings Inc.,93.0,2009
-Yahoo! Inc.,100.0,2009
-YRC Worldwide Inc.,30.0,2009
-Yum! Brands Inc.,65.0,2009
-Zurich North America,65.0,2009
-Vertis Inc.,30.0,2009
-Boeing Co.,100.0,2009
-Alliant Techsystems,65.0,2009
-Alaska Airlines,100.0,2009
-AMR Corp. (American Airlines),100.0,2009
-Continental Airlines Inc.,100.0,2009
-US Airways Group Inc.,100.0,2009
-UAL Corp. (United Airlines),88.0,2009
-Abercrombie & Fitch Co.,100.0,2009
-Carmax Inc.,100.0,2009
-Chrysler LLC,100.0,2009
-Visteon Corp.,100.0,2009
-Volkswagen of America Inc.,100.0,2009
-Bridgestone Americas Holding Inc.,80.0,2009
-Cooper Tire & Rubber,33.0,2009
-American Express Co.,100.0,2009
-Ameriprise Financial Inc.,100.0,2009
-Bank of America Corp.,100.0,2009
-"Bank of New York Mellon Corp., The",100.0,2009
-Capital One Financial Corp.,100.0,2009
-"Charles Schwab Corp., The",100.0,2009
-Citigroup Inc.,100.0,2009
-Credit Suisse USA Inc.,100.0,2009
-UBS AG,100.0,2009
-Visa,100.0,2009
-Canadian Imperial Bank of Commerce,95.0,2009
-Barclays Capital,90.0,2009
-AmTrust Bank,83.0,2009
-Comerica Inc.,80.0,2009
-Chamberlin Edmonds & Associates Inc.,68.0,2009
-BB&T Corp.,48.0,2009
-3M Co.,100.0,2009
-BASF Corp.,100.0,2009
-Bayer Corp.,80.0,2009
-Air Products & Chemicals Inc.,75.0,2009
-ChoicePoint Inc.,100.0,2009
-Automatic Data Processing Inc.,95.0,2009
-SRA International Inc.,75.0,2009
-Unisys Corp.,70.0,2009
-Afﬁ liated Computer Services,60.0,2009
-Apple Inc.,100.0,2009
-Cisco Systems Inc.,100.0,2009
-International Business Machines Corp. (IBM),100.0,2009
-CDW Corp.,88.0,2009
-Avaya Inc.,85.0,2009
-Acer Inc.,50.0,2009
-Avnet Inc.,30.0,2009
-BMC Software Inc.,100.0,2009
-Electronic Arts Inc.,100.0,2009
-Adobe Systems Inc.,95.0,2009
-Compuware Corp.,93.0,2009
-Cerner Corp.,65.0,2009
-Accenture Ltd.,100.0,2009
-Bain & Co. Inc. (& Bridgespan Group Inc.),100.0,2009
-Boston Consulting Group,100.0,2009
-Adecco North America LLC,85.0,2009
-A.T. Kearney Inc.,80.0,2009
-Booz Allen Hamilton Inc.,80.0,2009
-Convergys Corp.,80.0,2009
-Bright Horizons Family Solutions Inc.,100.0,2009
-Constellation Energy Group Inc.,100.0,2009
-PG&E Corp.,100.0,2009
-Consolidated Edison Co.,95.0,2009
-Alliant Energy Corp.,85.0,2009
-Calpine Corp.,48.0,2009
-Allegheny Energy,45.0,2009
-Ameren Corp.,45.0,2009
-Aquila,35.0,2009
-CH2M HILL Companies Ltd.,80.0,2009
-Clear Channel Communications Inc.,100.0,2009
-Cox Enterprises Inc./Cox Communications Inc.,100.0,2009
-Viacom Inc.,100.0,2009
-Corbis Corp.,80.0,2009
-Comcast Corp.,80.0,2009
-AMC Entertainment Inc.,63.0,2009
-Vivendi,35.0,2009
-Anheuser-Busch Companies Inc.,100.0,2009
-Brinker International Inc.,100.0,2009
-Campbell Soup Co.,100.0,2009
-Cargill Inc.,100.0,2009
-"Coca-Cola Co., The",100.0,2009
-Coca-Cola Enterprises Inc.,100.0,2009
-Coors Brewing Co.,100.0,2009
-ConAgra Foods Inc.,90.0,2009
-Whole Foods Market Inc.,90.0,2009
-Ahold USA Inc.,78.0,2009
-Aramark Corp.,75.0,2009
-Compass Group USA Inc.,65.0,2009
-U.S. Foodservice Inc.,58.0,2009
-C&S Wholesale Grocers Inc.,40.0,2009
-Brown-Forman Corp.,20.0,2009
-Archer Daniels Midland Co.,15.0,2009
-CBRL Group Inc. (Cracker Barrel),15.0,2009
-Weyerhaeuser Co.,75.0,2009
-Bausch & Lomb Inc.,100.0,2009
-Cardinal Health,100.0,2009
-CIGNA Corp.,95.0,2009
-Abbott Laboratories,80.0,2009
-Baxter International Inc.,80.0,2009
-Vision Service Plan,65.0,2009
-Austin Radiological Assn.,53.0,2009
-University Hospitals of Cleveland,50.0,2009
-Agilent Technologies Inc.,100.0,2009
-Corning Inc.,100.0,2009
-Applied Materials Inc.,88.0,2009
-Advanced Micro Devices Inc.,80.0,2009
-Carlson Companies Inc.,100.0,2009
-"AAA Northern California, Nevada and Utah",100.0,2009
-Aetna Inc.,100.0,2009
-Allianz Life Insurance Co. of North America,100.0,2009
-"Allstate Corp., The",100.0,2009
-Aon Corp.,100.0,2009
-Chubb Corp.,100.0,2009
-CNA Insurance,100.0,2009
-American Family Insurance Group,95.0,2009
-Unum Group,88.0,2009
-American International Group Inc.,85.0,2009
-Teachers Insurance and Annuity Association -,78.0,2009
-CUNA Mutual Insurance Group,65.0,2009
-AEGON USA Inc.,40.0,2009
-Amazon.com Inc.,80.0,2009
-"Akin, Gump, Strauss, Hauer & Feld LLP",100.0,2009
-Alston & Bird LLP,100.0,2009
-Arent Fox LLP,100.0,2009
-Arnold & Porter LLP,100.0,2009
-Baker & Daniels LLP,100.0,2009
-Bingham McCutchen LLP,100.0,2009
-Brown Rudnick LLP,100.0,2009
-Bryan Cave LLP,100.0,2009
-"Cleary, Gottlieb, Steen & Hamilton LLP",100.0,2009
-Clifford Chance US LLP,100.0,2009
-Covington & Burling LLP,100.0,2009
-"Cravath, Swaine & Moore LLP",100.0,2009
-"Fried, Frank, Haris, Shriver & Jacobson LLP",100.0,2009
-"Mintz, Levin, Cohn, Ferris, Glovsky & Popeo PC",100.0,2009
-"Skadden, Arps, Slate, Meagher & Flom LLP",100.0,2009
-Vinson & Elkins LLP,100.0,2009
-"Wachtell, Lipton, Rosen & Katz LLP",100.0,2009
-"Weil, Gotshal & Manges LLP",100.0,2009
-White & Case LLP,100.0,2009
-"Cadwalader, Wickersham & Taft LLP",95.0,2009
-Crowell & Moring LLP,95.0,2009
-Thelen Reid Brown Raysman & Steiner LLP,95.0,2009
-Carlton Fields,90.0,2009
-Chadbourne & Parke LLP,90.0,2009
-McCarter & English LLP,90.0,2009
-Baker & Botts LLP,80.0,2009
-"Ballard, Spahr, Andrews & Ingersoll LLP",80.0,2009
-"Vorys, Sater, Seymour & Pease LLP",80.0,2009
-"Wildman, Harrold, Allen & Dixon LLP",80.0,2009
-Baker & McKenzie,75.0,2009
-Andrews Kurth LLP,70.0,2009
-"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",40.0,2009
-"Baker, Donelson, Bearman, Caldwell & Berkowitz PC",35.0,2009
-CSX Corp.,75.0,2009
-Union Paciﬁ c Corp.,58.0,2009
-BNSF Railway Co.,30.0,2009
-Cummins Inc.,100.0,2009
-Whirlpool Corp.,100.0,2009
-American Power Conversion Corp.,63.0,2009
-Caterpillar Inc.,55.0,2009
-Baldor Electric Co.,20.0,2009
-Alcoa Inc.,85.0,2009
-Ball Corp.,58.0,2009
-BP America Inc.,100.0,2009
-Chevron Corp.,100.0,2009
-ConocoPhillips,60.0,2009
-Boehringer Ingelheim Pharmaceuticals Inc.,100.0,2009
-Bristol-Myers Squibb Co.,100.0,2009
-Hospira Inc.,100.0,2009
-CVS Corp.,90.0,2009
-AstraZeneca PLC,80.0,2009
-Amgen Inc.,70.0,2009
-United Business Media LLC,100.0,2009
-West,95.0,2009
-Barnes & Noble Inc.,100.0,2009
-Best Buy Co. Inc.,100.0,2009
-Borders Group Inc.,100.0,2009
-Clorox Co.,100.0,2009
-Unilever,100.0,2009
-Colgate-Palmolive Co.,73.0,2009
-Avon Products Inc.,60.0,2009
-"Black & Decker Corp., The",55.0,2009
-Circuit City Stores Inc.,55.0,2009
-AutoZone Inc.,25.0,2009
-Alcatel-Lucent,100.0,2009
-AT&T Inc.,100.0,2009
-ALLTEL Corp.,80.0,2009
-Avis Budget Group Inc.,80.0,2009
-Waste Management Inc.,85.0,2009
+Company,CEI_Score,Year,cusip,firm_name,fuzzy_match_score
+Dana Holding Corp,20.0,2009,23599Z937,"Dana Holding Corp., Maumee, OH",100
+Darden Restaurants,80.0,2009,237194105,"Darden Restaurants Inc., Orlando, FL",100
+Davis Wright Tremaine LLP,85.0,2009,,,0
+Davis Polk & Wardwell,95.0,2009,,,0
+Dean Foods,73.0,2009,242370203,"Dean Foods Co., Dallas, TX",100
+Debevoise & Plimpton LLP,100.0,2009,,,0
+Deere &,33.0,2009,244199105,"Deere & Co., Moline, IL",100
+Dell Inc,100.0,2009,24703L103,"Dell Inc., Round Rock, TX",100
+Deloitte LLP,100.0,2009,,,0
+Delphi Corp,45.0,2009,247128101,"Delphi Corp., Troy, MI",100
+Delta Air Lines Inc,85.0,2009,247361702,"Delta Air Lines Inc., Atlanta, GA",100
+Deutsche Bank,100.0,2009,D18190898,"Deutsche Bank, New York, NY",100
+Dewey & LeBoeuf LLP,100.0,2009,,,0
+Diageo North America,100.0,2009,25243Q205,"Diageo North America, Norwalk, CT",100
+Dickstein Shapiro LLP,100.0,2009,,,0
+Discover Financial Services,58.0,2009,254709108,"Discover Financial Services, Riverwoods, IL",100
+DLA Piper,100.0,2009,,,0
+Dole Food Inc,45.0,2009,256603101,"Dole Food Co. Inc., Westlake Village, CA",100
+Dollar Thrifty Automotive Group Inc,83.0,2009,256743105,"Dollar Thrifty Automotive Group Inc., Tulsa, OK",100
+Dominion Resources Inc,90.0,2009,25746U109,"Dominion Resources Inc., Richmond, VA",100
+Domino’ Pizza Inc,60.0,2009,25754A201,"Domino’s Pizza Inc., Ann Arbor, MI",100
+Dorsey & Whitney LLP,100.0,2009,,,0
+Dow Chemical,100.0,2009,26078J100,"Dow Chemical Co., Auburn Hills, MI",100
+Dow Jones & Inc,30.0,2009,260561105,"Dow Jones & Co. Inc., New York, NY",100
+DPR Construction Inc,30.0,2009,,,0
+Drinker Biddle & Reath LLP,95.0,2009,,,0
+DTE Energy,75.0,2009,233331107,"DTE Energy Co., Detroit, MI",100
+Duane Morris LLP,95.0,2009,,,0
+Duke Energy Corp,75.0,2009,26441C204,"Duke Energy Corp., Charlotte, NC",100
+Dun & Bradstreet Corp The,35.0,2009,26483E100,"Dun & Bradstreet Corp., The, Short Hills, NJ",100
+DuPont Pont Nemours,100.0,2009,263534109,"DuPont (E.I. du Pont de Nemours), Wilmington, DE",100
+Dykema Gossett LLC,80.0,2009,,,0
+TRADE Financial Corp,93.0,2009,269246401,"E*TRADE Financial Corporation, New York, NY",100
+EarthLink Inc,88.0,2009,270322100,"EarthLink Inc., Atlanta, GA",100
+Eastman Kodak,100.0,2009,277461406,"Eastman Kodak Co., Rochester, NY",100
+eBay Inc,100.0,2009,278642103,"eBay Inc., San Jose, CA",100
+Edison International,35.0,2009,281020107,"Edison International, Rosemead, CA",100
+Edwards Angell Palmer & Dodge LLP,100.0,2009,,,0
+Employer Electronic Arts Inc,100.0,2009,,,0
+Electronic Data Systems Corp,95.0,2009,285661104,"Electronic Data Systems Corp., Plano, TX",100
+Eli Lilly &,100.0,2009,532457108,"Eli Lilly & Co., Indianapolis, IN",100
+EMC Corp,95.0,2009,268648102,"EMC Corp., Hopkinton, MA",100
+Emerson Electric,45.0,2009,291011104,"Emerson Electric Co., St. Louis, MO",100
+Entergy Corp,95.0,2009,29364G103,"Entergy Corp., New Orleans, LA",100
+Enterprise Rent Car,80.0,2009,,,0
+Ernst & Young LLP,100.0,2009,,,0
+Estee Lauder Companies,100.0,2009,518439104,"Estee Lauder Companies, New York, NY",100
+Esurance Inc,100.0,2009,,,0
+Exelon Corp,95.0,2009,30161N101,"Exelon Corp., Chicago, IL",100
+Expedia Inc,50.0,2009,30212P303,"Expedia Inc., Bellevue, WA",100
+Exxon Mobil Corp,0.0,2009,30231G102,"Exxon Mobil Corp., Irving, TX",100
+Faegre & Benson LLP,100.0,2009,,,0
+Fannie Mae,100.0,2009,313586109,"Fannie Mae, Washington, DC",100
+FedEx Corp,55.0,2009,31428X106,"FedEx Corp., Memphis, TN",100
+Fenwick & West LLP,95.0,2009,,,0
+Fifth Third Bancorp,75.0,2009,316773100,"Fifth Third Bancorp, Cincinnati, OH",100
+Fish & Richardson,80.0,2009,,,0
+Fisher Scientiﬁ International,40.0,2009,338032204,"Fisher Scientific International, Hampton, NH",93
+Foley & Lardner LLP,100.0,2009,,,0
+Foley Hoag LLP,100.0,2009,,,0
+Food Lion LLC,95.0,2009,,,0
+Ford Motor,100.0,2009,345370860,"Ford Motor Co., Dearborn, MI",100
+Franklin Resources Inc,50.0,2009,354613101,"Franklin Resources Inc., San Mateo, CA",100
+Freddie Mac,85.0,2009,313400301,"Freddie Mac, McLean, VA",100
+Freescale Semiconductor Inc,100.0,2009,35699Z005,"Freescale Semiconductor Inc., Austin, TX",100
+Frost Brown Todd LLC,85.0,2009,,,0
+Fulbright & Jaworski LLP,85.0,2009,,,0
+GameStop Corp,100.0,2009,36467W109,"GameStop Corp., Grapevine, TX",100
+Gannett Inc,65.0,2009,36473H104,"Gannett Co. Inc., McLean, VA",100
+Gap Inc,100.0,2009,364760108,"Gap Inc., San Francisco, CA",100
+Genentech Inc,100.0,2009,368710406,"Genentech Inc., South San Francisco, CA",100
+General Dynamics Corp,40.0,2009,369550108,"General Dynamics Corp., Falls Church, VA",100
+General Electric,80.0,2009,369604103,"General Electric Co., Boston, MA",100
+General Mills Inc,95.0,2009,370334104,"General Mills Inc., Minneapolis, MN",100
+General Motors Corp,100.0,2009,37099Z932,"General Motors Corp., Milford, MI",100
+Gibson Dunn & Crutcher LLP,100.0,2009,,,0
+GlaxoSmithKline plc,100.0,2009,37733W105,"GlaxoSmithKline plc, Research Triangle Park, NC",100
+Global Hyatt Corp,100.0,2009,,,0
+Goldman Sachs Group Inc The,100.0,2009,38141G104,"Goldman Sachs Group Inc., The, New York, NY",100
+Goodwin Procter LLP,75.0,2009,,,0
+Google Inc,100.0,2009,38259P500,"Google Inc., Mountain View, CA",100
+Gordon & Rees LLP,95.0,2009,,,0
+Group Health Cooperative,78.0,2009,,,0
+& Block,65.0,2009,093671105,"H&R Block Inc., Kansas City, MO",100
+Butt Grocery,40.0,2009,,,0
+Heinz,68.0,2009,,,0
+Hain Celestial Group Inc,55.0,2009,405217100,"Hain Celestial Group Inc., Lake Success, NY",100
+Hallmark Cards Inc,90.0,2009,,,0
+Hannaford Brothers,83.0,2009,410550107,"Hannaford Brothers, Portland, ME",100
+Harrah’ Entertainment Inc,100.0,2009,413619100,"Harrah’s Entertainment Inc., Las Vegas, NV",100
+Harris Bankcorp Inc,90.0,2009,413841107,"Harris Bankcorp Inc., Chicago, IL",100
+Harris Interactive Inc,93.0,2009,414549105,"Harris Interactive Inc., New York, NY",100
+Harry & David Holdings Inc,83.0,2009,41587A201,"Harry & David Holdings Inc., Medford, OR",100
+Hartford Financial Services,100.0,2009,,,0
+Harvard Pilgrim Health Care Inc,100.0,2009,,,0
+Hasbro Inc,50.0,2009,418056107,"Hasbro Inc., Pawtucket, RI",100
+Haynes and Boone LLP,100.0,2009,,,0
+Health Care Service Corp,95.0,2009,299783936,"Health Care Service Corp., Chicago, IL",100
+Health Net Inc,93.0,2009,42222G108,"Health Net Inc., Woodland Hills, CA",100
+Heller Ehrman LLP,100.0,2009,,,0
+Herman Miller Inc,100.0,2009,600544100,"Herman Miller Inc., Zeeland, MI",100
+Hershey The,70.0,2009,427866108,"Hershey Co., The, Hershey, PA",100
+Hewitt Associates,100.0,2009,42822Q100,"Hewitt Associates, Lincolnshire, IL",100
+Hewlett Packard,100.0,2009,42824C109,"Hewlett-Packard Co., Palo Alto, CA",100
+Hilton Hotels Corp,90.0,2009,432848100,"Hilton Hotels Corp., Beverly Hills, CA",100
+Hoffmann Roche Inc,100.0,2009,,,0
+Hogan & Hartson LLP,95.0,2009,,,0
+Holland & Knight LLP,100.0,2009,,,0
+Holme Roberts & Owen LLP,60.0,2009,,,0
+Home Depot Inc,85.0,2009,437076102,"Home Depot Inc., Atlanta, GA",100
+Honeywell International Inc,100.0,2009,438516106,"Honeywell International Inc., Morris Township, NJ",100
+Employer Hospira Inc,100.0,2009,,,0
+Host Hotels & Resorts,45.0,2009,44107P104,"Host Hotels & Resorts Inc., Bethesda, MD",100
+Hotels com,85.0,2009,44147T108,"Hotels.com LP, Dallas, TX",100
+Howard & Howard Attorneys,48.0,2009,,,0
+Howrey LLP,100.0,2009,,,0
+HSBC North America,100.0,2009,,,0
+Humana Inc,45.0,2009,444859102,"Humana Inc., Louisville, KY",100
+Huntington Bancshares,75.0,2009,446150104,"Huntington Bancshares Inc., Columbus, OH",100
+Hunton & Williams LLP,75.0,2009,,,0
+Husch Blackwell Sanders LLP,100.0,2009,,,0
+IKON Ofﬁ Solutions,65.0,2009,451713101,"IKON Office Solutions, Malvern, PA",90
+Illinois Tool Works Inc,68.0,2009,452308109,"Illinois Tool Works Inc., Glenview, IL",100
+Imation Corp,88.0,2009,377185103,"Imation Corp., Oakdale, MN",100
+IndyMac Bancorp Inc,100.0,2009,456607100,"IndyMac Bancorp Inc., Pasadena, CA",100
+ING North America Insurance Corp,100.0,2009,,,0
+Intel Corp,100.0,2009,458140100,"Intel Corp., Santa Clara, CA",100
+International Paper,70.0,2009,460146103,"International Paper Co., Memphis, TN",100
+Interpublic Group Companies Inc,60.0,2009,460690100,"Interpublic Group of Companies Inc., New York, NY",100
+Intuit Inc,100.0,2009,461202103,"Intuit Inc., Mountain View, CA",100
+ITT Industries Inc,75.0,2009,,,0
+Penney Inc,100.0,2009,708152004,"J.C. Penney Corp. Inc., Plano, TX",100
+Morgan Chase &,100.0,2009,46625H100,"J.P. Morgan Chase & Co., New York, NY",100
+Jacobs Engineering Group Inc,40.0,2009,469814107,"Jacobs Engineering Group Inc., Pasadena, CA",100
+Jenner & Block LLP,100.0,2009,,,0
+JetBlue Airways Corp,80.0,2009,477143101,"JetBlue Airways Corp., Long Island City, NY",100
+John Hancock Financial Services Inc,88.0,2009,41014S106,"John Hancock Financial Services Inc., Boston, MA",100
+Johnson & Johnson,100.0,2009,478160104,"Johnson & Johnson, New Brunswick, NJ",100
+Jones Apparel Group Inc,45.0,2009,480074100,"Jones Apparel Group Inc., New York, NY",100
+Kaiser Permanente,100.0,2009,,,0
+Katten Muchin Rosenman LLP,85.0,2009,,,0
+Kaye Scholer LLP,80.0,2009,,,0
+Home,75.0,2009,48666K109,"KB Home, Los Angeles, CA",100
+Keane Inc,50.0,2009,486665102,"Keane Inc., Boston, MA",100
+Kelley Drye & Warren LLP,95.0,2009,,,0
+Kellogg,60.0,2009,487836108,"Kellogg Co., Battle Creek, MI",100
+Kenneth Cole Productions Inc,95.0,2009,193294105,"Kenneth Cole Productions Inc., New York, NY",100
+KeyCorp,100.0,2009,493267108,"KeyCorp, Cleveland, OH",100
+Kilpatrick Stockton LLP,95.0,2009,,,0
+Kimberly Clark Corp,100.0,2009,494368103,"Kimberly-Clark Corporation, Irving, TX",100
+Kimpton Hotel & Restaurant Group Inc,100.0,2009,,,0
+King & Spalding LLP,95.0,2009,,,0
+Kirkland & Ellis LLP,100.0,2009,,,0
+KLA Tencor Corp,58.0,2009,482480100,"KLA-Tencor Corp., Milpitas, CA",100
+KPMG LLP,100.0,2009,,,0
+Kraft Foods Inc,95.0,2009,50076Q106,"Kraft Foods Inc., Northfield, IL",100
+Kramer Levin Naftalis & Frankel LLP,100.0,2009,,,0
+Kroger The,75.0,2009,501044101,"Kroger Co., The, Cincinnati, OH",100
+Bean Inc,73.0,2009,,,0
+Laclede Group Inc,5.0,2009,505597100,"Laclede Group Inc., St. Louis, MO",100
+Land ’Lakes,53.0,2009,514666932,"Land O’Lakes Inc., Arden Hills, MN",100
+LaSalle Bank Corp,95.0,2009,,,0
+Latham & Watkins LLP,100.0,2009,,,0
+Lauren Manufacturing,5.0,2009,,,0
+Lear Corp,20.0,2009,521865204,"Lear Corp., Southfield, MI",100
+Lehman Brothers Holdings Inc,100.0,2009,524908100,"Lehman Brothers Holdings Inc., New York, NY",100
+Levi Strauss &,100.0,2009,52736R938,"Levi Strauss & Co., San Francisco, CA",100
+Lexmark International Inc,100.0,2009,529771107,"Lexmark International Inc., Lexington, KY",100
+Lillian Vernon Corp,40.0,2009,532430105,"Lillian Vernon Corp., White Plains, NY",100
+Limited Brands Inc,80.0,2009,532716100,"Limited Brands Inc., Columbus, OH",100
+Lincoln National Corp,95.0,2009,534187109,"Lincoln National Corp., Radnor, PA",100
+Littler Mendelson,100.0,2009,,,0
+Liz Claiborne Inc,100.0,2009,539320100,"Liz Claiborne Inc., North Bergen, NJ",100
+Lockheed Martin Corp,100.0,2009,539830109,"Lockheed Martin Corp., Bethesda, MD",100
+Lord Bissell & Brook,80.0,2009,,,0
+Luce Forward Hamilton & Scripps LLP,80.0,2009,,,0
+Macy’ Inc,100.0,2009,55616P104,"Macy’s Inc., Cincinnati, OH",100
+Manatt Phelps & Phillips LLP,100.0,2009,,,0
+Marriott International Inc,100.0,2009,571903202,"Marriott International Inc., Bethesda, MD",100
+Mars Inc,48.0,2009,571726108,"Mars Inc., Mt. Olive, NJ",100
+Marsh & McLennan Companies Inc,100.0,2009,571748102,"Marsh & McLennan Companies Inc., New York, NY",100
+Massachusetts Mutual Life Insurance,100.0,2009,575767934,"Massachusetts Mutual Life Insurance Company, Springfield, MA",100
+MasterCard Inc,100.0,2009,57636Q104,"MasterCard Inc., Purchase, NY",100
+Mattel Inc,93.0,2009,577081102,"Mattel Inc., El Segundo, CA",100
+Mayer Brown LLP,95.0,2009,,,0
+McAfee Inc,53.0,2009,579064106,"McAfee Inc., Santa Clara, CA",100
+Employer McCarter & English LLP,90.0,2009,,,0
+McDermott Will & Emery LLP,100.0,2009,,,0
+McDonald’ Corp,85.0,2009,580135101,"McDonald’s Corp., Oak Brook, IL",100
+McGraw Hill Companies Inc The,80.0,2009,,,0
+McGuireWoods LLP,95.0,2009,,,0
+McKenna Long & Aldridge LLP,90.0,2009,,,0
+McKesson Corp,68.0,2009,58155Q103,"McKesson Corp., San Francisco, CA",100
+McKinsey & Inc,100.0,2009,,,0
+MeadWestvaco Corp,60.0,2009,583334107,"MeadWestvaco Corp., Richmond, VA",100
+Medtronic Inc,95.0,2009,585730104,"Medtronic Inc., Minneapolis, MN",100
+Meijer Inc,15.0,2009,,,0
+Men’ Wearhouse Inc The,50.0,2009,587118100,"Men’s Wearhouse Inc., The, Houston, TX",100
+Merck & Inc,100.0,2009,58933Y105,"Merck & Co. Inc., Kenilworth, NJ",100
+Merrill Lynch &,100.0,2009,59098Z002,"Merrill Lynch & Co., New York, NY",100
+MetLife Inc,100.0,2009,59156R108,"MetLife Inc., New York, NY",100
+MGM Mirage,85.0,2009,552953100,"MGM Mirage, Las Vegas, NV",100
+Microsoft Corp,100.0,2009,594918104,"Microsoft Corp., Redmond, WA",100
+Milbank Tweed Hadley & McCloy LLP,85.0,2009,,,0
+Miller Brewing,90.0,2009,,,0
+Mirant Corp,45.0,2009,604675100,"Mirant Corp., Atlanta, GA",100
+Mitchell Gold Bob Williams,100.0,2009,,,0
+Mohawk Industries Inc,65.0,2009,608190104,"Mohawk Industries Inc., Calhoun, GA",100
+Monsanto,85.0,2009,61166W101,"Monsanto Co., St. Louis, MO",100
+Moody’ Corp,83.0,2009,615369105,"Moody’s Corp., New York, NY",100
+Morgan Lewis & Bockius LLP,80.0,2009,,,0
+Morgan Stanley,100.0,2009,617446448,"Morgan Stanley, New York, NY",100
+Morningstar Inc,58.0,2009,617700109,"Morningstar Inc., Chicago, IL",100
+Morrison & Foerster LLP,100.0,2009,,,0
+Motorola Inc,100.0,2009,620076307,"Motorola Inc., Schaumburg, IL",100
+Mutual Omaha Insurance,80.0,2009,62899Q932,"Mutual of Omaha Insurance, Omaha, NE",100
+National City Corp,80.0,2009,635405103,"National City Corporation, Cleveland, OH",100
+National Grid USA,100.0,2009,636274409,"National Grid USA, Waltham, MA",100
+Nationwide,100.0,2009,638641100,"Nationwide, Columbus, OH",100
+NCR Corp,100.0,2009,62886E108,"NCR Corp., Duluth, GA",100
+Nestle Purina PetCare,75.0,2009,,,0
+New York Life Insurance,100.0,2009,64952G934,"New York Life Insurance Co., New York, NY",100
+New York Times,100.0,2009,650111107,"New York Times Co., New York, NY",100
+Newell Rubbermaid Inc,100.0,2009,651229100,"Newell Rubbermaid Inc., Atlanta, GA",100
+Nielsen The,100.0,2009,,,0
+Nike Inc,100.0,2009,654106103,"Nike Inc., Beaverton, OR",100
+Nissan North America Inc,50.0,2009,654744408,"Nissan North America Inc., Franklin, TN",100
+Nixon Peabody LLP,100.0,2009,,,0
+Nokia,50.0,2009,654902204,"Nokia Inc., Irving, TX",100
+Nordstrom Inc,100.0,2009,655664100,"Nordstrom Inc., Seattle, WA",100
+Nortel Networks Corp,85.0,2009,656568508,"Nortel Networks Corp., Richardson, TX",100
+Northeast Utilities,65.0,2009,664397100,"Northeast Utilities, Springfield, MA",100
+Northern Trust Corp,100.0,2009,665859104,"Northern Trust Corp., Chicago, IL",100
+Northrop Grumman Corp,100.0,2009,666807102,"Northrop Grumman Corp., Falls Church, VA",100
+Northwest Airlines Corp,85.0,2009,667280408,"Northwest Airlines Corp., Eagan, MN",100
+Novartis Pharmaceutical Corp,100.0,2009,,,0
+Ofﬁ Depot Inc,60.0,2009,,,0
+Ofﬁ ceMax Inc,80.0,2009,,,0
+’Melveny & Myers LLP,100.0,2009,,,0
+Omnicom Group,80.0,2009,681919106,"Omnicom Group, New York, NY",100
+Oracle Corp,100.0,2009,68389X105,"Oracle Corp., Redwood City, CA",100
+Orbitz Worldwide Inc,100.0,2009,68557K109,"Orbitz Worldwide Inc., Chicago, IL",100
+Orrick Herrington & Sutcliffe LLP,100.0,2009,,,0
+Owens & Minor Inc,55.0,2009,690732102,"Owens & Minor Inc., Mechanicsville, VA",100
+Owens Corning,100.0,2009,690742101,"Owens Corning, Toledo, OH",100
+Paciﬁ Mutual Holding,65.0,2009,,,0
+Paciﬁ Corp,85.0,2009,,,0
+Palm Management Corp,78.0,2009,,,0
+Pathmark Stores Inc,53.0,2009,70322A101,"Pathmark Stores Inc., Carteret, NJ",100
+Patterson Belknap Webb & Tyler LLP,100.0,2009,,,0
+Paul Hastings Janofsky & Walker LLP,100.0,2009,,,0
+Paul Weiss Rifkind Wharton & Garrison LLP,80.0,2009,,,0
+Pepco Holdings Inc,65.0,2009,713291102,"Pepco Holdings Inc., Washington, DC",100
+Pepper Hamilton LLP,90.0,2009,,,0
+Pepsi Bottling Group Inc The,100.0,2009,713409100,"Pepsi Bottling Group Inc., The, Somers, NY",100
+PepsiAmericas Inc,95.0,2009,71343P200,"PepsiAmericas Inc., Minneapolis, MN",100
+PepsiCo Inc,100.0,2009,713448108,"PepsiCo Inc., Purchase, NY",100
+Perkins & Will Group Ltd The,55.0,2009,,,0
+Perkins Coie,100.0,2009,,,0
+Perot Systems Corp,0.0,2009,714265105,"Perot Systems Corp., Plano, TX",100
+Pﬁ zer Inc,100.0,2009,,,0
+Employer & Corp,100.0,2009,,,0
+Pillsbury Winthrop Shaw Pittman LLP,100.0,2009,,,0
+Pitney Bowes Inc,85.0,2009,724479100,"Pitney Bowes Inc., Stamford, CT",100
+PNC Financial Services Group Inc,80.0,2009,693475105,"PNC Financial Services Group Inc., Pittsburgh, PA",100
+PNM Resources Inc,43.0,2009,69349H107,"PNM Resources Inc., Albuquerque, NM",100
+Polaroid Corp,60.0,2009,731095100,"Polaroid Corp., Waltham, MA",100
+Polsinelli Shalton Welte Suelthaus,80.0,2009,,,0
+Powell Goldstein LLP,100.0,2009,,,0
+PPG Industries Inc,45.0,2009,693506107,"PPG Industries Inc., Pittsburgh, PA",100
+PPL Corp,65.0,2009,69351T106,"PPL Corp., Allentown, PA",100
+Praxair Inc,25.0,2009,74005P104,"Praxair Inc., Danbury, CT",100
+PricewaterhouseCoopers LLP,100.0,2009,,,0
+Principal Financial Group,95.0,2009,74299X938,"Principal Financial Group, Des Moines, IA",100
+Procter & Gamble,85.0,2009,742718109,"Procter & Gamble Co., Cincinnati, OH",100
+Progress Energy Inc,68.0,2009,26499B009,"Progress Energy Inc., Raleigh, NC",100
+Progressive Corp The,100.0,2009,743315103,"Progressive Corp., The, Mayfield Village, OH",100
+Proskauer Rose LLP,100.0,2009,,,0
+Prudential Financial Inc,100.0,2009,744320102,"Prudential Financial Inc., Newark, NJ",100
+QUALCOMM Inc,95.0,2009,747525103,"QualComm, San Diego, CA",100
+Quarles & Brady LLP,80.0,2009,,,0
+Quest Diagnostics Inc,85.0,2009,74834L100,"Quest Diagnostics Inc., Madison, NJ",100
+Qwest Communications International Inc,80.0,2009,749121109,"Qwest Communications International Inc., Denver, CO",100
+Donnelley & Sons,55.0,2009,257867200,"R.R. Donnelley & Sons Co., Chicago, IL",100
+RadioShack Corp,40.0,2009,750438100,"Radioshack, Fort Worth, TX",100
+Raymond James Financial Inc,100.0,2009,754730109,"Raymond James Financial Inc., St. Petersburg, FL",100
+Raytheon,100.0,2009,755111507,"Raytheon Co., Waltham, MA",100
+Realogy Corp,80.0,2009,75605Y106,"Realogy Corp., Madison, NJ",100
+Recreational Equipment Inc,100.0,2009,,,0
+Reebok International,68.0,2009,758110100,"Reebok International, Canton, MA",100
+Reed Smith LLP,75.0,2009,,,0
+Reliant Energy Inc,75.0,2009,75952B100,"Reliant Energy Inc., Houston, TX",100
+Replacements Ltd,100.0,2009,,,0
+Reynolds American Inc,100.0,2009,761713106,"Reynolds American Inc., Winston-Salem, NC",100
+Rite Aid Corp,85.0,2009,767754104,"Rite Aid Corp., Camp Hill, PA",100
+Robins Kaplan Miller & Ciresi LLP,100.0,2009,,,0
+Rockwell Collins Inc,75.0,2009,774341101,"Rockwell Collins Inc., Cedar Rapids, IA",100
+Rohm and Haas,80.0,2009,775371107,"Rohm and Haas Company, Philadelphia, PA",100
+Ropes & Gray LLP,100.0,2009,,,0
+Royal Caribbean Cruises Ltd,55.0,2009,V7780T103,"Royal Caribbean Cruises Ltd., Miami, FL",100
+Ryder System Inc,93.0,2009,783549108,"Ryder System Inc., Miami, FL",100
+Ryland Group,30.0,2009,783764103,"Ryland Group, Calabasas, CA",100
+Sabre Holdings Inc,100.0,2009,785905100,"Sabre Holdings Inc., Southlake, TX",100
+SAFECO Corp,75.0,2009,786429100,"Safeco, Seattle, WA",100
+Safeway Inc,75.0,2009,786514208,"Safeway Inc., Pleasanton, CA",100
+Sanoﬁ Aventis LLC,65.0,2009,,,0
+SAP America Inc,90.0,2009,055625008,"BP America Inc., Houston, TX",86
+Sara Lee Corp,75.0,2009,803111100,"Sara Lee Corp., Downers Grove, IL",100
+Saul Ewing LLP,68.0,2009,,,0
+Johnson & Son Inc,100.0,2009,478160104,"Johnson & Johnson, New Brunswick, NJ",85
+Schering Plough Corp,100.0,2009,806605101,"Schering-Plough Corp., Kenilworth, NJ",100
+Schiff Hardin LLP,80.0,2009,,,0
+Scholastic Corp,50.0,2009,807066105,"Scholastic Corp., New York, NY",100
+Schulte Roth & Zabel LLP,80.0,2009,,,0
+Seagate Technology LLC,60.0,2009,G7945M107,"Seagate Technology LLC, Scotts Valley, CA",100
+Sears Holdings Corp,100.0,2009,812350106,"Sears Holdings Corp., Hoffman Estates, IL",100
+Sedgwick Detert Moran & Arnold LLP,100.0,2009,,,0
+Selective Insurance Group,85.0,2009,816300107,"Selective Insurance Group, Branchville, NJ",100
+Sempra Energy,100.0,2009,816851109,"Sempra Energy, San Diego, CA",100
+Severn Trent Services Inc,65.0,2009,,,0
+Seyfarth Shaw LLP,100.0,2009,,,0
+Shell Oil,100.0,2009,822635009,"Shell Oil Co., Houston, TX",100
+Sheppard Mullin Richter & Hampton LLP,95.0,2009,,,0
+Shook Hardy & Bacon LLP,85.0,2009,,,0
+Sidley Austin LLP,100.0,2009,,,0
+Sierra Health Services Inc,88.0,2009,826322109,"Sierra Health Services Inc., Las Vegas, NV",100
+Sirius Satellite Radio Inc,80.0,2009,82966U100,"Sirius Satellite Radio Inc., New York, NY",100
+SLM Corp Sallie Mae,60.0,2009,78442P106,"SLM Corp. (Sallie Mae), Newark, DE",100
+Sodexho Inc,100.0,2009,833793102,"Sodexho Inc., Gaithersburg, MD",100
+Software House International,40.0,2009,,,0
+Sonnenschein Nath & Rosenthal LLP,100.0,2009,,,0
+Southern California Edison,100.0,2009,842400004,"Southern California Edison Company, Rosemead, CA",100
+Southern,48.0,2009,842812109,"Southern Co., Atlanta, GA",100
+Southwest Airlines,90.0,2009,844741108,"Southwest Airlines Co., Dallas, TX",100
+Sprint Nextel Corp,100.0,2009,852061100,"Sprint Nextel Corp., Overland Park, KS",100
+Squire Sanders & Dempsey LLP,100.0,2009,,,0
+Employer SRA International Inc,75.0,2009,,,0
+Staples Inc,93.0,2009,855030102,"Staples Inc., Framingham, MA",100
+Starbucks Corp,100.0,2009,855244109,"Starbucks Corp., Seattle, WA",100
+Starcom MediaVest Group,100.0,2009,,,0
+Starwood Hotels & Resorts Worldwide,100.0,2009,85590A401,"Starwood Hotels & Resorts Worldwide, Stamford, CT",100
+State Farm Group,80.0,2009,85699K938,"State Farm Group, Bloomington, IL",100
+State Street Corp,100.0,2009,857477103,"State Street Corp., Boston, MA",100
+Steelcase Inc,60.0,2009,858155203,"Steelcase Inc., Grand Rapids, MI",100
+Steptoe & Johnson LLP,85.0,2009,,,0
+Stinson Morrison Hecker LLP,95.0,2009,,,0
+Stoel Rives LLP,95.0,2009,,,0
+Subaru America Inc,100.0,2009,864278106,"Subaru of America Inc., Cherry Hill, NJ",100
+Sullivan & Cromwell LLP,100.0,2009,,,0
+Sun Life Financial Inc,100.0,2009,866796105,"Sun Life Financial Inc. (U.S.), Wellesley Hills, MA",100
+Sun Microsystems Inc,100.0,2009,866810203,"Sun Microsystems Inc., Santa Clara, CA",100
+SunTrust Banks Inc,100.0,2009,867914103,"SunTrust Banks Inc., Atlanta, GA",100
+Supervalu Inc,100.0,2009,868536301,"Supervalu Inc., Eden Prairie, MN",100
+Sutherland Asbill & Brennan LLP,95.0,2009,,,0
+Symantec Corp,100.0,2009,871503108,"Symantec Corp., Mountain View, CA",100
+Target Corp,100.0,2009,87612E106,"Target Corp., Minneapolis, MN",100
+Association College Retirement,78.0,2009,,,0
+Tech Data Corp,100.0,2009,878237106,"Tech Data Corp., Clearwater, FL",100
+Tenet Healthcare,35.0,2009,88033G407,"Tenet Healthcare Corporation, Dallas, TX",100
+Texas Instruments Inc,100.0,2009,882508104,"Texas Instruments Inc., Dallas, TX",100
+Thompson Coburn LLP,100.0,2009,,,0
+Tiffany &,68.0,2009,886547108,"Tiffany & Co., New York, NY",100
+Time Warner Inc,100.0,2009,887317303,"Time Warner Inc., New York, NY",100
+TJX Companies Inc The,100.0,2009,872540109,"TJX Companies, Inc., The, Framingham, MA",100
+Toyota Financial Services Corp,100.0,2009,892332008,"Toyota Financial Services Corp., Torrance, CA",100
+Toyota Motor Sales USA Inc,100.0,2009,892331307,"Toyota Motor Sales USA Inc., Torrance, CA",100
+Toys ‘’ Inc,65.0,2009,892335936,"Toys ‘R’ Us Inc., Wayne, NJ",100
+Travel Impressions Ltd,93.0,2009,,,0
+Travelers Companies Inc The,50.0,2009,89417E109,"Travelers Companies Inc., The, New York, NY",100
+Travelport Inc,100.0,2009,G9019D104,"Travelport Ltd., Parsippany, NJ",100
+Troutman Sanders LLP,100.0,2009,,,0
+Bancorp,100.0,2009,902973304,"U.S. Bancorp, Minneapolis, MN",100
+United Parcel Service Inc UPS,43.0,2009,911312106,"United Parcel Service Inc. (UPS), Atlanta, GA",100
+United Technologies Corp,42.0,2009,913017109,"United Technologies Corp., Farmington, CT",100
+UnitedHealth Group Inc,21.0,2009,91324P102,"UnitedHealth Group Inc., Minnetonka, MN",100
+Verizon Communications Inc,13.0,2009,92343V104,"Verizon Communications Inc., New Jersey, NJ",100
+Wachovia Corp,46.0,2009,929903102,"Wachovia Corp., Charlotte, NC",100
+Walgreen,44.0,2009,931427108,"Walgreen Co., Deerfield, IL",100
+Wal Mart Stores Inc,1.0,2009,931142103,"Wal-Mart Stores Inc., Bentonville, AR",100
+Walt Disney,64.0,2009,254687106,"Walt Disney Co., Burbank, CA",100
+Washington Mutual Inc,81.0,2009,939322103,"Washington Mutual Inc., Seattle, WA",100
+WellPoint Inc,35.0,2009,94999Y960,"WellPoint Inc., Indianapolis, IN",100
+Wells Fargo &,41.0,2009,949746101,"Wells Fargo & Co., San Francisco, CA",100
+Employer Wildman Harrold Allen & Dixon LLP,80.0,2009,,,0
+Williams Companies Inc,55.0,2009,,,0
+Wilmer Cutler Pickering Hale & Dorr LLP,100.0,2009,,,0
+Wilson Sonsini Goodrich & Rosati,100.0,2009,,,0
+Winston & Strawn LLP,100.0,2009,,,0
+Wisconsin Energy Corp,55.0,2009,976657100,"Wisconsin Energy Corporation, Milwaukee, WI",100
+Womble Carlyle Sandridge & Rice LLC,65.0,2009,,,0
+WPP Group USA,93.0,2009,,,0
+Wyeth,80.0,2009,983024100,"Wyeth, Madison, NJ",100
+Wyndham Worldwide Corp,100.0,2009,98310W108,"Wyndham Worldwide Corp., Parsippany, NJ",100
+Xcel Energy,60.0,2009,98389B100,"Xcel Energy Inc., Minneapolis, MN",100
+Xerox Corp,100.0,2009,984121608,"Xerox Corp., Norwalk, CT",100
+Satellite Radio Holdings Inc,93.0,2009,983759101,"XM Satellite Radio Holdings Inc., Washington, DC",100
+Yahoo! Inc,100.0,2009,021346101,"Yahoo! Inc., Sunnyvale, CA",100
+YRC Worldwide Inc,30.0,2009,984249607,"YRC Worldwide Inc., Overland Park, KS",100
+Yum! Brands Inc,65.0,2009,988498101,"Yum! Brands Inc., Louisville, KY",100
+Zurich North America,65.0,2009,,,0
+Vertis Inc,30.0,2009,925335937,"Vertis Inc., Baltimore, MD",100
+Boeing,100.0,2009,097023105,"Boeing Co., Chicago, IL",100
+Alliant Techsystems,65.0,2009,68557N103,"Alliant Techsystems Inc., Arlington, VA",100
+Alaska Airlines,100.0,2009,011662004,"Alaska Airlines, Seattle, WA",100
+AMR Corp American Airlines,100.0,2009,023771009,"AMR Corp. (American Airlines), Fort Worth, TX",100
+Continental Airlines Inc,100.0,2009,21099Y004,"Continental Airlines Inc., Houston, TX",100
+Airways Group Inc,100.0,2009,90341W108,"US Airways Group, Inc., Phoenix, AZ",100
+UAL Corp United Airlines,88.0,2009,909279002,"UAL Corp. (United Airlines), Chicago, IL",100
+Abercrombie & Fitch,100.0,2009,002896207,"Abercrombie & Fitch Co., New Albany, OH",100
+Carmax Inc,100.0,2009,143130102,"CarMax Inc., Richmond, VA",100
+Chrysler LLC,100.0,2009,171196108,"Chrysler LLC, Auburn Hills, MI",100
+Visteon Corp,100.0,2009,92839U206,"Visteon Corp., Van Buren Township, MI",100
+Volkswagen America Inc,100.0,2009,928662303,"Volkswagen of America Inc., Herndon, VA",100
+Bridgestone Americas Holding Inc,80.0,2009,318315108,"Bridgestone Americas Holding Inc., Nashville, TN",100
+Cooper Tire & Rubber,33.0,2009,216831107,"Cooper Tire & Rubber Co., Findlay, OH",100
+American Express,100.0,2009,025816109,"American Express Co., New York, NY",100
+Ameriprise Financial Inc,100.0,2009,03076C106,"Ameriprise Financial Inc., Minneapolis, MN",100
+Bank America Corp,100.0,2009,060505104,"Bank of America Corp., Charlotte, NC",100
+Bank New York Mellon Corp The,100.0,2009,064058100,"Bank of New York Mellon Corp., The, New York, NY",100
+Capital One Financial Corp,100.0,2009,14040H105,"Capital One Financial Corp., McLean, VA",100
+Charles Schwab Corp The,100.0,2009,808513105,"Charles Schwab Corp., The, San Francisco, CA",100
+Citigroup Inc,100.0,2009,172967424,"Citigroup Inc., New York, NY",100
+Credit Suisse USA Inc,100.0,2009,225401009,"Credit Suisse USA Inc., New York, NY",100
+UBS,100.0,2009,H42097107,"UBS AG, New York, NY",100
+Visa,100.0,2009,92826C839,"Visa, San Francisco, CA",100
+Canadian Imperial Bank Commerce,95.0,2009,136069101,"Canadian Imperial Bank of Commerce, New York, NY",100
+Barclays Capital,90.0,2009,6.7380000000e+207,"Barclays Capital, New York, NY",100
+AmTrust Bank,83.0,2009,649445103,"AmTrust Bank, Cleveland, OH",100
+Comerica Inc,80.0,2009,200340107,"Comerica Inc., Dallas, TX",100
+Chamberlin Edmonds & Associates Inc,68.0,2009,,,0
+& Corp,48.0,2009,054937107,"BB&T Corp., Winston- Salem, NC",100
+3M,100.0,2009,88579Y101,"3M Company, St. Paul, MN",100
+BASF Corp,100.0,2009,055262505,"BASF Corp., Florham Park, NJ",100
+Bayer Corp,80.0,2009,459041109,"Bayer U.S. LLC, Whippany, NJ",100
+Air Products & Chemicals Inc,75.0,2009,009158106,"Air Products & Chemicals Inc., Allentown, PA",100
+ChoicePoint Inc,100.0,2009,170388102,"ChoicePoint Inc., Alpharetta, GA",100
+Automatic Data Processing Inc,95.0,2009,053015103,"Automatic Data Processing Inc., Roseland, NJ",100
+SRA International Inc,75.0,2009,78464R105,"SRA International Inc., Fairfax, VA",100
+Unisys Corp,70.0,2009,909214306,"Unisys Corp., Blue Bell, PA",100
+Afﬁ liated Computer Services,60.0,2009,008190100,"Affiliated Computer Services, Dallas, TX",93
+Apple Inc,100.0,2009,037833100,"Apple Inc., Cupertino, CA",100
+Cisco Systems Inc,100.0,2009,17275R102,"Cisco Systems Inc., San Jose, CA",100
+International Business Machines Corp IBM,100.0,2009,459200101,"International Business Machines Corp. (IBM), Armonk, NY",100
+CDW Corp,88.0,2009,12514G108,"CDW Corp., Lincolnshire, IL",100
+Avaya Inc,85.0,2009,05399R942,"Avaya Inc., Santa Clara, CA",100
+Acer Inc,50.0,2009,750070104,"Acer Inc., Irvine, CA",100
+Avnet Inc,30.0,2009,053807103,"Avnet Inc., Phoenix, AZ",100
+BMC Software Inc,100.0,2009,055921100,"BMC Software Inc., Houston, TX",100
+Electronic Arts Inc,100.0,2009,285512109,"Electronic Arts Inc., Redwood City, CA",100
+Adobe Systems Inc,95.0,2009,00724F101,"Adobe Systems Inc., San Jose, CA",100
+Compuware Corp,93.0,2009,205638109,"Compuware Corp., Detroit, MI",100
+Cerner Corp,65.0,2009,156782104,"Cerner Corp., North Kansas City, MO",100
+Accenture Ltd,100.0,2009,G1150G110,"Accenture Ltd., New York, NY",100
+Bain & Inc & Bridgespan Group Inc,100.0,2009,,,0
+Boston Consulting Group,100.0,2009,,,0
+Adecco North America LLC,85.0,2009,006754105,"Adecco North America LLC, Jacksonville, FL",100
+Kearney Inc,80.0,2009,,,0
+Booz Allen Hamilton Inc,80.0,2009,099500100,"Booz Allen Hamilton Inc., McLean, VA",100
+Convergys Corp,80.0,2009,212485106,"Convergys Corp., Cincinnati, OH",100
+Bright Horizons Family Solutions Inc,100.0,2009,109194100,"Bright Horizons Family Solutions LLC, Watertown, MA",100
+Constellation Energy Group Inc,100.0,2009,210371100,"Constellation Energy Group Inc., Baltimore, MD",100
+& Corp,100.0,2009,69331C108,"PG&E Corp., San Fran- cisco, CA",100
+Consolidated Edison,95.0,2009,209115104,"Consolidated Edison Co., New York, NY",100
+Alliant Energy Corp,85.0,2009,018802108,"Alliant Energy Corp., Madison, WI",100
+Calpine Corp,48.0,2009,131347304,"Calpine Corp., Houston, TX",100
+Allegheny Energy,45.0,2009,017361106,"Allegheny Energy Inc., Greensburg, PA",100
+Ameren Corp,45.0,2009,023608102,"Ameren Corp., St. Louis, MO",100
+Aquila,35.0,2009,03840P102,"Aquila, Kansas City, MO",100
+CH2M HILL Companies Ltd,80.0,2009,12599T918,"CH2M HILL Companies, Ltd., Englewood, CO",100
+Clear Channel Communications Inc,100.0,2009,18499Y923,"Clear Channel Communications Inc., San Antonio, TX",100
+Cox Enterprises Inc /Cox Communications Inc,100.0,2009,22499Z005,"Cox Enterprises Inc./Cox Communications Inc., Atlanta, GA",100
+Viacom Inc,100.0,2009,92553P201,"Viacom Inc., New York, NY",100
+Corbis Corp,80.0,2009,218525103,"Corbis Corp., Seattle, WA",100
+Comcast Corp,80.0,2009,20030N101,"Comcast Corp., Philadelphia, PA",100
+AMC Entertainment Inc,63.0,2009,01199Y005,"AMC Entertainment Inc., Leawood , KS",100
+Vivendi,35.0,2009,92852T201,"Vivendi, New York, NY",100
+Anheuser Busch Companies Inc,100.0,2009,035229103,"Anheuser-Busch Companies Inc., St. Louis, MO",100
+Brinker International Inc,100.0,2009,109641100,"Brinker International Inc., Dallas, TX",100
+Campbell Soup,100.0,2009,134429109,"Campbell Soup Co., Camden, NJ",100
+Cargill Inc,100.0,2009,,,0
+Coca Cola The,100.0,2009,191216100,"Coca-Cola Co., The, Atlanta, GA",100
+Coca Cola Enterprises Inc,100.0,2009,,,0
+Coors Brewing,100.0,2009,60871R209,"Coors Brewing Company, Golden, CO",100
+ConAgra Foods Inc,90.0,2009,205887100,"ConAgra Foods Inc., Omaha, NE",100
+Whole Foods Market Inc,90.0,2009,966837106,"Whole Foods Market Inc., Austin, TX",100
+Ahold USA Inc,78.0,2009,500467501,"Ahold USA Inc., Quincy, MA",100
+Aramark Corp,75.0,2009,002034932,"Aramark Corp., Philadelphia, PA",100
+Compass Group USA Inc,65.0,2009,,,0
+Foodservice Inc,58.0,2009,90331R101,"U.S. Foodservice Inc., Rosemont, IL",100
+& Wholesale Grocers Inc,40.0,2009,,,0
+Brown Forman Corp,20.0,2009,115637209,"Brown-Forman Corp., Louisville, KY",100
+Archer Daniels Midland,15.0,2009,039483102,"Archer Daniels Midland Co., Chicago, IL",100
+CBRL Group Inc Cracker Barrel,15.0,2009,22410J106,"CBRL Group Inc. (Cracker Barrel), Lebanon, TN",100
+Weyerhaeuser,75.0,2009,962166104,"Weyerhaeuser Co., Federal Way, WA",100
+Bausch & Lomb Inc,100.0,2009,71799B937,"Bausch & Lomb Inc., Rochester, NY",100
+Cardinal Health,100.0,2009,14149Y108,"Cardinal Health Inc., Dublin, OH",100
+CIGNA Corp,95.0,2009,125509109,"Cigna, Philadelphia, PA",100
+Abbott Laboratories,80.0,2009,002824100,"Abbott Laboratories, Abbott Park, IL",100
+Baxter International Inc,80.0,2009,071813109,"Baxter International Inc., Deerfield, IL",100
+Vision Service Plan,65.0,2009,,,0
+Austin Radiological Assn,53.0,2009,,,0
+University Hospitals Cleveland,50.0,2009,,,0
+Agilent Technologies Inc,100.0,2009,00846U101,"Agilent Technologies Inc., Santa Clara, CA",100
+Corning Inc,100.0,2009,219350105,"Corning Inc., Corning, NY",100
+Applied Materials Inc,88.0,2009,038222105,"Applied Materials Inc., Santa Clara, CA",100
+Advanced Micro Devices Inc,80.0,2009,007903107,"Advanced Micro Devices Inc., Sunnyvale, CA",100
+Carlson Companies Inc,100.0,2009,145845103,"Carlson Companies Inc., Minnetonka, MN",100
+AAA Northern California Nevada and Utah,100.0,2009,,,0
+Aetna Inc,100.0,2009,00817Y108,"Aetna Inc., Hartford, CT",100
+Allianz Life Insurance North America,100.0,2009,018805101,"Allianz Life Insurance Co. of North America, Minneapolis, MN",100
+Allstate Corp The,100.0,2009,020002101,"Allstate Corp., The, Northbrook, IL",100
+Aon Corp,100.0,2009,G0408V102,"Aon Corp., Chicago, IL",100
+Chubb Corp,100.0,2009,171232101,"Chubb Corp., Philadelphia, PA",100
+CNA Insurance,100.0,2009,,,0
+American Family Insurance Group,95.0,2009,02599X936,"American Family Insurance Group, Madison, WI",100
+Unum Group,88.0,2009,91529Y106,"Unum Group, Chattanooga, TN",100
+American International Group Inc,85.0,2009,026874784,"American International Group Inc., New York, NY",100
+Teachers Insurance and Annuity Association,78.0,2009,,,0
+CUNA Mutual Insurance Group,65.0,2009,,,0
+AEGON USA Inc,40.0,2009,007924103,"Aegon USA, New York, NY",100
+Amazon com Inc,80.0,2009,023135106,"Amazon.com Inc., Seattle, WA",100
+Akin Gump Strauss Hauer & Feld LLP,100.0,2009,,,0
+Alston & Bird LLP,100.0,2009,,,0
+Arent Fox LLP,100.0,2009,,,0
+Arnold & Porter LLP,100.0,2009,,,0
+Baker & Daniels LLP,100.0,2009,,,0
+Bingham McCutchen LLP,100.0,2009,,,0
+Brown Rudnick LLP,100.0,2009,,,0
+Bryan Cave LLP,100.0,2009,,,0
+Cleary Gottlieb Steen & Hamilton LLP,100.0,2009,,,0
+Clifford Chance LLP,100.0,2009,,,0
+Covington & Burling LLP,100.0,2009,,,0
+Cravath Swaine & Moore LLP,100.0,2009,,,0
+Fried Frank Haris Shriver & Jacobson LLP,100.0,2009,,,0
+Mintz Levin Cohn Ferris Glovsky & Popeo,100.0,2009,,,0
+Skadden Arps Slate Meagher & Flom LLP,100.0,2009,,,0
+Vinson & Elkins LLP,100.0,2009,,,0
+Wachtell Lipton Rosen & Katz LLP,100.0,2009,,,0
+Weil Gotshal & Manges LLP,100.0,2009,,,0
+White & Case LLP,100.0,2009,,,0
+Cadwalader Wickersham & Taft LLP,95.0,2009,,,0
+Crowell & Moring LLP,95.0,2009,,,0
+Thelen Reid Brown Raysman & Steiner LLP,95.0,2009,,,0
+Carlton Fields,90.0,2009,,,0
+Chadbourne & Parke LLP,90.0,2009,,,0
+McCarter & English LLP,90.0,2009,,,0
+Baker & Botts LLP,80.0,2009,,,0
+Ballard Spahr Andrews & Ingersoll LLP,80.0,2009,,,0
+Vorys Sater Seymour & Pease LLP,80.0,2009,,,0
+Wildman Harrold Allen & Dixon LLP,80.0,2009,,,0
+Baker & McKenzie,75.0,2009,,,0
+Andrews Kurth LLP,70.0,2009,,,0
+Finnegan Henderson Farabow Garrett & Dunner LLP,40.0,2009,,,0
+Baker Donelson Bearman Caldwell & Berkowitz,35.0,2009,,,0
+CSX Corp,75.0,2009,126408103,"CSX Corp., Jacksonville, FL",100
+Union Paciﬁ Corp,58.0,2009,,,0
+BNSF Railway,30.0,2009,121899009,"BNSF Railway Co., Fort Worth, TX",100
+Cummins Inc,100.0,2009,231021106,"Cummins Inc., Columbus, IN",100
+Whirlpool Corp,100.0,2009,963320106,"Whirlpool Corp., Benton Harbor, MI",100
+American Power Conversion Corp,63.0,2009,029066107,"American Power Conversion Corp., West Kingston, RI",100
+Caterpillar Inc,55.0,2009,149123101,"Caterpillar Inc., Peoria, IL",100
+Baldor Electric,20.0,2009,057741100,"Baldor Electric Co., Fort Smith, AR",100
+Alcoa Inc,85.0,2009,013817507,"Alcoa Inc., Chicago, IL",100
+Ball Corp,58.0,2009,058498106,"Ball Corp., Broomfield, CO",100
+America Inc,100.0,2009,055625008,"BP America Inc., Houston, TX",100
+Chevron Corp,100.0,2009,166764100,"Chevron Corp., San Ramon, CA",100
+ConocoPhillips,60.0,2009,20825C104,"ConocoPhillips, Houston, TX",100
+Boehringer Ingelheim Pharmaceuticals Inc,100.0,2009,,,0
+Bristol Myers Squibb,100.0,2009,110122108,"Bristol-Myers Squibb Co., New York, NY",100
+Hospira Inc,100.0,2009,441060100,"Hospira Inc., Lake Forest, IL",100
+CVS Corp,90.0,2009,126650100,"CVS Corp., Woonsocket, RI",100
+AstraZeneca PLC,80.0,2009,046353108,"AstraZeneca PLC, Wilmington, DE",100
+Amgen Inc,70.0,2009,031162100,"Amgen Inc., Thousand Oaks, CA",100
+United Business Media LLC,100.0,2009,90969M100,"United Business Media LLC, Manhasset, NY",100
+West,95.0,2009,952355204,"West Corp., Omaha, NE",100
+Barnes & Noble Inc,100.0,2009,067774109,"Barnes & Noble Inc., New York, NY",100
+Best Buy Inc,100.0,2009,086516101,"Best Buy Co. Inc., Richfield, MN",100
+Borders Group Inc,100.0,2009,099709107,"Borders Group Inc., Ann Arbor, MI",100
+Clorox,100.0,2009,189054109,"Clorox Company, Oakland, CA",100
+Unilever,100.0,2009,904767704,"Unilever, Englewood Cliffs, NJ",100
+Colgate Palmolive,73.0,2009,194162103,"Colgate-Palmolive Co., New York, NY",100
+Avon Products Inc,60.0,2009,054303102,"Avon Products Inc., New York, NY",100
+Black & Decker Corp The,55.0,2009,091797100,"Black & Decker Corp., The, Towson, MD",100
+Circuit City Stores Inc,55.0,2009,172737108,"Circuit City Stores Inc., Richmond, VA",100
+AutoZone Inc,25.0,2009,053332102,"AutoZone Inc., Memphis, TN",100
+Alcatel Lucent,100.0,2009,013904305,"Alcatel-Lucent, Murray Hill, NJ",100
+& Inc,100.0,2009,00206R102,"AT&T Inc., Dallas, TX",100
+ALLTEL Corp,80.0,2009,020039103,"ALLTEL Corp., Little Rock, AR",100
+Avis Budget Group Inc,80.0,2009,053774105,"Avis Budget Group Inc., Parsippany, NJ",100
+Waste Management Inc,85.0,2009,94106L109,"Waste Management Inc., Houston, TX",100

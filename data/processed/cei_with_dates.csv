@@ -1,0 +1,1805 @@
+employer,cei_score,year,cusip,release_date
+"AIG (American International Group), New York, NY",29.0,2002,22673Q102,2002-08-13
+"Advanced Digital Information Corp., Redmond, WA",29.0,2002,007525108,2002-08-13
+"American President Lines Ltd., Oakland, CA",43.0,2002,00202M107,2002-08-13
+"Archer Daniels Midland Co., Chicago, IL",29.0,2002,039483102,2002-08-13
+"Automatic Data Processing Inc., Roseland, NJ",29.0,2002,053015103,2002-08-13
+"CBRL Group Inc. (Cracker Barrel restaurants), Lebanon, TN",0.0,2002,22410J106,2002-08-13
+"Delphi Automotive, Troy, MI",71.0,2002,247128101,2002-08-13
+"Electronic Data Systems Corp., Plano, TX",57.0,2002,285661104,2002-08-13
+"Franklin Templeton Investments, San Mateo, CA",29.0,2002,35472T100,2002-08-13
+"IBM (International Business Machines Corp.), Armonk, NY",86.0,2002,459200101,2002-08-13
+"John Hancock Financial Services Inc., Boston, MA",86.0,2002,41014S106,2002-08-13
+"MetLife (Metropolitan Life Insurance), New York, NY",71.0,2002,59156R108,2002-08-13
+"Minnesota Mining and Manufacturing (3M), St. Paul, MN",57.0,2002,88579Y101,2002-08-13
+"Nextel Communications, Reston, VA",57.0,2002,65332V103,2002-08-13
+"Northwest Airlines Corp., Eagan, MN",71.0,2002,667280408,2002-08-13
+"Qwest Communications International Inc., Denver, CO",86.0,2002,749121109,2002-08-13
+"Rockwell Collins - Passenger Systems, Pomona, CA",43.0,2002,774341101,2002-08-13
+"The May Department Stores Co., St. Louis, MO",29.0,2002,577778103,2002-08-13
+"True North Communications Inc., Chicago, IL",43.0,2002,897844106,2002-08-13
+"United Parcel Service Inc. (UPS), Atlanta, GA",29.0,2002,911312106,2002-08-13
+"Washington Mutual Savings Bank, Seattle, WA",86.0,2002,939334100,2002-08-13
+"3M (Minnesota Mining and Manufacturing), St. Paul, MN",71.0,2003,88579Y101,2003-08-28
+"AIG (American International Group), New York, NY",29.0,2003,22673Q102,2003-08-28
+"Advanced Digital Information Corp., Redmond, WA",29.0,2003,007525108,2003-08-28
+"Altria Group Inc. (Philip Morris Companies Inc.), New York, NY",57.0,2003,02209S103,2003-08-28
+"American President Lines Ltd., Oakland, CA",43.0,2003,00202M107,2003-08-28
+"Archer Daniels Midland Co., Chicago, IL",29.0,2003,039483102,2003-08-28
+"Automatic Data Processing Inc., Roseland, NJ",29.0,2003,053015103,2003-08-28
+"Bridgestone Americas Holding Inc. (Firestone), Nashville, TN",57.0,2003,318315108,2003-08-28
+"Coca-Cola (The Coca-Cola Co.), Atlanta, GA",71.0,2003,191216100,2003-08-28
+"Coors Brewing (Adolph Coors Co.)*, Golden, CO",86.0,2003,60871R209,2003-08-28
+"Cracker Barrel Restaurants (CBRL Group Inc.), Lebanon, TN",29.0,2003,22410J106,2003-08-28
+"Delphi Automotive, Troy, MI",71.0,2003,247128101,2003-08-28
+"Electronic Data Systems Corp. (EDS), Plano, TX",86.0,2003,285661104,2003-08-28
+"FleetBoston Financial Corp., Boston, MA",86.0,2003,339030108,2003-08-28
+"Franklin Templeton Investments, San Mateo, CA",29.0,2003,35472T100,2003-08-28
+"Hyatt Hotels Corp. (H Group Holding), Chicago, IL",86.0,2003,448579102,2003-08-28
+"IBM (International Business Machines Corp.), Armonk, NY",100.0,2003,459200101,2003-08-28
+"Interpublic Group of Companies Inc., New York, NY",71.0,2003,460690100,2003-08-28
+"John Hancock Financial Services Inc., Boston, MA",86.0,2003,41014S106,2003-08-28
+"May Department Stores Co., The, St. Louis, MO",29.0,2003,577778103,2003-08-28
+"MetLife (Metropolitan Life Insurance), New York, NY",100.0,2003,59156R108,2003-08-28
+"Nextel Communications, Reston, VA",57.0,2003,65332V103,2003-08-28
+"Northwest Airlines Corp., Eagan, MN",71.0,2003,667280408,2003-08-28
+"PNC Financial Services Group Inc., The, Pittsburgh, PA",64.0,2003,693475105,2003-08-28
+"Procter & Gamble (The Procter & Gamble Co.), Cincinnati, OH",86.0,2003,742718109,2003-08-28
+"Prudential Financial Inc., Newark, NJ",100.0,2003,744320102,2003-08-28
+"Qwest Communications International Inc., Denver, CO",86.0,2003,749121109,2003-08-28
+"Toyota Motor Manufacturing North America Inc., New York, NY",71.0,2003,892331307,2003-08-28
+"United Parcel Service Inc. (UPS), Atlanta, GA",29.0,2003,911312106,2003-08-28
+"Washington Mutual Savings Bank, Seattle, WA",86.0,2003,939334100,2003-08-28
+"3M (Minnesota Mining and Manufacturing), St. Paul, MN",7.0,2004,88579Y101,2004-09-02
+"AIG (American International Group), New York, NY",29.0,2004,22673Q102,2004-09-02
+"Advanced Digital Information Corp., Redmond, WA",29.0,2004,007525108,2004-09-02
+"Affiliated Computer Services, Dallas, TX",86.0,2004,008190100,2004-09-02
+"Agilent Technologies Inc., Santa Clara, CA",100.0,2004,00846U101,2004-09-02
+"Applebee's International Inc., Overland Park, KS",86.0,2004,037899101,2004-09-02
+"Archer Daniels Midland Co., Chicago, IL",29.0,2004,039483102,2004-09-02
+"Automatic Data Processing Inc., Roseland, NJ",29.0,2004,053015103,2004-09-02
+"Bridgestone Americas Holding Inc. (Firestone), Nashville, TN",57.0,2004,318315108,2004-09-02
+"Cracker Barrel Restaurants (CBRL Group Inc.), Lebanon, TN",29.0,2004,22410J106,2004-09-02
+"Electronic Data Systems Corp. (EDS), Plano, TX",86.0,2004,285661104,2004-09-02
+"FleetBoston Financial Corp., Boston, MA",86.0,2004,339030108,2004-09-02
+"Franklin Templeton Investments, San Mateo, CA",29.0,2004,35472T100,2004-09-02
+"Hyatt Hotels Corp. (H Group Holding), Chicago, IL",86.0,2004,448579102,2004-09-02
+"Interpublic Group of Companies Inc., New York, NY",7.0,2004,460690100,2004-09-02
+"John Hancock Financial Services Inc., Boston, MA",79.0,2004,41014S106,2004-09-02
+"May Department Stores Co., The, St. Louis, MO",29.0,2004,577778103,2004-09-02
+"Morgan Stanley, New York, NY",39.0,2004,617446448,2004-09-02
+"National Gypsum, Charlotte, NC",14.0,2004,636317109,2004-09-02
+"Nextel Communications, Reston, VA",71.0,2004,65332V103,2004-09-02
+"PNC Financial Services Group Inc., The, Pittsburgh, PA",79.0,2004,693475105,2004-09-02
+"Procter & Gamble (The Procter & Gamble Co.), Cincinnati, OH",86.0,2004,742718109,2004-09-02
+"Prudential Financial Inc., Newark, NJ",100.0,2004,744320102,2004-09-02
+"Southern California Edison Company, Rosemead, CA",100.0,2004,842400004,2004-09-02
+"Toyota Motor Manufacturing North America Inc., New York, NY",86.0,2004,892331307,2004-09-02
+"United Parcel Service Inc. (UPS), Atlanta, GA",86.0,2004,911312106,2004-09-02
+"Wainwright Bank & Trust Co., Boston, MA",86.0,2004,930705108,2004-09-02
+"Washington Mutual Savings Bank, Seattle, WA",86.0,2004,939334100,2004-09-02
+"Worldspan Technologies Inc., Atlanta, GA",100.0,2004,98158W103,2004-09-02
+"Wyndham International Inc., Dallas, TX",86.0,2004,983101106,2004-09-02
+"SRA International Inc., Fairfax, VA",8.0,2005,78464R105,2005-09-20
+"Citigroup Inc., New York, NY",2.0,2006,172967424,2006-09-19
+"Nextel Communications, Reston, VA",3.0,2006,65332V103,2006-09-19
+"A.G. Edwards Inc., St. Louis, MO",85.0,2008,281760108,2008-09-08
+"AMR Corp. (American Airlines), Fort Worth, TX",100.0,2008,023771009,2008-09-08
+"Abercrombie & Fitch Co., New Albany, OH",100.0,2008,002896207,2008-09-08
+"Accenture Ltd., New York, NY",100.0,2008,G1150G110,2008-09-08
+"Adobe Systems Inc., San Jose, CA",100.0,2008,00724F101,2008-09-08
+"Aetna Inc., Hartford, CT",100.0,2008,00817Y108,2008-09-08
+"Air Products & Chemicals Inc., Allentown, PA",75.0,2008,009158106,2008-09-08
+"Alliant Energy Corp., Madison, WI",80.0,2008,018802108,2008-09-08
+"American Express Co., New York, NY",100.0,2008,025816109,2008-09-08
+"American Power Conversion Corp., West Kingston, RI",58.0,2008,029066107,2008-09-08
+"Ameriprise Financial Inc., Minneapolis, MN",100.0,2008,03076C106,2008-09-08
+"Anheuser-Busch Companies Inc., St. Louis, MO",100.0,2008,035229103,2008-09-08
+"Apple Inc., Cupertino, CA",100.0,2008,037833100,2008-09-08
+"Applebee's International Inc., Overland Park, KS",80.0,2008,037899101,2008-09-08
+"Aramark Corp., Philadelphia, PA",80.0,2008,002034932,2008-09-08
+"Archer Daniels Midland Co., Chicago, IL",15.0,2008,039483102,2008-09-08
+"Automatic Data Processing Inc., Roseland, NJ",95.0,2008,053015103,2008-09-08
+"Avnet Inc., Phoenix, AZ",30.0,2008,053807103,2008-09-08
+"BASF Corp., Florham Park, NJ",95.0,2008,055262505,2008-09-08
+"BB&T Corp., Winston- Salem, NC",25.0,2008,054937107,2008-09-08
+"BMC Software Inc., Houston, TX",70.0,2008,055921100,2008-09-08
+"BP America Inc., Houston, TX",90.0,2008,055625008,2008-09-08
+"Bank of America Corp., Charlotte, NC",100.0,2008,060505104,2008-09-08
+"Bank of New York Co., New York, NY",85.0,2008,064058100,2008-09-08
+"Bausch & Lomb Inc., Rochester, NY",100.0,2008,71799B937,2008-09-08
+"Bear Stearns Companies Inc., The, New York, NY",100.0,2008,073902108,2008-09-08
+"Boeing Co., Chicago, IL",100.0,2008,097023105,2008-09-08
+"Booz Allen Hamilton Inc., McLean, VA",80.0,2008,099500100,2008-09-08
+"Bridgestone Americas Holding Inc., Nashville, TN",80.0,2008,318315108,2008-09-08
+"Bright Horizons Family Solutions LLC, Watertown, MA",100.0,2008,109194100,2008-09-08
+"Brinker International Inc., Dallas, TX",100.0,2008,109641100,2008-09-08
+"CH2M HILL Companies, Ltd., Englewood, CO",80.0,2008,12599T918,2008-09-08
+"Calpine Corp., Houston, TX",48.0,2008,131347304,2008-09-08
+"Campbell Soup Co., Camden, NJ",95.0,2008,134429109,2008-09-08
+"Capital One Financial Corp., McLean, VA",100.0,2008,14040H105,2008-09-08
+"Cerner Corp., North Kansas City, MO",65.0,2008,156782104,2008-09-08
+"Charles Schwab Corp., The, San Francisco, CA",100.0,2008,808513105,2008-09-08
+"ChoicePoint Inc., Alpharetta, GA",100.0,2008,170388102,2008-09-08
+"Cigna, Philadelphia, PA",85.0,2008,125509109,2008-09-08
+"Citigroup Inc., New York, NY",100.0,2008,172967424,2008-09-08
+"Clear Channel Communications Inc., San Antonio, TX",100.0,2008,18499Y923,2008-09-08
+"Coca-Cola Co., The, Atlanta, GA",100.0,2008,191216100,2008-09-08
+"Comcast Corp., Philadelphia, PA",80.0,2008,20030N101,2008-09-08
+"Comerica Inc., Dallas, TX",80.0,2008,200340107,2008-09-08
+"Consolidated Edison Co., New York, NY",80.0,2008,209115104,2008-09-08
+"Constellation Energy Group Inc., Baltimore, MD",73.0,2008,210371100,2008-09-08
+"Continental Airlines Inc., Houston, TX",80.0,2008,21099Y004,2008-09-08
+"Coors Brewing Company, Golden, CO",100.0,2008,60871R209,2008-09-08
+"Corbis Corp., Seattle, WA",80.0,2008,218525103,2008-09-08
+"Countrywide Financial Corp., Calabasas, CA",100.0,2008,222372104,2008-09-08
+"DTE Energy Co., Detroit, MI",75.0,2008,233331107,2008-09-08
+"Dana Corp., Toledo, OH",20.0,2008,23599Z937,2008-09-08
+"Dean Foods Co., Dallas, TX",73.0,2008,242370203,2008-09-08
+"Dell Inc., Round Rock, TX",100.0,2008,24703L103,2008-09-08
+"Delphi Corp., Troy, MI",45.0,2008,247128101,2008-09-08
+"Delta Air Lines Inc., Atlanta, GA",85.0,2008,247361702,2008-09-08
+"Dole Food Co. Inc., Westlake Village, CA",45.0,2008,256603101,2008-09-08
+"Dominion Resources Inc., Richmond, VA",95.0,2008,25746U109,2008-09-08
+"Domino's Pizza Inc., Ann Arbor, MI",60.0,2008,25754A201,2008-09-08
+"Dow Chemical Co., Auburn Hills, MI",100.0,2008,26078J100,2008-09-08
+"DuPont (E.I. du Pont de Nemours), Wilmington, DE",100.0,2008,263534109,2008-09-08
+"Duke Energy Corp., Charlotte, NC",60.0,2008,26441C204,2008-09-08
+"Dun & Bradstreet Corp., The, Short Hills, NJ",35.0,2008,26483E100,2008-09-08
+"E*TRADE Financial Corporation, New York, NY",93.0,2008,269246401,2008-09-08
+"EMC Corp., Hopkinton, MA",45.0,2008,268648102,2008-09-08
+"Electronic Arts Inc., Redwood City, CA",100.0,2008,285512109,2008-09-08
+"Electronic Data Systems Corp., Plano, TX",90.0,2008,285661104,2008-09-08
+"Entergy Corp., New Orleans, LA",88.0,2008,29364G103,2008-09-08
+"Exelon Corp., Chicago, IL",95.0,2008,30161N101,2008-09-08
+"Ford Motor Co., Dearborn, MI",100.0,2008,345370860,2008-09-08
+"Gap Inc., San Francisco, CA",100.0,2008,364760108,2008-09-08
+"Gateway Inc., Irvine, CA",65.0,2008,367626108,2008-09-08
+"Genentech Inc., South San Francisco, CA",100.0,2008,368710406,2008-09-08
+"General Dynamics Corp., Falls Church, VA",40.0,2008,369550108,2008-09-08
+"General Electric Co., Boston, MA",75.0,2008,369604103,2008-09-08
+"General Mills Inc., Minneapolis, MN",100.0,2008,370334104,2008-09-08
+"General Motors Corp., Milford, MI",100.0,2008,37099Z932,2008-09-08
+"Goldman Sachs Group Inc., The, New York, NY",100.0,2008,38141G104,2008-09-08
+"Google Inc., Mountain View, CA",100.0,2008,38259P500,2008-09-08
+"Guidant Corp., Indianapolis, IN",80.0,2008,401698105,2008-09-08
+"Hain Celestial Group Inc., Lake Success, NY",30.0,2008,405217100,2008-09-08
+"Harris Bankcorp Inc., Chicago, IL",95.0,2008,413841107,2008-09-08
+"Harris Interactive Inc., New York, NY",93.0,2008,414549105,2008-09-08
+"Health Net Inc., Woodland Hills, CA",93.0,2008,42222G108,2008-09-08
+"Hershey Co., The, Hershey, PA",70.0,2008,427866108,2008-09-08
+"Imation Corp., Oakdale, MN",93.0,2008,377185103,2008-09-08
+"IndyMac Bancorp Inc., Pasadena, CA",100.0,2008,456607100,2008-09-08
+"International Business Machines Corp. (IBM), Armonk, NY",100.0,2008,459200101,2008-09-08
+"International Paper Co., Memphis, TN",70.0,2008,460146103,2008-09-08
+"Interpublic Group of Companies Inc., New York, NY",60.0,2008,460690100,2008-09-08
+"Intuit Inc., Mountain View, CA",100.0,2008,461202103,2008-09-08
+"J.C. Penney Corp. Inc., Plano, TX",100.0,2008,708152004,2008-09-08
+"J.P. Morgan Chase & Co., New York, NY",100.0,2008,46625H100,2008-09-08
+"JetBlue Airways Corp., Long Island City, NY",80.0,2008,477143101,2008-09-08
+"Keane Inc., Boston, MA",50.0,2008,486665102,2008-09-08
+"Kellogg Co., Battle Creek, MI",35.0,2008,487836108,2008-09-08
+"Kraft Foods Inc., Northfield, IL",100.0,2008,50076Q106,2008-09-08
+"Kroger Co., The, Cincinnati, OH",75.0,2008,501044101,2008-09-08
+"Laclede Group Inc., St. Louis, MO",5.0,2008,505597100,2008-09-08
+"Land O'Lakes Inc., Arden Hills, MN",53.0,2008,514666932,2008-09-08
+"Lear Corp., Southfield, MI",20.0,2008,521865204,2008-09-08
+"Levi Strauss & Co., San Francisco, CA",100.0,2008,52736R938,2008-09-08
+"Lexmark International Inc., Lexington, KY",100.0,2008,529771107,2008-09-08
+"Lillian Vernon Corp., White Plains, NY",55.0,2008,532430105,2008-09-08
+"Liz Claiborne Inc., North Bergen, NJ",100.0,2008,539320100,2008-09-08
+"Lockheed Martin Corp., Bethesda, MD",85.0,2008,539830109,2008-09-08
+"Macy's Inc., Cincinnati, OH",100.0,2008,55616P104,2008-09-08
+"Marsh & McLennan Companies Inc., New York, NY",78.0,2008,571748102,2008-09-08
+"MasterCard Inc., Purchase, NY",100.0,2008,57636Q104,2008-09-08
+"McAfee Inc., Santa Clara, CA",53.0,2008,579064106,2008-09-08
+"McDonald's Corp., Oak Brook, IL",85.0,2008,580135101,2008-09-08
+"MeadWestvaco Corp., Richmond, VA",80.0,2008,583334107,2008-09-08
+"Medtronic Inc., Minneapolis, MN",85.0,2008,585730104,2008-09-08
+"Mellon Financial Corp., Pittsburgh, PA",100.0,2008,58551A108,2008-09-08
+"Merrill Lynch & Co., New York, NY",100.0,2008,59098Z002,2008-09-08
+"Microsoft Corp., Redmond, WA",100.0,2008,594918104,2008-09-08
+"Mirant Corp., Atlanta, GA",45.0,2008,604675100,2008-09-08
+"Morningstar Inc., Chicago, IL",65.0,2008,617700109,2008-09-08
+"NCR Corp., Duluth, GA",100.0,2008,62886E108,2008-09-08
+"National City Corporation, Cleveland, OH",58.0,2008,635405103,2008-09-08
+"Navistar International Corp., Lisle, IL",30.0,2008,63934E108,2008-09-08
+"Nike Inc., Beaverton, OR",100.0,2008,654106103,2008-09-08
+"Nissan North America Inc., Franklin, TN",50.0,2008,654744408,2008-09-08
+"Nordstrom Inc., Seattle, WA",100.0,2008,655664100,2008-09-08
+"Northern Trust Corp., Chicago, IL",100.0,2008,665859104,2008-09-08
+"Northrop Grumman Corp., Falls Church, VA",100.0,2008,666807102,2008-09-08
+"Northwest Airlines Corp., Eagan, MN",85.0,2008,667280408,2008-09-08
+"Oracle Corp., Redwood City, CA",100.0,2008,68389X105,2008-09-08
+"Owens & Minor Inc., Mechanicsville, VA",85.0,2008,690732102,2008-09-08
+"PG&E Corp., San Fran- cisco, CA",100.0,2008,69331C108,2008-09-08
+"PNC Financial Services Group Inc., Pittsburgh, PA",80.0,2008,693475105,2008-09-08
+"PNM Resources Inc., Albuquerque, NM",43.0,2008,69349H107,2008-09-08
+"PPL Corp., Allentown, PA",60.0,2008,69351T106,2008-09-08
+"Pathmark Stores Inc., Carteret, NJ",53.0,2008,70322A101,2008-09-08
+"Pepsi Bottling Group Inc., The, Somers, NY",80.0,2008,713409100,2008-09-08
+"PepsiAmericas Inc., Minneapolis, MN",80.0,2008,71343P200,2008-09-08
+"PepsiCo Inc., Purchase, NY",100.0,2008,713448108,2008-09-08
+"Perot Systems Corp., Plano, TX",0.0,2008,714265105,2008-09-08
+"Praxair Inc., Danbury, CT",25.0,2008,74005P104,2008-09-08
+"Progress Energy Inc., Raleigh, NC",68.0,2008,26499B009,2008-09-08
+"Quest Diagnostics Inc., Madison, NJ",80.0,2008,74834L100,2008-09-08
+"Raytheon Co., Waltham, MA",100.0,2008,755111507,2008-09-08
+"Reliant Energy Inc., Houston, TX",50.0,2008,75952B100,2008-09-08
+"Reuters America Holdings Inc., New York, NY",80.0,2008,761324200,2008-09-08
+"Rockwell Collins Inc., Cedar Rapids, IA",73.0,2008,774341101,2008-09-08
+"Rohm and Haas Company, Philadelphia, PA",60.0,2008,775371107,2008-09-08
+"SLM Corp. (Sallie Mae), Newark, DE",60.0,2008,78442P106,2008-09-08
+"SRA International Inc., Fairfax, VA",75.0,2008,78464R105,2008-09-08
+"Safeway Inc., Pleasanton, CA",75.0,2008,786514208,2008-09-08
+"Sara Lee Corp., Downers Grove, IL",70.0,2008,803111100,2008-09-08
+"Seagate Technology LLC, Scotts Valley, CA",75.0,2008,G7945M107,2008-09-08
+"Sierra Health Services Inc., Las Vegas, NV",88.0,2008,826322109,2008-09-08
+"Silicon Graphics Inc., Mountain View, CA",50.0,2008,827056300,2008-09-08
+"Sirius Satellite Radio Inc., New York, NY",58.0,2008,82966U100,2008-09-08
+"Sodexho Inc., Gaithersburg, MD",100.0,2008,833793102,2008-09-08
+"Southern California Edison Company, Rosemead, CA",95.0,2008,842400004,2008-09-08
+"Southern Co., Atlanta, GA",48.0,2008,842812109,2008-09-08
+"Southwest Airlines Co., Dallas, TX",90.0,2008,844741108,2008-09-08
+"State Street Corp., Boston, MA",100.0,2008,857477103,2008-09-08
+"Subaru of America Inc., Cherry Hill, NJ",100.0,2008,864278106,2008-09-08
+"Sun Microsystems Inc., Santa Clara, CA",100.0,2008,866810203,2008-09-08
+"SunTrust Banks Inc., Atlanta, GA",100.0,2008,867914103,2008-09-08
+"Supervalu Inc., Eden Prairie, MN",100.0,2008,868536301,2008-09-08
+"Symantec Corp., Mountain View, CA",85.0,2008,871503108,2008-09-08
+"Tech Data Corp., Clearwater, FL",100.0,2008,878237106,2008-09-08
+"Time Warner Inc., New York, NY",100.0,2008,887317303,2008-09-08
+"Toyota Motor Sales USA Inc., Torrance, CA",100.0,2008,892331307,2008-09-08
+"U.S. Bancorp, Minneapolis, MN",100.0,2008,902973304,2008-09-08
+"U.S. Foodservice Inc., Rosemont, IL",50.0,2008,90331R101,2008-09-08
+"UAL Corp. (United Airlines), Chicago, IL",88.0,2008,909279002,2008-09-08
+"US Airways Group, Inc., Phoenix, AZ",100.0,2008,90341W108,2008-09-08
+"Unisys Corp., Blue Bell, PA",70.0,2008,909214306,2008-09-08
+"Vertis Inc., Baltimore, MD",30.0,2008,925335937,2008-09-08
+"Viacom Inc., New York, NY",100.0,2008,92553P201,2008-09-08
+"Visteon Corp., Van Buren Township, MI",95.0,2008,92839U206,2008-09-08
+"Volkswagen of America Inc., Herndon, VA",100.0,2008,928662303,2008-09-08
+"Wachovia Corp., Charlotte, NC",100.0,2008,929903102,2008-09-08
+"Walt Disney Co., Burbank, CA",100.0,2008,254687106,2008-09-08
+"Washington Mutual Inc., Seattle, WA",100.0,2008,939322103,2008-09-08
+"Wells Fargo & Co., San Francisco, CA",100.0,2008,949746101,2008-09-08
+"Weyerhaeuser Co., Federal Way, WA",75.0,2008,962166104,2008-09-08
+"Whole Foods Market Inc., Austin, TX",90.0,2008,966837106,2008-09-08
+"Wisconsin Energy Corporation, Milwaukee, WI",55.0,2008,976657100,2008-09-08
+"XM Satellite Radio Holdings Inc., Washington, DC",88.0,2008,983759101,2008-09-08
+"Xerox Corp., Norwalk, CT",100.0,2008,984121608,2008-09-08
+"Yahoo! Inc., Sunnyvale, CA",100.0,2008,021346101,2008-09-08
+"3M Company, St. Paul, MN",100.0,2009,88579Y101,2009-09-14
+"ALLTEL Corp., Little Rock, AR",80.0,2009,020039103,2009-09-14
+"AMC Entertainment Inc., Leawood , KS",63.0,2009,01199Y005,2009-09-14
+"AMR Corp. (American Airlines), Fort Worth, TX",100.0,2009,023771009,2009-09-14
+"AT&T Inc., Dallas, TX",100.0,2009,00206R102,2009-09-14
+"Abbott Laboratories, Abbott Park, IL",80.0,2009,002824100,2009-09-14
+"Abercrombie & Fitch Co., New Albany, OH",100.0,2009,002896207,2009-09-14
+"Accenture Ltd., New York, NY",100.0,2009,G1150G110,2009-09-14
+"Acer Inc., Irvine, CA",50.0,2009,750070104,2009-09-14
+"Adecco North America LLC, Jacksonville, FL",85.0,2009,006754105,2009-09-14
+"Adobe Systems Inc., San Jose, CA",95.0,2009,00724F101,2009-09-14
+"Advanced Micro Devices Inc., Sunnyvale, CA",80.0,2009,007903107,2009-09-14
+"Aegon USA, New York, NY",40.0,2009,007924103,2009-09-14
+"Aetna Inc., Hartford, CT",100.0,2009,00817Y108,2009-09-14
+"Affiliated Computer Services, Dallas, TX",60.0,2009,008190100,2009-09-14
+"Agilent Technologies Inc., Santa Clara, CA",100.0,2009,00846U101,2009-09-14
+"Ahold USA Inc., Quincy, MA",78.0,2009,500467501,2009-09-14
+"Air Products & Chemicals Inc., Allentown, PA",75.0,2009,009158106,2009-09-14
+"Alaska Airlines, Seattle, WA",100.0,2009,011662004,2009-09-14
+"Alcatel-Lucent, Murray Hill, NJ",100.0,2009,013904305,2009-09-14
+"Alcoa Inc., Chicago, IL",85.0,2009,013817507,2009-09-14
+"Allegheny Energy Inc., Greensburg, PA",45.0,2009,017361106,2009-09-14
+"Alliant Energy Corp., Madison, WI",85.0,2009,018802108,2009-09-14
+"Alliant Techsystems Inc., Arlington, VA",65.0,2009,68557N103,2009-09-14
+"Allianz Life Insurance Co. of North America, Minneapolis, MN",100.0,2009,018805101,2009-09-14
+"Allstate Corp., The, Northbrook, IL",100.0,2009,020002101,2009-09-14
+"AmTrust Bank, Cleveland, OH",83.0,2009,649445103,2009-09-14
+"Amazon.com Inc., Seattle, WA",80.0,2009,023135106,2009-09-14
+"Ameren Corp., St. Louis, MO",45.0,2009,023608102,2009-09-14
+"American Express Co., New York, NY",100.0,2009,025816109,2009-09-14
+"American Family Insurance Group, Madison, WI",95.0,2009,02599X936,2009-09-14
+"American International Group Inc., New York, NY",85.0,2009,026874784,2009-09-14
+"American Power Conversion Corp., West Kingston, RI",63.0,2009,029066107,2009-09-14
+"Ameriprise Financial Inc., Minneapolis, MN",100.0,2009,03076C106,2009-09-14
+"Amgen Inc., Thousand Oaks, CA",70.0,2009,031162100,2009-09-14
+"Anheuser-Busch Companies Inc., St. Louis, MO",100.0,2009,035229103,2009-09-14
+"Aon Corp., Chicago, IL",100.0,2009,G0408V102,2009-09-14
+"Apple Inc., Cupertino, CA",100.0,2009,037833100,2009-09-14
+"Applied Materials Inc., Santa Clara, CA",88.0,2009,038222105,2009-09-14
+"Aquila, Kansas City, MO",35.0,2009,03840P102,2009-09-14
+"Aramark Corp., Philadelphia, PA",75.0,2009,002034932,2009-09-14
+"Archer Daniels Midland Co., Chicago, IL",15.0,2009,039483102,2009-09-14
+"AstraZeneca PLC, Wilmington, DE",80.0,2009,046353108,2009-09-14
+"AutoZone Inc., Memphis, TN",25.0,2009,053332102,2009-09-14
+"Automatic Data Processing Inc., Roseland, NJ",95.0,2009,053015103,2009-09-14
+"Avaya Inc., Santa Clara, CA",85.0,2009,05399R942,2009-09-14
+"Avis Budget Group Inc., Parsippany, NJ",80.0,2009,053774105,2009-09-14
+"Avnet Inc., Phoenix, AZ",30.0,2009,053807103,2009-09-14
+"Avon Products Inc., New York, NY",60.0,2009,054303102,2009-09-14
+"BASF Corp., Florham Park, NJ",100.0,2009,055262505,2009-09-14
+"BB&T Corp., Winston- Salem, NC",48.0,2009,054937107,2009-09-14
+"BMC Software Inc., Houston, TX",100.0,2009,055921100,2009-09-14
+"BNSF Railway Co., Fort Worth, TX",30.0,2009,121899009,2009-09-14
+"BP America Inc., Houston, TX",90.0,2009,055625008,2009-09-14
+"Baldor Electric Co., Fort Smith, AR",20.0,2009,057741100,2009-09-14
+"Ball Corp., Broomfield, CO",58.0,2009,058498106,2009-09-14
+"Bank of America Corp., Charlotte, NC",100.0,2009,060505104,2009-09-14
+"Bank of New York Mellon Corp., The, New York, NY",100.0,2009,064058100,2009-09-14
+"Barclays Capital, New York, NY",90.0,2009,6.7380000000e+207,2009-09-14
+"Barnes & Noble Inc., New York, NY",100.0,2009,067774109,2009-09-14
+"Bausch & Lomb Inc., Rochester, NY",100.0,2009,71799B937,2009-09-14
+"Baxter International Inc., Deerfield, IL",80.0,2009,071813109,2009-09-14
+"Bayer U.S. LLC, Whippany, NJ",80.0,2009,459041109,2009-09-14
+"Best Buy Co. Inc., Richfield, MN",100.0,2009,086516101,2009-09-14
+"Black & Decker Corp., The, Towson, MD",55.0,2009,091797100,2009-09-14
+"Boeing Co., Chicago, IL",100.0,2009,097023105,2009-09-14
+"Booz Allen Hamilton Inc., McLean, VA",80.0,2009,099500100,2009-09-14
+"Borders Group Inc., Ann Arbor, MI",100.0,2009,099709107,2009-09-14
+"Bridgestone Americas Holding Inc., Nashville, TN",80.0,2009,318315108,2009-09-14
+"Bright Horizons Family Solutions LLC, Watertown, MA",100.0,2009,109194100,2009-09-14
+"Brinker International Inc., Dallas, TX",100.0,2009,109641100,2009-09-14
+"Bristol-Myers Squibb Co., New York, NY",100.0,2009,110122108,2009-09-14
+"Brown-Forman Corp., Louisville, KY",20.0,2009,115637209,2009-09-14
+"CBRL Group Inc. (Cracker Barrel), Lebanon, TN",15.0,2009,22410J106,2009-09-14
+"CDW Corp., Lincolnshire, IL",88.0,2009,12514G108,2009-09-14
+"CH2M HILL Companies, Ltd., Englewood, CO",80.0,2009,12599T918,2009-09-14
+"CSX Corp., Jacksonville, FL",75.0,2009,126408103,2009-09-14
+"CVS Corp., Woonsocket, RI",90.0,2009,126650100,2009-09-14
+"Calpine Corp., Houston, TX",48.0,2009,131347304,2009-09-14
+"Campbell Soup Co., Camden, NJ",100.0,2009,134429109,2009-09-14
+"Canadian Imperial Bank of Commerce, New York, NY",95.0,2009,136069101,2009-09-14
+"Capital One Financial Corp., McLean, VA",100.0,2009,14040H105,2009-09-14
+"CarMax Inc., Richmond, VA",100.0,2009,143130102,2009-09-14
+"Cardinal Health Inc., Dublin, OH",100.0,2009,14149Y108,2009-09-14
+"Carlson Companies Inc., Minnetonka, MN",100.0,2009,145845103,2009-09-14
+"Caterpillar Inc., Peoria, IL",55.0,2009,149123101,2009-09-14
+"Cerner Corp., North Kansas City, MO",65.0,2009,156782104,2009-09-14
+"Charles Schwab Corp., The, San Francisco, CA",100.0,2009,808513105,2009-09-14
+"Chevron Corp., San Ramon, CA",100.0,2009,166764100,2009-09-14
+"ChoicePoint Inc., Alpharetta, GA",100.0,2009,170388102,2009-09-14
+"Chrysler LLC, Auburn Hills, MI",100.0,2009,171196108,2009-09-14
+"Chubb Corp., Philadelphia, PA",100.0,2009,171232101,2009-09-14
+"Cigna, Philadelphia, PA",95.0,2009,125509109,2009-09-14
+"Circuit City Stores Inc., Richmond, VA",55.0,2009,172737108,2009-09-14
+"Cisco Systems Inc., San Jose, CA",100.0,2009,17275R102,2009-09-14
+"Citigroup Inc., New York, NY",100.0,2009,172967424,2009-09-14
+"Clear Channel Communications Inc., San Antonio, TX",100.0,2009,18499Y923,2009-09-14
+"Clorox Company, Oakland, CA",100.0,2009,189054109,2009-09-14
+"Coca-Cola Co., The, Atlanta, GA",100.0,2009,191216100,2009-09-14
+"Colgate-Palmolive Co., New York, NY",73.0,2009,194162103,2009-09-14
+"Comcast Corp., Philadelphia, PA",80.0,2009,20030N101,2009-09-14
+"Comerica Inc., Dallas, TX",80.0,2009,200340107,2009-09-14
+"Compuware Corp., Detroit, MI",93.0,2009,205638109,2009-09-14
+"ConAgra Foods Inc., Omaha, NE",90.0,2009,205887100,2009-09-14
+"ConocoPhillips, Houston, TX",60.0,2009,20825C104,2009-09-14
+"Consolidated Edison Co., New York, NY",95.0,2009,209115104,2009-09-14
+"Constellation Energy Group Inc., Baltimore, MD",100.0,2009,210371100,2009-09-14
+"Continental Airlines Inc., Houston, TX",100.0,2009,21099Y004,2009-09-14
+"Convergys Corp., Cincinnati, OH",80.0,2009,212485106,2009-09-14
+"Cooper Tire & Rubber Co., Findlay, OH",33.0,2009,216831107,2009-09-14
+"Coors Brewing Company, Golden, CO",100.0,2009,60871R209,2009-09-14
+"Corbis Corp., Seattle, WA",80.0,2009,218525103,2009-09-14
+"Corning Inc., Corning, NY",100.0,2009,219350105,2009-09-14
+"Cox Enterprises Inc./Cox Communications Inc., Atlanta, GA",100.0,2009,22499Z005,2009-09-14
+"Credit Suisse USA Inc., New York, NY",100.0,2009,225401009,2009-09-14
+"Cummins Inc., Columbus, IN",100.0,2009,231021106,2009-09-14
+"DTE Energy Co., Detroit, MI",75.0,2009,233331107,2009-09-14
+"Dana Holding Corp., Maumee, OH",20.0,2009,23599Z937,2009-09-14
+"Darden Restaurants Inc., Orlando, FL",80.0,2009,237194105,2009-09-14
+"Dean Foods Co., Dallas, TX",73.0,2009,242370203,2009-09-14
+"Deere & Co., Moline, IL",33.0,2009,244199105,2009-09-14
+"Dell Inc., Round Rock, TX",100.0,2009,24703L103,2009-09-14
+"Delphi Corp., Troy, MI",45.0,2009,247128101,2009-09-14
+"Delta Air Lines Inc., Atlanta, GA",85.0,2009,247361702,2009-09-14
+"Deutsche Bank, New York, NY",100.0,2009,D18190898,2009-09-14
+"Diageo North America, Norwalk, CT",100.0,2009,25243Q205,2009-09-14
+"Discover Financial Services, Riverwoods, IL",58.0,2009,254709108,2009-09-14
+"Dole Food Co. Inc., Westlake Village, CA",45.0,2009,256603101,2009-09-14
+"Dollar Thrifty Automotive Group Inc., Tulsa, OK",83.0,2009,256743105,2009-09-14
+"Dominion Resources Inc., Richmond, VA",90.0,2009,25746U109,2009-09-14
+"Domino’s Pizza Inc., Ann Arbor, MI",60.0,2009,25754A201,2009-09-14
+"Dow Chemical Co., Auburn Hills, MI",100.0,2009,26078J100,2009-09-14
+"Dow Jones & Co. Inc., New York, NY",30.0,2009,260561105,2009-09-14
+"DuPont (E.I. du Pont de Nemours), Wilmington, DE",100.0,2009,263534109,2009-09-14
+"Duke Energy Corp., Charlotte, NC",75.0,2009,26441C204,2009-09-14
+"Dun & Bradstreet Corp., The, Short Hills, NJ",35.0,2009,26483E100,2009-09-14
+"E*TRADE Financial Corporation, New York, NY",93.0,2009,269246401,2009-09-14
+"EMC Corp., Hopkinton, MA",95.0,2009,268648102,2009-09-14
+"EarthLink Inc., Atlanta, GA",88.0,2009,270322100,2009-09-14
+"Eastman Kodak Co., Rochester, NY",100.0,2009,277461406,2009-09-14
+"Edison International, Rosemead, CA",35.0,2009,281020107,2009-09-14
+"Electronic Arts Inc., Redwood City, CA",100.0,2009,285512109,2009-09-14
+"Electronic Data Systems Corp., Plano, TX",95.0,2009,285661104,2009-09-14
+"Eli Lilly & Co., Indianapolis, IN",100.0,2009,532457108,2009-09-14
+"Emerson Electric Co., St. Louis, MO",45.0,2009,291011104,2009-09-14
+"Entergy Corp., New Orleans, LA",95.0,2009,29364G103,2009-09-14
+"Estee Lauder Companies, New York, NY",100.0,2009,518439104,2009-09-14
+"Exelon Corp., Chicago, IL",95.0,2009,30161N101,2009-09-14
+"Expedia Inc., Bellevue, WA",50.0,2009,30212P303,2009-09-14
+"Exxon Mobil Corp., Irving, TX",0.0,2009,30231G102,2009-09-14
+"Fannie Mae, Washington, DC",100.0,2009,313586109,2009-09-14
+"FedEx Corp., Memphis, TN",55.0,2009,31428X106,2009-09-14
+"Fifth Third Bancorp, Cincinnati, OH",75.0,2009,316773100,2009-09-14
+"Fisher Scientific International, Hampton, NH",40.0,2009,338032204,2009-09-14
+"Ford Motor Co., Dearborn, MI",100.0,2009,345370860,2009-09-14
+"Franklin Resources Inc., San Mateo, CA",50.0,2009,354613101,2009-09-14
+"Freddie Mac, McLean, VA",85.0,2009,313400301,2009-09-14
+"Freescale Semiconductor Inc., Austin, TX",100.0,2009,35699Z005,2009-09-14
+"GameStop Corp., Grapevine, TX",100.0,2009,36467W109,2009-09-14
+"Gannett Co. Inc., McLean, VA",65.0,2009,36473H104,2009-09-14
+"Gap Inc., San Francisco, CA",100.0,2009,364760108,2009-09-14
+"Genentech Inc., South San Francisco, CA",100.0,2009,368710406,2009-09-14
+"General Dynamics Corp., Falls Church, VA",40.0,2009,369550108,2009-09-14
+"General Electric Co., Boston, MA",80.0,2009,369604103,2009-09-14
+"General Mills Inc., Minneapolis, MN",95.0,2009,370334104,2009-09-14
+"General Motors Corp., Milford, MI",100.0,2009,37099Z932,2009-09-14
+"GlaxoSmithKline plc, Research Triangle Park, NC",100.0,2009,37733W105,2009-09-14
+"Goldman Sachs Group Inc., The, New York, NY",100.0,2009,38141G104,2009-09-14
+"Google Inc., Mountain View, CA",100.0,2009,38259P500,2009-09-14
+"H&R Block Inc., Kansas City, MO",65.0,2009,093671105,2009-09-14
+"Hain Celestial Group Inc., Lake Success, NY",55.0,2009,405217100,2009-09-14
+"Hannaford Brothers, Portland, ME",83.0,2009,410550107,2009-09-14
+"Harrah’s Entertainment Inc., Las Vegas, NV",100.0,2009,413619100,2009-09-14
+"Harris Bankcorp Inc., Chicago, IL",90.0,2009,413841107,2009-09-14
+"Harris Interactive Inc., New York, NY",93.0,2009,414549105,2009-09-14
+"Harry & David Holdings Inc., Medford, OR",83.0,2009,41587A201,2009-09-14
+"Hasbro Inc., Pawtucket, RI",50.0,2009,418056107,2009-09-14
+"Health Care Service Corp., Chicago, IL",95.0,2009,299783936,2009-09-14
+"Health Net Inc., Woodland Hills, CA",93.0,2009,42222G108,2009-09-14
+"Herman Miller Inc., Zeeland, MI",100.0,2009,600544100,2009-09-14
+"Hershey Co., The, Hershey, PA",70.0,2009,427866108,2009-09-14
+"Hewitt Associates, Lincolnshire, IL",100.0,2009,42822Q100,2009-09-14
+"Hewlett-Packard Co., Palo Alto, CA",100.0,2009,42824C109,2009-09-14
+"Hilton Hotels Corp., Beverly Hills, CA",90.0,2009,432848100,2009-09-14
+"Home Depot Inc., Atlanta, GA",85.0,2009,437076102,2009-09-14
+"Honeywell International Inc., Morris Township, NJ",100.0,2009,438516106,2009-09-14
+"Hospira Inc., Lake Forest, IL",100.0,2009,441060100,2009-09-14
+"Host Hotels & Resorts Inc., Bethesda, MD",45.0,2009,44107P104,2009-09-14
+"Hotels.com LP, Dallas, TX",85.0,2009,44147T108,2009-09-14
+"Humana Inc., Louisville, KY",45.0,2009,444859102,2009-09-14
+"Huntington Bancshares Inc., Columbus, OH",75.0,2009,446150104,2009-09-14
+"IKON Office Solutions, Malvern, PA",65.0,2009,451713101,2009-09-14
+"Illinois Tool Works Inc., Glenview, IL",68.0,2009,452308109,2009-09-14
+"Imation Corp., Oakdale, MN",88.0,2009,377185103,2009-09-14
+"IndyMac Bancorp Inc., Pasadena, CA",100.0,2009,456607100,2009-09-14
+"Intel Corp., Santa Clara, CA",100.0,2009,458140100,2009-09-14
+"International Business Machines Corp. (IBM), Armonk, NY",100.0,2009,459200101,2009-09-14
+"International Paper Co., Memphis, TN",70.0,2009,460146103,2009-09-14
+"Interpublic Group of Companies Inc., New York, NY",60.0,2009,460690100,2009-09-14
+"Intuit Inc., Mountain View, CA",100.0,2009,461202103,2009-09-14
+"J.C. Penney Corp. Inc., Plano, TX",100.0,2009,708152004,2009-09-14
+"J.P. Morgan Chase & Co., New York, NY",100.0,2009,46625H100,2009-09-14
+"Jacobs Engineering Group Inc., Pasadena, CA",40.0,2009,469814107,2009-09-14
+"JetBlue Airways Corp., Long Island City, NY",80.0,2009,477143101,2009-09-14
+"John Hancock Financial Services Inc., Boston, MA",88.0,2009,41014S106,2009-09-14
+"Johnson & Johnson, New Brunswick, NJ",100.0,2009,478160104,2009-09-14
+"Jones Apparel Group Inc., New York, NY",45.0,2009,480074100,2009-09-14
+"KB Home, Los Angeles, CA",75.0,2009,48666K109,2009-09-14
+"KLA-Tencor Corp., Milpitas, CA",58.0,2009,482480100,2009-09-14
+"Keane Inc., Boston, MA",50.0,2009,486665102,2009-09-14
+"Kellogg Co., Battle Creek, MI",60.0,2009,487836108,2009-09-14
+"Kenneth Cole Productions Inc., New York, NY",95.0,2009,193294105,2009-09-14
+"KeyCorp, Cleveland, OH",100.0,2009,493267108,2009-09-14
+"Kimberly-Clark Corporation, Irving, TX",100.0,2009,494368103,2009-09-14
+"Kraft Foods Inc., Northfield, IL",95.0,2009,50076Q106,2009-09-14
+"Kroger Co., The, Cincinnati, OH",75.0,2009,501044101,2009-09-14
+"Laclede Group Inc., St. Louis, MO",5.0,2009,505597100,2009-09-14
+"Land O’Lakes Inc., Arden Hills, MN",53.0,2009,514666932,2009-09-14
+"Lear Corp., Southfield, MI",20.0,2009,521865204,2009-09-14
+"Lehman Brothers Holdings Inc., New York, NY",100.0,2009,524908100,2009-09-14
+"Levi Strauss & Co., San Francisco, CA",100.0,2009,52736R938,2009-09-14
+"Lexmark International Inc., Lexington, KY",100.0,2009,529771107,2009-09-14
+"Lillian Vernon Corp., White Plains, NY",40.0,2009,532430105,2009-09-14
+"Limited Brands Inc., Columbus, OH",80.0,2009,532716100,2009-09-14
+"Lincoln National Corp., Radnor, PA",95.0,2009,534187109,2009-09-14
+"Liz Claiborne Inc., North Bergen, NJ",100.0,2009,539320100,2009-09-14
+"Lockheed Martin Corp., Bethesda, MD",100.0,2009,539830109,2009-09-14
+"MGM Mirage, Las Vegas, NV",85.0,2009,552953100,2009-09-14
+"Macy’s Inc., Cincinnati, OH",100.0,2009,55616P104,2009-09-14
+"Marriott International Inc., Bethesda, MD",100.0,2009,571903202,2009-09-14
+"Mars Inc., Mt. Olive, NJ",48.0,2009,571726108,2009-09-14
+"Marsh & McLennan Companies Inc., New York, NY",100.0,2009,571748102,2009-09-14
+"Massachusetts Mutual Life Insurance Company, Springfield, MA",100.0,2009,575767934,2009-09-14
+"MasterCard Inc., Purchase, NY",100.0,2009,57636Q104,2009-09-14
+"Mattel Inc., El Segundo, CA",93.0,2009,577081102,2009-09-14
+"McAfee Inc., Santa Clara, CA",53.0,2009,579064106,2009-09-14
+"McDonald’s Corp., Oak Brook, IL",85.0,2009,580135101,2009-09-14
+"McKesson Corp., San Francisco, CA",68.0,2009,58155Q103,2009-09-14
+"MeadWestvaco Corp., Richmond, VA",60.0,2009,583334107,2009-09-14
+"Medtronic Inc., Minneapolis, MN",95.0,2009,585730104,2009-09-14
+"Men’s Wearhouse Inc., The, Houston, TX",50.0,2009,587118100,2009-09-14
+"Merck & Co. Inc., Kenilworth, NJ",100.0,2009,58933Y105,2009-09-14
+"Merrill Lynch & Co., New York, NY",100.0,2009,59098Z002,2009-09-14
+"MetLife Inc., New York, NY",100.0,2009,59156R108,2009-09-14
+"Microsoft Corp., Redmond, WA",100.0,2009,594918104,2009-09-14
+"Mirant Corp., Atlanta, GA",45.0,2009,604675100,2009-09-14
+"Mohawk Industries Inc., Calhoun, GA",65.0,2009,608190104,2009-09-14
+"Monsanto Co., St. Louis, MO",85.0,2009,61166W101,2009-09-14
+"Moody’s Corp., New York, NY",83.0,2009,615369105,2009-09-14
+"Morgan Stanley, New York, NY",100.0,2009,617446448,2009-09-14
+"Morningstar Inc., Chicago, IL",58.0,2009,617700109,2009-09-14
+"Motorola Inc., Schaumburg, IL",100.0,2009,620076307,2009-09-14
+"Mutual of Omaha Insurance, Omaha, NE",80.0,2009,62899Q932,2009-09-14
+"NCR Corp., Duluth, GA",100.0,2009,62886E108,2009-09-14
+"National City Corporation, Cleveland, OH",80.0,2009,635405103,2009-09-14
+"National Grid USA, Waltham, MA",100.0,2009,636274409,2009-09-14
+"Nationwide, Columbus, OH",100.0,2009,638641100,2009-09-14
+"New York Life Insurance Co., New York, NY",100.0,2009,64952G934,2009-09-14
+"New York Times Co., New York, NY",100.0,2009,650111107,2009-09-14
+"Newell Rubbermaid Inc., Atlanta, GA",100.0,2009,651229100,2009-09-14
+"Nike Inc., Beaverton, OR",100.0,2009,654106103,2009-09-14
+"Nissan North America Inc., Franklin, TN",50.0,2009,654744408,2009-09-14
+"Nokia Inc., Irving, TX",50.0,2009,654902204,2009-09-14
+"Nordstrom Inc., Seattle, WA",100.0,2009,655664100,2009-09-14
+"Nortel Networks Corp., Richardson, TX",85.0,2009,656568508,2009-09-14
+"Northeast Utilities, Springfield, MA",65.0,2009,664397100,2009-09-14
+"Northern Trust Corp., Chicago, IL",100.0,2009,665859104,2009-09-14
+"Northrop Grumman Corp., Falls Church, VA",100.0,2009,666807102,2009-09-14
+"Northwest Airlines Corp., Eagan, MN",85.0,2009,667280408,2009-09-14
+"Omnicom Group, New York, NY",80.0,2009,681919106,2009-09-14
+"Oracle Corp., Redwood City, CA",100.0,2009,68389X105,2009-09-14
+"Orbitz Worldwide Inc., Chicago, IL",100.0,2009,68557K109,2009-09-14
+"Owens & Minor Inc., Mechanicsville, VA",55.0,2009,690732102,2009-09-14
+"Owens Corning, Toledo, OH",100.0,2009,690742101,2009-09-14
+"PG&E Corp., San Fran- cisco, CA",100.0,2009,69331C108,2009-09-14
+"PNC Financial Services Group Inc., Pittsburgh, PA",80.0,2009,693475105,2009-09-14
+"PNM Resources Inc., Albuquerque, NM",43.0,2009,69349H107,2009-09-14
+"PPG Industries Inc., Pittsburgh, PA",45.0,2009,693506107,2009-09-14
+"PPL Corp., Allentown, PA",65.0,2009,69351T106,2009-09-14
+"Pathmark Stores Inc., Carteret, NJ",53.0,2009,70322A101,2009-09-14
+"Pepco Holdings Inc., Washington, DC",65.0,2009,713291102,2009-09-14
+"Pepsi Bottling Group Inc., The, Somers, NY",100.0,2009,713409100,2009-09-14
+"PepsiAmericas Inc., Minneapolis, MN",95.0,2009,71343P200,2009-09-14
+"PepsiCo Inc., Purchase, NY",100.0,2009,713448108,2009-09-14
+"Perot Systems Corp., Plano, TX",0.0,2009,714265105,2009-09-14
+"Pitney Bowes Inc., Stamford, CT",85.0,2009,724479100,2009-09-14
+"Polaroid Corp., Waltham, MA",60.0,2009,731095100,2009-09-14
+"Praxair Inc., Danbury, CT",25.0,2009,74005P104,2009-09-14
+"Principal Financial Group, Des Moines, IA",95.0,2009,74299X938,2009-09-14
+"Procter & Gamble Co., Cincinnati, OH",85.0,2009,742718109,2009-09-14
+"Progress Energy Inc., Raleigh, NC",68.0,2009,26499B009,2009-09-14
+"Progressive Corp., The, Mayfield Village, OH",100.0,2009,743315103,2009-09-14
+"Prudential Financial Inc., Newark, NJ",100.0,2009,744320102,2009-09-14
+"QualComm, San Diego, CA",95.0,2009,747525103,2009-09-14
+"Quest Diagnostics Inc., Madison, NJ",85.0,2009,74834L100,2009-09-14
+"Qwest Communications International Inc., Denver, CO",80.0,2009,749121109,2009-09-14
+"R.R. Donnelley & Sons Co., Chicago, IL",55.0,2009,257867200,2009-09-14
+"Radioshack, Fort Worth, TX",40.0,2009,750438100,2009-09-14
+"Raymond James Financial Inc., St. Petersburg, FL",100.0,2009,754730109,2009-09-14
+"Raytheon Co., Waltham, MA",100.0,2009,755111507,2009-09-14
+"Realogy Corp., Madison, NJ",80.0,2009,75605Y106,2009-09-14
+"Reebok International, Canton, MA",68.0,2009,758110100,2009-09-14
+"Reliant Energy Inc., Houston, TX",75.0,2009,75952B100,2009-09-14
+"Reynolds American Inc., Winston-Salem, NC",100.0,2009,761713106,2009-09-14
+"Rite Aid Corp., Camp Hill, PA",85.0,2009,767754104,2009-09-14
+"Rockwell Collins Inc., Cedar Rapids, IA",75.0,2009,774341101,2009-09-14
+"Rohm and Haas Company, Philadelphia, PA",80.0,2009,775371107,2009-09-14
+"Royal Caribbean Cruises Ltd., Miami, FL",55.0,2009,V7780T103,2009-09-14
+"Ryder System Inc., Miami, FL",93.0,2009,783549108,2009-09-14
+"Ryland Group, Calabasas, CA",30.0,2009,783764103,2009-09-14
+"SLM Corp. (Sallie Mae), Newark, DE",60.0,2009,78442P106,2009-09-14
+"SRA International Inc., Fairfax, VA",75.0,2009,78464R105,2009-09-14
+"Sabre Holdings Inc., Southlake, TX",100.0,2009,785905100,2009-09-14
+"Safeco, Seattle, WA",75.0,2009,786429100,2009-09-14
+"Safeway Inc., Pleasanton, CA",75.0,2009,786514208,2009-09-14
+"Sara Lee Corp., Downers Grove, IL",75.0,2009,803111100,2009-09-14
+"Schering-Plough Corp., Kenilworth, NJ",100.0,2009,806605101,2009-09-14
+"Scholastic Corp., New York, NY",50.0,2009,807066105,2009-09-14
+"Seagate Technology LLC, Scotts Valley, CA",60.0,2009,G7945M107,2009-09-14
+"Sears Holdings Corp., Hoffman Estates, IL",100.0,2009,812350106,2009-09-14
+"Selective Insurance Group, Branchville, NJ",85.0,2009,816300107,2009-09-14
+"Sempra Energy, San Diego, CA",100.0,2009,816851109,2009-09-14
+"Shell Oil Co., Houston, TX",100.0,2009,822635009,2009-09-14
+"Sierra Health Services Inc., Las Vegas, NV",88.0,2009,826322109,2009-09-14
+"Sirius Satellite Radio Inc., New York, NY",80.0,2009,82966U100,2009-09-14
+"Sodexho Inc., Gaithersburg, MD",100.0,2009,833793102,2009-09-14
+"Southern California Edison Company, Rosemead, CA",100.0,2009,842400004,2009-09-14
+"Southern Co., Atlanta, GA",48.0,2009,842812109,2009-09-14
+"Southwest Airlines Co., Dallas, TX",90.0,2009,844741108,2009-09-14
+"Sprint Nextel Corp., Overland Park, KS",100.0,2009,852061100,2009-09-14
+"Staples Inc., Framingham, MA",93.0,2009,855030102,2009-09-14
+"Starbucks Corp., Seattle, WA",100.0,2009,855244109,2009-09-14
+"Starwood Hotels & Resorts Worldwide, Stamford, CT",100.0,2009,85590A401,2009-09-14
+"State Farm Group, Bloomington, IL",80.0,2009,85699K938,2009-09-14
+"State Street Corp., Boston, MA",100.0,2009,857477103,2009-09-14
+"Steelcase Inc., Grand Rapids, MI",60.0,2009,858155203,2009-09-14
+"Subaru of America Inc., Cherry Hill, NJ",100.0,2009,864278106,2009-09-14
+"Sun Life Financial Inc. (U.S.), Wellesley Hills, MA",100.0,2009,866796105,2009-09-14
+"Sun Microsystems Inc., Santa Clara, CA",100.0,2009,866810203,2009-09-14
+"SunTrust Banks Inc., Atlanta, GA",100.0,2009,867914103,2009-09-14
+"Supervalu Inc., Eden Prairie, MN",100.0,2009,868536301,2009-09-14
+"Symantec Corp., Mountain View, CA",100.0,2009,871503108,2009-09-14
+"TJX Companies, Inc., The, Framingham, MA",100.0,2009,872540109,2009-09-14
+"Target Corp., Minneapolis, MN",100.0,2009,87612E106,2009-09-14
+"Tech Data Corp., Clearwater, FL",100.0,2009,878237106,2009-09-14
+"Tenet Healthcare Corporation, Dallas, TX",35.0,2009,88033G407,2009-09-14
+"Texas Instruments Inc., Dallas, TX",100.0,2009,882508104,2009-09-14
+"Tiffany & Co., New York, NY",68.0,2009,886547108,2009-09-14
+"Time Warner Inc., New York, NY",100.0,2009,887317303,2009-09-14
+"Toyota Financial Services Corp., Torrance, CA",100.0,2009,892332008,2009-09-14
+"Toyota Motor Sales USA Inc., Torrance, CA",100.0,2009,892331307,2009-09-14
+"Toys ‘R’ Us Inc., Wayne, NJ",65.0,2009,892335936,2009-09-14
+"Travelers Companies Inc., The, New York, NY",50.0,2009,89417E109,2009-09-14
+"Travelport Ltd., Parsippany, NJ",100.0,2009,G9019D104,2009-09-14
+"U.S. Bancorp, Minneapolis, MN",100.0,2009,902973304,2009-09-14
+"U.S. Foodservice Inc., Rosemont, IL",58.0,2009,90331R101,2009-09-14
+"UAL Corp. (United Airlines), Chicago, IL",88.0,2009,909279002,2009-09-14
+"UBS AG, New York, NY",100.0,2009,H42097107,2009-09-14
+"US Airways Group, Inc., Phoenix, AZ",100.0,2009,90341W108,2009-09-14
+"Unilever, Englewood Cliffs, NJ",100.0,2009,904767704,2009-09-14
+"Unisys Corp., Blue Bell, PA",70.0,2009,909214306,2009-09-14
+"United Business Media LLC, Manhasset, NY",100.0,2009,90969M100,2009-09-14
+"United Parcel Service Inc. (UPS), Atlanta, GA",43.0,2009,911312106,2009-09-14
+"United Technologies Corp., Farmington, CT",42.0,2009,913017109,2009-09-14
+"UnitedHealth Group Inc., Minnetonka, MN",21.0,2009,91324P102,2009-09-14
+"Unum Group, Chattanooga, TN",88.0,2009,91529Y106,2009-09-14
+"Verizon Communications Inc., New Jersey, NJ",13.0,2009,92343V104,2009-09-14
+"Vertis Inc., Baltimore, MD",30.0,2009,925335937,2009-09-14
+"Viacom Inc., New York, NY",100.0,2009,92553P201,2009-09-14
+"Visa, San Francisco, CA",100.0,2009,92826C839,2009-09-14
+"Visteon Corp., Van Buren Township, MI",100.0,2009,92839U206,2009-09-14
+"Vivendi, New York, NY",35.0,2009,92852T201,2009-09-14
+"Volkswagen of America Inc., Herndon, VA",100.0,2009,928662303,2009-09-14
+"Wachovia Corp., Charlotte, NC",46.0,2009,929903102,2009-09-14
+"Wal-Mart Stores Inc., Bentonville, AR",1.0,2009,931142103,2009-09-14
+"Walgreen Co., Deerfield, IL",44.0,2009,931427108,2009-09-14
+"Walt Disney Co., Burbank, CA",64.0,2009,254687106,2009-09-14
+"Washington Mutual Inc., Seattle, WA",81.0,2009,939322103,2009-09-14
+"Waste Management Inc., Houston, TX",85.0,2009,94106L109,2009-09-14
+"WellPoint Inc., Indianapolis, IN",35.0,2009,94999Y960,2009-09-14
+"Wells Fargo & Co., San Francisco, CA",41.0,2009,949746101,2009-09-14
+"West Corp., Omaha, NE",95.0,2009,952355204,2009-09-14
+"Weyerhaeuser Co., Federal Way, WA",75.0,2009,962166104,2009-09-14
+"Whirlpool Corp., Benton Harbor, MI",100.0,2009,963320106,2009-09-14
+"Whole Foods Market Inc., Austin, TX",90.0,2009,966837106,2009-09-14
+"Wisconsin Energy Corporation, Milwaukee, WI",55.0,2009,976657100,2009-09-14
+"Wyeth, Madison, NJ",80.0,2009,983024100,2009-09-14
+"Wyndham Worldwide Corp., Parsippany, NJ",100.0,2009,98310W108,2009-09-14
+"XM Satellite Radio Holdings Inc., Washington, DC",93.0,2009,983759101,2009-09-14
+"Xcel Energy Inc., Minneapolis, MN",60.0,2009,98389B100,2009-09-14
+"Xerox Corp., Norwalk, CT",100.0,2009,984121608,2009-09-14
+"YRC Worldwide Inc., Overland Park, KS",30.0,2009,984249607,2009-09-14
+"Yahoo! Inc., Sunnyvale, CA",100.0,2009,021346101,2009-09-14
+"Yum! Brands Inc., Louisville, KY",65.0,2009,988498101,2009-09-14
+"eBay Inc., San Jose, CA",100.0,2009,278642103,2009-09-14
+"Bridgestone Americas Holding Inc., Nashville, TN",80.0,2010,318315108.0,2010-01-25
+"Dollar Thrifty Automotive Group Inc., Tulsa, OK",8.0,2010,256743105.0,2010-01-25
+"Affiliated Computer Services, Dallas, TX",60.0,2011,008190100,2011-12-01
+"Allscripts-Misys Healthcare Solutions Inc., Chicago, IL",43.0,2011,01999Y932,2011-12-01
+"American Family Insurance Group, Madison, WI",88.0,2011,02599X936,2011-12-01
+"Canadian Imperial Bank of Commerce, New York, NY",95.0,2011,136069101,2011-12-01
+"Cracker Barrel Old Country Store Inc., Lebanon, TN",55.0,2011,22410J106,2011-12-01
+"Federal National Mortgage Association (Fannie Mae), Washington, DC",100.0,2011,313586109,2011-12-01
+"Guardian Life Insurance Co. of America, The, New York, NY",45.0,2011,40199Y938,2011-12-01
+"Houghton Mifflin Harcourt Publishing Co., Boston, MA",35.0,2011,44157R109,2011-12-01
+"InterContinental Hotels Group Americas, Atlanta, GA",85.0,2011,45857P707,2011-12-01
+"John Hancock Financial Services Inc., Boston, MA",73.0,2011,41014S106,2011-12-01
+"Mutual of Omaha Insurance, Omaha, NE",80.0,2011,62899Q932,2011-12-01
+"Qwest Communications International Inc., Denver, CO",85.0,2011,749121109,2011-12-01
+"3M Company, St. Paul, MN",100.0,2012,88579Y101,2012-12-20
+"AECOM Technology Corp., Los Angeles, CA",85.0,2012,00766T100,2012-12-20
+"AES Corp., The, Arlington, VA",15.0,2012,00130H105,2012-12-20
+"AFLAC Inc., Columbus, GA",30.0,2012,001055102,2012-12-20
+"AMC Entertainment Inc., Leawood , KS",90.0,2012,01199Y005,2012-12-20
+"AMR Corp. (American Airlines), Fort Worth, TX",100.0,2012,023771009,2012-12-20
+"AT&T Inc., Dallas, TX",100.0,2012,00206R102,2012-12-20
+"Abercrombie & Fitch Co., New Albany, OH",100.0,2012,002896207,2012-12-20
+"AbitibiBowater Inc., Greenville, SC",0.0,2012,003685104,2012-12-20
+"Accenture Ltd., New York, NY",100.0,2012,G1150G110,2012-12-20
+"Acer Inc., Irvine, CA",35.0,2012,750070104,2012-12-20
+"Adobe Systems Inc., San Jose, CA",90.0,2012,00724F101,2012-12-20
+"Advance Auto Parts (Advance Holding), Roanoke, VA",30.0,2012,00751Y106,2012-12-20
+"Advanced Micro Devices Inc., Sunnyvale, CA",70.0,2012,007903107,2012-12-20
+"Aegon USA, New York, NY",20.0,2012,007924103,2012-12-20
+"Aetna Inc., Hartford, CT",100.0,2012,00817Y108,2012-12-20
+"Agilent Technologies Inc., Santa Clara, CA",75.0,2012,00846U101,2012-12-20
+"Ahold USA Inc., Quincy, MA",55.0,2012,500467501,2012-12-20
+"Air Products & Chemicals Inc., Allentown, PA",80.0,2012,009158106,2012-12-20
+"Airgas Inc., Radnor, PA",0.0,2012,009363102,2012-12-20
+"Alaska Air Group Inc., Seattle, WA",90.0,2012,011659109,2012-12-20
+"Alcatel-Lucent, Murray Hill, NJ",100.0,2012,013904305,2012-12-20
+"Alcoa Inc., Chicago, IL",100.0,2012,013817507,2012-12-20
+"Allegheny Energy Inc., Greensburg, PA",15.0,2012,017361106,2012-12-20
+"Allergan Inc., Irvine, CA",15.0,2012,018490102,2012-12-20
+"Alliant Energy Corp., Madison, WI",50.0,2012,018802108,2012-12-20
+"Alliant Techsystems Inc., Arlington, VA",35.0,2012,68557N103,2012-12-20
+"Allianz Life Insurance Co. of North America, Minneapolis, MN",60.0,2012,018805101,2012-12-20
+"Allscripts-Misys Health care Solutions Inc., Chicago, IL",30.0,2012,01988P108,2012-12-20
+"Allstate Corp., The, Northbrook, IL",85.0,2012,020002101,2012-12-20
+"Ally Financial Inc., Detroit, MI",15.0,2012,02005N100,2012-12-20
+"Altria Group Inc., Richmond, VA",15.0,2012,02209S103,2012-12-20
+"Amazon.com Inc., Seattle, WA",90.0,2012,023135106,2012-12-20
+"Ameren Corp., St. Louis, MO",60.0,2012,023608102,2012-12-20
+"American Eagle Outfitters Inc., Pittsburgh, PA",80.0,2012,02553E106,2012-12-20
+"American Electric Power Co. Inc., Columbus, OH",15.0,2012,025537101,2012-12-20
+"American Express Co., New York, NY",100.0,2012,025816109,2012-12-20
+"Ameriprise Financial Inc., Minneapolis, MN",100.0,2012,03076C106,2012-12-20
+"Aon Corp., Chicago, IL",100.0,2012,G0408V102,2012-12-20
+"Apple Inc., Cupertino, CA",100.0,2012,037833100,2012-12-20
+"Automatic Data Processing Inc., Roseland, NJ",100.0,2012,053015103,2012-12-20
+"Avon Products Inc., New York, NY",100.0,2012,054303102,2012-12-20
+"Bank of America Corp., Charlotte, NC",100.0,2012,060505104,2012-12-20
+"Bank of New York Mellon Corp., The (BNY Mellon), New York, NY",100.0,2012,064058100,2012-12-20
+"Barnes & Noble Inc., New York, NY",100.0,2012,067774109,2012-12-20
+"Best Buy Co. Inc., Richfield, MN",100.0,2012,086516101,2012-12-20
+"Booz Allen Hamilton Inc., McLean, VA",100.0,2012,099500100,2012-12-20
+"Bristol-Myers Squibb Co., New York, NY",100.0,2012,110122108,2012-12-20
+"Brown-Forman Corp., Louisville, KY",100.0,2012,115637209,2012-12-20
+"Caesars Entertainment Corp., Las Vegas, NV",100.0,2012,127686103,2012-12-20
+"Campbell Soup Co., Camden, NJ",100.0,2012,134429109,2012-12-20
+"Capital One Financial Corp., McLean, VA",100.0,2012,14040H105,2012-12-20
+"Cardinal Health Inc., Dublin, OH",100.0,2012,14149Y108,2012-12-20
+"Charles Schwab Corp., The, San Francisco, CA",100.0,2012,808513105,2012-12-20
+"Chevron Corp., San Ramon, CA",100.0,2012,166764100,2012-12-20
+"Choice Hotels International Inc., Rockville, MD",100.0,2012,169905106,2012-12-20
+"Chubb Corp., Philadelphia, PA",100.0,2012,171232101,2012-12-20
+"Cisco Systems Inc., San Jose, CA",100.0,2012,17275R102,2012-12-20
+"Citigroup Inc., New York, NY",100.0,2012,172967424,2012-12-20
+"Clorox Company, Oakland, CA",100.0,2012,189054109,2012-12-20
+"Coca-Cola Co., The, Atlanta, GA",100.0,2012,191216100,2012-12-20
+"Corning Inc., Corning, NY",100.0,2012,219350105,2012-12-20
+"Credit Suisse USA Inc., New York, NY",100.0,2012,225401009,2012-12-20
+"Cummins Inc., Columbus, IN",100.0,2012,231021106,2012-12-20
+"Delhaize America Inc., Salisbury, NC",100.0,2012,24699X004,2012-12-20
+"Dell Inc., Round Rock, TX",100.0,2012,24703L103,2012-12-20
+"Dow Chemical Co., The, Midland, MI",100.0,2012,26078J100,2012-12-20
+"E. I. du Pont de Nemours and Co. (DuPont), Wilmington, DE",100.0,2012,263534109,2012-12-20
+"EMC Corp., Hopkinton, MA",100.0,2012,268648102,2012-12-20
+"Eastman Kodak Co., Rochester, NY",100.0,2012,277461406,2012-12-20
+"Eli Lilly & Co., Indianapolis, IN",100.0,2012,532457108,2012-12-20
+"Exelon Corp., Chicago, IL",100.0,2012,30161N101,2012-12-20
+"Federal Home Loan Mortgage Corp. (Freddie Mac), McLean, VA",100.0,2012,313400301,2012-12-20
+"Ford Motor Co., Dearborn, MI",100.0,2012,345370860,2012-12-20
+"Gap Inc., San Francisco, CA",100.0,2012,364760108,2012-12-20
+"Genentech Inc., South San Francisco, CA",100.0,2012,368710406,2012-12-20
+"General Mills Inc., Minneapolis, MN",100.0,2012,370334104,2012-12-20
+"Goldman Sachs Group Inc., The, New York, NY",100.0,2012,38141G104,2012-12-20
+"Google Inc., Mountain View, CA",100.0,2012,38259P500,2012-12-20
+"Herman Miller Inc., Zeeland, MI",100.0,2012,600544100,2012-12-20
+"Hewlett-Packard Co., Palo Alto, CA",100.0,2012,42824C109,2012-12-20
+"Hyatt Hotels Corp., Chicago, IL",100.0,2012,448579102,2012-12-20
+"International Business Machines Corp. (IBM), Armonk, NY",100.0,2012,459200101,2012-12-20
+"Intuit Inc., Mountain View, CA",100.0,2012,461202103,2012-12-20
+"JPMorgan Chase & Co., New York, NY",100.0,2012,46625H100,2012-12-20
+"Johnson & Johnson, New Brunswick, NJ",100.0,2012,478160104,2012-12-20
+"Kellogg Co., Battle Creek, MI",100.0,2012,487836108,2012-12-20
+"Kraft Foods Inc., Northfield, IL",100.0,2012,50076Q106,2012-12-20
+"Levi Strauss & Co., San Francisco, CA",100.0,2012,52736R938,2012-12-20
+"Limited Brands Inc., Columbus, OH",100.0,2012,532716100,2012-12-20
+"Lockheed Martin Corp., Bethesda, MD",100.0,2012,539830109,2012-12-20
+"Marsh & McLennan Companies Inc., New York, NY",100.0,2012,571748102,2012-12-20
+"Medtronic Inc., Minneapolis, MN",100.0,2012,585730104,2012-12-20
+"MetLife Inc., New York, NY",100.0,2012,59156R108,2012-12-20
+"Microsoft Corp., Redmond, WA",100.0,2012,594918104,2012-12-20
+"Navigant Consulting Inc., Chicago , IL",100.0,2012,63935N107,2012-12-20
+"Nike Inc., Beaverton, OR",100.0,2012,654106103,2012-12-20
+"Nordstrom Inc., Seattle, WA",100.0,2012,655664100,2012-12-20
+"Northern Trust Corp., Chicago, IL",100.0,2012,665859104,2012-12-20
+"Office Depot Inc., Boca Raton, FL",100.0,2012,676220106,2012-12-20
+"Oracle Corp., Redwood City, CA",100.0,2012,68389X105,2012-12-20
+"Orbitz Worldwide Inc., Chicago, IL",100.0,2012,68557K109,2012-12-20
+"PG&E Corp., San Fran- cisco, CA",100.0,2012,69331C108,2012-12-20
+"Pfizer Inc., New York, NY",100.0,2012,717081103,2012-12-20
+"Prudential Financial Inc., Newark, NJ",100.0,2012,744320102,2012-12-20
+"Raytheon Co., Waltham, MA",100.0,2012,755111507,2012-12-20
+"Sears Holdings Corp., Hoffman Estates, IL",100.0,2012,812350106,2012-12-20
+"Sodexo Inc., Gaithersburg, MD",100.0,2012,833792104,2012-12-20
+"Southern California Edison Company, Rosemead, CA",100.0,2012,842400004,2012-12-20
+"Sprint Nextel Corp., Overland Park, KS",100.0,2012,852061100,2012-12-20
+"Staples Inc., Framingham, MA",100.0,2012,855030102,2012-12-20
+"Starwood Hotels & Resorts Worldwide, Stamford, CT",100.0,2012,85590A401,2012-12-20
+"Sun Life Financial Inc. (U.S.), Wellesley Hills, MA",100.0,2012,866796105,2012-12-20
+"Supervalu Inc., Eden Prairie, MN",100.0,2012,868536301,2012-12-20
+"Symantec Corp., Mountain View, CA",100.0,2012,871503108,2012-12-20
+"TD Bank, N.A., Wilmington, DE",100.0,2012,87235A101,2012-12-20
+"TJX Companies, Inc., The, Framingham, MA",100.0,2012,872540109,2012-12-20
+"Tech Data Corp., Clearwater, FL",100.0,2012,878237106,2012-12-20
+"Time Warner Inc., New York, NY",100.0,2012,887317303,2012-12-20
+"Toyota Financial Services Corp., Torrance, CA",100.0,2012,892332008,2012-12-20
+"Toyota Motor Sales USA Inc., Torrance, CA",100.0,2012,892331307,2012-12-20
+"U.S. Bancorp, Minneapolis, MN",100.0,2012,902973304,2012-12-20
+"United Continental Holdings Inc., Chicago, IL",100.0,2012,910047109,2012-12-20
+"United Parcel Service Inc. (UPS), Atlanta, GA",100.0,2012,911312106,2012-12-20
+"United Technologies Corp., Farmington, CT",100.0,2012,913017109,2012-12-20
+"UnitedHealth Group Inc., Minnetonka, MN",100.0,2012,91324P102,2012-12-20
+"Walt Disney Co., The, Burbank, CA",100.0,2012,254687106,2012-12-20
+"Wells Fargo & Co., San Francisco, CA",100.0,2012,949746101,2012-12-20
+"Whirlpool Corp., Benton Harbor, MI",100.0,2012,963320106,2012-12-20
+"Xerox Corp., Norwalk, CT",100.0,2012,984121608,2012-12-20
+"Yahoo! Inc., Sunnyvale, CA",100.0,2012,021346101,2012-12-20
+"eBay Inc., San Jose, CA",100.0,2012,278642103,2012-12-20
+"Allscripts-Misys Healthcare Solutions Inc., Chicago, IL",30.0,2013,01999Y932,2013-12-11
+"American Family Insurance Group, Madison, WI",55.0,2013,02599X936,2013-12-11
+"Archer Daniels Midland Co., Chicago, IL",39.0,2013,039483102,2013-12-11
+"Automatic Data Processing Inc., Roseland, NJ",100.0,2013,053015103,2013-12-11
+"Bank of New York Mellon Corp., The, New York, NY",100.0,2013,064058100,2013-12-11
+"Berkshire Hathaway Inc., Omaha, NE",7.0,2013,084670702,2013-12-11
+"Bon-Ton Stores, Inc., York, PA",90.0,2013,09776J101,2013-12-11
+"Bright Horizons Family Solutions LLC, Watertown, MA",90.0,2013,109194100,2013-12-11
+"Burlington Coat Factory Warehouse Corp., Burlington, NJ",60.0,2013,012157910,2013-12-11
+"Canadian Imperial Bank of Commerce, New York, NY",70.0,2013,136069101,2013-12-11
+"Capital One Financial Corp., McLean, VA",100.0,2013,14040H105,2013-12-11
+"Chipotle Mexican Grill Inc., Denver, CO",75.0,2013,169656105,2013-12-11
+"Cognizant Technology Solutions Corp., Teaneck, NJ",15.0,2013,192446102,2013-12-11
+"Cracker Barrel Old Country Store Inc., Lebanon, TN",35.0,2013,22410J106,2013-12-11
+"Dollar Thrifty Automotive Group Inc., Tulsa, OK",70.0,2013,256743105,2013-12-11
+"Dr Pepper Snapple Group Inc., Plano, TX",70.0,2013,26138E109,2013-12-11
+"Enbridge Energy Partners, Houston, TX",15.0,2013,29250R106,2013-12-11
+"Energy Future Holdings Corp., Dallas, TX",15.0,2013,29299Z002,2013-12-11
+"Energy Transfer Partners LP, Dallas, TX",0.0,2013,29278N103,2013-12-11
+"Enterprise Products Partners LP, Houston, TX",80.0,2013,293792107,2013-12-11
+"Expeditors International of Washington, Inc., Seattle, WA",15.0,2013,302130109,2013-12-11
+"Federal Home Loan Mortgage Corp. (Freddie Mac), McLean, VA",20.0,2013,313400301,2013-12-11
+"Federal National Mortgage Association (Fannie Mae), Washington, DC",80.0,2013,313586109,2013-12-11
+"Fidelity National Information Services Inc., Jacksonville, FL",15.0,2013,31699Y932,2013-12-11
+"Hartford Financial Services Group Inc., The, Hartford, CT",100.0,2013,416515104,2013-12-11
+"International Business Machines Corp. (IBM), Armonk, NY",18.0,2013,459200101,2013-12-11
+"Interpublic Group of Companies Inc., New York, NY",100.0,2013,460690100,2013-12-11
+"PNC Financial Services Group Inc., The, Pittsburgh, PA",100.0,2013,693475105,2013-12-11
+"Prudential Financial Inc., Newark, NJ",64.0,2013,744320102,2013-12-11
+"Southern California Edison Company, Rosemead, CA",100.0,2013,842400004,2013-12-11
+"Starwood Hotels & Resorts Worldwide, Stamford, CT",100.0,2013,85590A401,2013-12-11
+"Toyota Financial Services Corp., Torrance, CA",100.0,2013,892332008,2013-12-11
+"Volkswagen Group of America Inc., Herndon, VA",100.0,2013,928662303,2013-12-11
+"Allscripts-Misys Healthcare Solutions Inc., Chicago, IL",30.0,2014,01999Y932,2014-11-21
+"American Family Insurance Group, Madison, WI",55.0,2014,02599X936,2014-11-21
+"Canadian Imperial Bank of Commerce, New York, NY",70.0,2014,136069101,2014-11-21
+"Chipotle Mexican Grill Inc., Denver, CO",75.0,2014,169656105,2014-11-21
+"Cracker Barrel Old Country Store Inc., Lebanon, TN",45.0,2014,22410J106,2014-11-21
+"Dollar Thrifty Automotive Group Inc., Tulsa, OK",70.0,2014,256743105,2014-11-21
+"Federal Home Loan Mortgage Corp. (Freddie Mac), McLean, VA",100.0,2014,313400301,2014-11-21
+"International Business Machines Corp. (IBM), Armonk, NY",19.0,2014,459200101,2014-11-21
+"Allianz Life Insurance Co. of North America, Minneapolis, MN",60.0,2015,018805101,2015-11-18
+"Allscripts-Misys Healthcare Solutions Inc., Chicago, IL",30.0,2015,01999Y932,2015-11-18
+"Archer Daniels Midland Co., Chicago, IL",27.0,2015,039483102,2015-11-18
+"Canadian Imperial Bank of Commerce, New York, NY",70.0,2015,136069101,2015-11-18
+"Dollar Thrifty Automotive Group Inc., Tulsa, OK",70.0,2015,256743105,2015-11-18
+"Federal Home Loan Mortgage Corp. (Freddie Mac), McLean, VA",31.0,2015,313400301,2015-11-18
+"Federal National Mortgage Association (Fannie Mae), Washington, DC",12.0,2015,313586109,2015-11-18
+"First Horizon National Corp., Memphis, TN",70.0,2015,320517105,2015-11-18
+"Freescale Semiconductor Inc., Austin, TX",80.0,2015,35699Z005,2015-11-18
+"Houghton Mifflin Harcourt Publishing Co., Boston, MA",75.0,2015,44157R109,2015-11-18
+"InterContinental Hotels Group Americas, Atlanta, GA",90.0,2015,45857P707,2015-11-18
+"John Hancock Financial Services Inc., Boston, MA",85.0,2015,41014S106,2015-11-18
+"Public Service Enterprise Group, Newark, NJ",5.0,2015,744573106,2015-11-18
+"Royal Caribbean Cruises Ltd., Miami, FL",80.0,2015,V7780T103,2015-11-18
+"Ultimate Software Group Inc., The, Weston, FL",65.0,2015,90385D107,2015-11-18
+"World Fuel Services, Miami, FL",74.0,2015,981475106,2015-11-18
+"3M Company, St. Paul, MN",100.0,2016,88579Y101,2016-12-05
+"AES Corp., The, Arlington, VA",0.0,2016,00130H105,2016-12-05
+"AFLAC Inc., Columbus, GA",75.0,2016,001055102,2016-12-05
+"AGL Resources Inc., Atlanta, GA",70.0,2016,002455103,2016-12-05
+"AK Steel Holding Corp., West Chester, OH",20.0,2016,001547108,2016-12-05
+"AMC Entertainment Inc., Leawood , KS",100.0,2016,01199Y005,2016-12-05
+"AT&T Inc., Dallas, TX",100.0,2016,00206R102,2016-12-05
+"AbbVie Inc., North Chicago, IL",100.0,2016,00287Y109,2016-12-05
+"Abercrombie & Fitch Co., New Albany, OH",100.0,2016,002896207,2016-12-05
+"Acer Inc., Irvine, CA",25.0,2016,750070104,2016-12-05
+"Adobe Systems Inc., San Jose, CA",100.0,2016,00724F101,2016-12-05
+"Advance Auto Parts (Advance Holding), Roanoke, VA",20.0,2016,00751Y106,2016-12-05
+"Advanced Micro Devices Inc., Sunnyvale, CA",80.0,2016,007903107,2016-12-05
+"Aetna Inc., Hartford, CT",100.0,2016,00817Y108,2016-12-05
+"Agilent Technologies Inc., Santa Clara, CA",90.0,2016,00846U101,2016-12-05
+"Ahold USA Inc., Quincy, MA",40.0,2016,500467501,2016-12-05
+"Air Products & Chemicals Inc., Allentown, PA",95.0,2016,009158106,2016-12-05
+"Airgas Inc., Radnor, PA",0.0,2016,009363102,2016-12-05
+"Akamai Technologies Inc., Cambridge, MA",75.0,2016,00971T101,2016-12-05
+"Alcatel-Lucent, Murray Hill, NJ",100.0,2016,013904305,2016-12-05
+"Alcoa Inc., Chicago, IL",100.0,2016,013817507,2016-12-05
+"Alleghany Corp., New York, NY",20.0,2016,017175100,2016-12-05
+"Allegheny Energy Inc., Greensburg, PA",10.0,2016,017361106,2016-12-05
+"Allergan Inc., Irvine, CA",10.0,2016,018490102,2016-12-05
+"Alliant Energy Corp., Madison, WI",90.0,2016,018802108,2016-12-05
+"Alliant Techsystems Inc., Arlington, VA",35.0,2016,68557N103,2016-12-05
+"Allianz Life Insurance Co. of North America, Minneapolis, MN",85.0,2016,018805101,2016-12-05
+"Allscripts-Misys Healthcare Solutions Inc., Chicago, IL",30.0,2016,01999Y932,2016-12-05
+"Allstate Corp., The, Northbrook, IL",85.0,2016,020002101,2016-12-05
+"Ally Financial Inc., Detroit, MI",20.0,2016,02005N100,2016-12-05
+"Altria Group Inc., Richmond, VA",85.0,2016,02209S103,2016-12-05
+"Amazon.com Inc., Seattle, WA",85.0,2016,023135106,2016-12-05
+"Ameren Corp., St. Louis, MO",90.0,2016,023608102,2016-12-05
+"American Apparel LLC, Los Angeles, CA",100.0,2016,023850100,2016-12-05
+"American Eagle Outfitters Inc., Pittsburgh, PA",100.0,2016,02553E106,2016-12-05
+"American Electric Power Co. Inc., Columbus, OH",95.0,2016,025537101,2016-12-05
+"American Express Co., New York, NY",100.0,2016,025816109,2016-12-05
+"Ameriprise Financial Inc., Minneapolis, MN",100.0,2016,03076C106,2016-12-05
+"AmerisourceBergen Corp., Chesterbrook, PA",75.0,2016,03073E105,2016-12-05
+"Amgen Inc., Thousand Oaks, CA",90.0,2016,031162100,2016-12-05
+"Andersons Inc., The, Maumee, OH",20.0,2016,034164103,2016-12-05
+"Anheuser-Busch Companies Inc., St. Louis, MO",100.0,2016,035229103,2016-12-05
+"Anixter International Inc., Glenview, IL",20.0,2016,035290105,2016-12-05
+"Anthem Inc., Indianapolis, IN",100.0,2016,036752103,2016-12-05
+"Aon Corp., Chicago, IL",100.0,2016,G0408V102,2016-12-05
+"Apache Corp., Houston, TX",20.0,2016,037411105,2016-12-05
+"Apple Inc., Cupertino, CA",100.0,2016,037833100,2016-12-05
+"Applied Materials Inc., Santa Clara, CA",80.0,2016,038222105,2016-12-05
+"Aramark Corp., Philadelphia, PA",100.0,2016,002034932,2016-12-05
+"Archer Daniels Midland Co., Chicago, IL",35.0,2016,039483102,2016-12-05
+"Ashland Inc., Covington, KY",65.0,2016,044186104,2016-12-05
+"AutoNation Inc., Fort Lauderdale, FL",10.0,2016,05329W102,2016-12-05
+"Autodesk Inc., San Rafael, CA",85.0,2016,052769106,2016-12-05
+"Autoliv Inc., Auburn Hills, MI",20.0,2016,052800109,2016-12-05
+"Automatic Data Processing Inc., Roseland, NJ",100.0,2016,053015103,2016-12-05
+"Aventis Pharmaceuticals Inc., Bridgewater, NJ",100.0,2016,053561106,2016-12-05
+"Aéropostale Inc., Lyndhurst, NJ",85.0,2016,00215Q103,2016-12-05
+"BP America Inc., Houston, TX",100.0,2016,055625008,2016-12-05
+"Diageo North America, Norwalk, CT",100.0,2016,25243Q205,2016-12-05
+"Johnson & Johnson, New Brunswick, NJ",100.0,2016,478160104,2016-12-05
+"NVIDIA Corp., Santa Clara, CA",100.0,2016,67066G104,2016-12-05
+"Nissan North America Inc., Franklin, TN",100.0,2016,654744408,2016-12-05
+"Nordstrom Inc., Seattle, WA",100.0,2016,655664100,2016-12-05
+"Northern Trust Corp., Chicago, IL",100.0,2016,665859104,2016-12-05
+"Northrop Grumman Corp., Falls Church, VA",100.0,2016,666807102,2016-12-05
+"Office Depot Inc., Boca Raton, FL",100.0,2016,676220106,2016-12-05
+"Ogilvy Group Inc., The, New York, NY",100.0,2016,676601107,2016-12-05
+"Oracle Corp., Redwood City, CA",100.0,2016,68389X105,2016-12-05
+"Orbitz Worldwide Inc., Chicago, IL",100.0,2016,68557K109,2016-12-05
+"Outerwall Inc., Bellevue, WA",100.0,2016,690070107,2016-12-05
+"PG&E Corp., San Fran- cisco, CA",100.0,2016,69331C108,2016-12-05
+"PNC Financial Services Group Inc., The, Pittsburgh, PA",100.0,2016,693475105,2016-12-05
+"PayPal Holdings Inc., San Jose, CA",100.0,2016,70450Y103,2016-12-05
+"Pearson Inc., Hoboken, NJ",100.0,2016,71534C109,2016-12-05
+"PepsiCo Inc., Purchase, NY",100.0,2016,713448108,2016-12-05
+"Portland General Electric Co., Portland, OR",100.0,2016,736508847,2016-12-05
+"Procter & Gamble Co., Cincinnati, OH",100.0,2016,742718109,2016-12-05
+"Prudential Financial Inc., Newark, NJ",100.0,2016,744320102,2016-12-05
+"QualComm, San Diego, CA",100.0,2016,747525103,2016-12-05
+"Raytheon Co., Waltham, MA",100.0,2016,755111507,2016-12-05
+"Re:Sources USA Inc., Long Island City, NY",100.0,2016,844027102,2016-12-05
+"Rockwell Automation Inc., Milwaukee, WI",100.0,2016,773903109,2016-12-05
+"Rockwell Collins Inc., Cedar Rapids, IA",100.0,2016,774341101,2016-12-05
+"Royal Caribbean Cruises Ltd., Miami, FL",100.0,2016,V7780T103,2016-12-05
+"Saatchi & Saatchi North America Inc., New York, NY",100.0,2016,785144205,2016-12-05
+"Sears Holdings Corp., Hoffman Estates, IL",100.0,2016,812350106,2016-12-05
+"Shell Oil Co., Houston, TX",100.0,2016,822635009,2016-12-05
+"Sodexo Inc., Gaithersburg, MD",100.0,2016,833792104,2016-12-05
+"Southern California Edison Company, Rosemead, CA",100.0,2016,842400004,2016-12-05
+"Southwest Airlines Co., Dallas, TX",100.0,2016,844741108,2016-12-05
+"Sprint Corp., Overland Park, KS",100.0,2016,85207U105,2016-12-05
+"Staples Inc., Framingham, MA",100.0,2016,855030102,2016-12-05
+"Starbucks Corp., Seattle, WA",100.0,2016,855244109,2016-12-05
+"Starwood Hotels & Resorts Worldwide, Stamford, CT",100.0,2016,85590A401,2016-12-05
+"State Street Corp., Boston, MA",100.0,2016,857477103,2016-12-05
+"Steelcase Inc., Grand Rapids, MI",100.0,2016,858155203,2016-12-05
+"Sun Life Financial Inc. (US), Wellesley Hills, MA",100.0,2016,866796105,2016-12-05
+"SunTrust Banks Inc., Atlanta, GA",100.0,2016,867914103,2016-12-05
+"Symantec Corp., Mountain View, CA",100.0,2016,871503108,2016-12-05
+"T-Mobile USA Inc., Bellevue, WA",100.0,2016,872590104,2016-12-05
+"TD Bank, N.A., Wilmington, DE",100.0,2016,87235A101,2016-12-05
+"TJX Companies, Inc., The, Framingham, MA",100.0,2016,872540109,2016-12-05
+"Target Corp., Minneapolis, MN",100.0,2016,87612E106,2016-12-05
+"Tech Data Corp., Clearwater, FL",100.0,2016,878237106,2016-12-05
+"Tesla Motors Inc., Palo Alto, CA",100.0,2016,88160R101,2016-12-05
+"Thermo Fisher Scientific Inc., Waltham, MA",100.0,2016,883556102,2016-12-05
+"Time Warner Cable Inc., New York, NY",100.0,2016,88732J207,2016-12-05
+"Time Warner Inc., New York, NY",100.0,2016,887317303,2016-12-05
+"Towers Watson & Co., Arlington, VA",100.0,2016,891894107,2016-12-05
+"Toyota North America Inc., Plano, TX",100.0,2016,892331307,2016-12-05
+"Travelers Companies Inc., The, New York, NY",100.0,2016,89417E109,2016-12-05
+"Twitter Inc., San Francisco, CA",100.0,2016,90184L102,2016-12-05
+"U.S. Bancorp, Minneapolis, MN",100.0,2016,902973304,2016-12-05
+"Vanguard Group Inc., Malvern, PA",100.0,2016,92293Y934,2016-12-05
+"Viacom Inc., New York, NY",100.0,2016,92553P201,2016-12-05
+"Volkswagen Group of America Inc., Herndon, VA",100.0,2016,928662303,2016-12-05
+"W.W. Grainger Inc., Lake Forest, IL",100.0,2016,384802104,2016-12-05
+"Walgreen Co., Deerfield, IL",100.0,2016,931427108,2016-12-05
+"Walt Disney Co., The, Burbank, CA",100.0,2016,254687106,2016-12-05
+"Wells Fargo & Co., San Francisco, CA",100.0,2016,949746101,2016-12-05
+"Whirlpool Corp., Benton Harbor, MI",100.0,2016,963320106,2016-12-05
+"WhiteWave Foods Co., The, Denver, CO",100.0,2016,966244105,2016-12-05
+"Wynn Resorts Ltd., Las Vegas, NV",100.0,2016,983134107,2016-12-05
+"Xerox Corp., Norwalk, CT",100.0,2016,984121608,2016-12-05
+"Yahoo! Inc., Sunnyvale, CA",100.0,2016,021346101,2016-12-05
+"Yelp Inc., San Francisco, CA",100.0,2016,985817105,2016-12-05
+"Aventis Pharmaceuticals Inc., Bridgewater, NJ",2.0,2017,053561106,2017-11-09
+"BP America Inc., Houston, TX",2.0,2017,055625008,2017-11-09
+"Federal National Mortgage Association (Fannie Mae), Washington, DC",2.0,2017,313586109,2017-11-09
+"First Data Corp., Atlanta, GA",2.0,2017,32008D106,2017-11-09
+"Ford Motor Co., Dearborn, MI",2.0,2017,345370860,2017-11-09
+"Franklin Resources Inc., San Mateo, CA",2.0,2017,354613101,2017-11-09
+"GameStop Corp., Grapevine, TX",2.0,2017,36467W109,2017-11-09
+"Gap Inc., San Francisco, CA",2.0,2017,364760108,2017-11-09
+"Genentech Inc., South San Francisco, CA",2.0,2017,368710406,2017-11-09
+"General Electric Co., Boston, MA",2.0,2017,369604103,2017-11-09
+"General Mills Inc., Minneapolis, MN",2.0,2017,370334104,2017-11-09
+"General Motors Corp., Milford, MI",2.0,2017,37099Z932,2017-11-09
+"Genworth Financial Inc., Richmond, VA",2.0,2017,37247D106,2017-11-09
+"Goldman Sachs Group Inc., The, New York, NY",2.0,2017,38141G104,2017-11-09
+"Google Inc., Mountain View, CA",2.0,2017,38259P500,2017-11-09
+"Groupon Inc., Chicago, IL",2.0,2017,399473107,2017-11-09
+"Guardian Life Insurance Co. of America, The, New York, NY",2.0,2017,40199Y938,2017-11-09
+"HP Inc., Palo Alto, CA",2.0,2017,40434L105,2017-11-09
+"Harris Corp., Melbourne, FL",2.0,2017,413875105,2017-11-09
+"Hartford Financial Services Group Inc., The, Hartford, CT",2.0,2017,416515104,2017-11-09
+"Hasbro Inc., Pawtucket, RI",2.0,2017,418056107,2017-11-09
+"Health Care Service Corp., Chicago, IL",2.0,2017,299783936,2017-11-09
+"Henry Schein Inc., Melville, NY",2.0,2017,806407102,2017-11-09
+"Herman Miller Inc., Zeeland, MI",2.0,2017,600544100,2017-11-09
+"Hershey Co., The, Hershey, PA",2.0,2017,427866108,2017-11-09
+"Hewlett Packard Enterprise Co., Palo Alto, CA",2.0,2017,42824C109,2017-11-09
+"Hilton Worldwide Inc., McLean, VA",2.0,2017,43300A203,2017-11-09
+"Home Depot Inc., The, Atlanta, GA",2.0,2017,437076102,2017-11-09
+"Hormel Foods Corp., Austin, MN",2.0,2017,440452100,2017-11-09
+"Humana Inc., Louisville, KY",2.0,2017,444859102,2017-11-09
+"Huntington Bancshares Inc., Columbus, OH",2.0,2017,446150104,2017-11-09
+"Huron Consulting Group Inc., Chicago, IL",2.0,2017,447462102,2017-11-09
+"Hyatt Hotels Corp., Chicago, IL",2.0,2017,448579102,2017-11-09
+"IBM Corp., Armonk, NY",2.0,2017,449220003,2017-11-09
+"Intel Corp., Santa Clara, CA",2.0,2017,458140100,2017-11-09
+"Interpublic Group of Companies Inc., New York, NY",2.0,2017,460690100,2017-11-09
+"Intuit Inc., Mountain View, CA",2.0,2017,461202103,2017-11-09
+"J.C. Penney Corp. Inc., Plano, TX",2.0,2017,708152004,2017-11-09
+"JPMorgan Chase & Co., New York, NY",2.0,2017,46625H100,2017-11-09
+"JetBlue Airways Corp., Long Island City, NY",2.0,2017,477143101,2017-11-09
+"John Hancock Financial Services Inc., Boston, MA",2.0,2017,41014S106,2017-11-09
+"Johnson & Johnson, New Brunswick, NJ",2.0,2017,478160104,2017-11-09
+"KKR & Co. LP, New York, NY",2.0,2017,48248M102,2017-11-09
+"Kellogg Co., Battle Creek, MI",2.0,2017,487836108,2017-11-09
+"Kimberly-Clark Corporation, Irving, TX",2.0,2017,494368103,2017-11-09
+"LPL Financial Holdings Inc., Boston, MA",2.0,2017,50212V100,2017-11-09
+"Land O'Lakes Inc., Arden Hills, MN",2.0,2017,514666932,2017-11-09
+"Lear Corp., Southfield, MI",2.0,2017,521865204,2017-11-09
+"Lend Lease Americas Inc., New York, NY",2.0,2017,027118108,2017-11-09
+"Level 3 Communications Inc., Broomfield, CO",2.0,2017,52729N308,2017-11-09
+"Levi Strauss & Co., San Francisco, CA",2.0,2017,52736R938,2017-11-09
+"Lexmark International Inc., Lexington, KY",2.0,2017,529771107,2017-11-09
+"Lincoln National Corp., Radnor, PA",2.0,2017,534187109,2017-11-09
+"Lockheed Martin Corp., Bethesda, MD",2.0,2017,539830109,2017-11-09
+"Macy's Inc., Cincinnati, OH",2.0,2017,55616P104,2017-11-09
+"Marriott International Inc., Bethesda, MD",2.0,2017,571903202,2017-11-09
+"Marsh & McLennan Companies Inc., New York, NY",2.0,2017,571748102,2017-11-09
+"Massachusetts Mutual Life Insurance Company, Springfield, MA",2.0,2017,575767934,2017-11-09
+"MasterCard Inc., Purchase, NY",2.0,2017,57636Q104,2017-11-09
+"Mattel Inc., El Segundo, CA",2.0,2017,577081102,2017-11-09
+"McDonald's Corp., Oak Brook, IL",2.0,2017,580135101,2017-11-09
+"McKesson Corp., San Francisco, CA",2.0,2017,58155Q103,2017-11-09
+"Merck & Co. Inc., Kenilworth, NJ",2.0,2017,58933Y105,2017-11-09
+"MetLife Inc., New York, NY",2.0,2017,59156R108,2017-11-09
+"Microsoft Corp., Redmond, WA",2.0,2017,594918104,2017-11-09
+"Mondelez International Inc., East Hanover, nj",2.0,2017,609207105,2017-11-09
+"Monsanto Co., St. Louis, MO",2.0,2017,61166W101,2017-11-09
+"Moody's Corp., New York, NY",2.0,2017,615369105,2017-11-09
+"NCR Corp., Duluth, GA",2.0,2017,62886E108,2017-11-09
+"NVIDIA Corp., Santa Clara, CA",2.0,2017,67066G104,2017-11-09
+"Navigant Consulting Inc., Chicago , IL",2.0,2017,63935N107,2017-11-09
+"Netflix Inc., Los Gatos, CA",2.0,2017,64110L106,2017-11-09
+"New York Life Insurance Co., New York, NY",2.0,2017,64952G934,2017-11-09
+"Nike Inc., Beaverton, OR",2.0,2017,654106103,2017-11-09
+"Nissan North America Inc., Franklin, TN",2.0,2017,654744408,2017-11-09
+"Nordstrom Inc., Seattle, WA",2.0,2017,655664100,2017-11-09
+"Northern Trust Corp., Chicago, IL",2.0,2017,665859104,2017-11-09
+"Northrop Grumman Corp., Falls Church, VA",2.0,2017,666807102,2017-11-09
+"Office Depot Inc., Boca Raton, FL",2.0,2017,676220106,2017-11-09
+"Ogilvy Group Inc., The, New York, NY",2.0,2017,676601107,2017-11-09
+"OppenheimerFunds Inc., New York, NY",2.0,2017,683800106,2017-11-09
+"Oracle Corp., Redwood City, CA",2.0,2017,68389X105,2017-11-09
+"Outerwall Inc., Bellevue, WA",2.0,2017,690070107,2017-11-09
+"PG&E Corp., San Fran- cisco, CA",2.0,2017,69331C108,2017-11-09
+"PNC Financial Services Group Inc., The, Pittsburgh, PA",2.0,2017,693475105,2017-11-09
+"PPL Corp., Allentown, PA",2.0,2017,69351T106,2017-11-09
+"Pandora Media Inc., Oakland, CA",2.0,2017,698354107,2017-11-09
+"PayPal Holdings Inc., San Jose, CA",2.0,2017,70450Y103,2017-11-09
+"Pearson Inc., Hoboken, NJ",2.0,2017,71534C109,2017-11-09
+"PepsiCo Inc., Purchase, NY",2.0,2017,713448108,2017-11-09
+"PetSmart Inc., Phoenix, AZ",2.0,2017,716768106,2017-11-09
+"Pfizer Inc., New York, NY",2.0,2017,717081103,2017-11-09
+"Portland General Electric Co., Portland, OR",2.0,2017,736508847,2017-11-09
+"Praxair Inc., Danbury, CT",2.0,2017,74005P104,2017-11-09
+"Procter & Gamble Co., Cincinnati, OH",2.0,2017,742718109,2017-11-09
+"Prudential Financial Inc., Newark, NJ",2.0,2017,744320102,2017-11-09
+"QualComm, San Diego, CA",2.0,2017,747525103,2017-11-09
+"Quest Diagnostics Inc., Madison, NJ",2.0,2017,74834L100,2017-11-09
+"Raytheon Co., Waltham, MA",2.0,2017,755111507,2017-11-09
+"Re:Sources USA Inc., Long Island City, NY",2.0,2017,844027102,2017-11-09
+"Rockwell Automation Inc., Milwaukee, WI",2.0,2017,773903109,2017-11-09
+"Rockwell Collins Inc., Cedar Rapids, IA",2.0,2017,774341101,2017-11-09
+"Royal Caribbean Cruises Ltd., Miami, FL",2.0,2017,V7780T103,2017-11-09
+"S&P Global Inc., New York, NY",2.0,2017,78409V104,2017-11-09
+"Saatchi & Saatchi North America Inc., New York, NY",2.0,2017,785144205,2017-11-09
+"Sapient Corp., Boston, MA",2.0,2017,803062108,2017-11-09
+"Sears Holdings Corp., Hoffman Estates, IL",2.0,2017,812350106,2017-11-09
+"Shell Oil Co., Houston, TX",2.0,2017,822635009,2017-11-09
+"Sodexo Inc., Gaithersburg, MD",2.0,2017,833792104,2017-11-09
+"Southern California Edison Company, Rosemead, CA",2.0,2017,842400004,2017-11-09
+"Southern Co., Atlanta, GA",2.0,2017,842812109,2017-11-09
+"Southwest Airlines Co., Dallas, TX",2.0,2017,844741108,2017-11-09
+"Sprint Corp., Overland Park, KS",2.0,2017,85207U105,2017-11-09
+"Staples Inc., Framingham, MA",2.0,2017,855030102,2017-11-09
+"Starbucks Corp., Seattle, WA",2.0,2017,855244109,2017-11-09
+"Starwood Hotels & Resorts Worldwide, Stamford, CT",2.0,2017,85590A401,2017-11-09
+"State Street Corp., Boston, MA",2.0,2017,857477103,2017-11-09
+"Steelcase Inc., Grand Rapids, MI",2.0,2017,858155203,2017-11-09
+"Stryker Corp., Kalamazoo, MI",2.0,2017,863667101,2017-11-09
+"Sun Life Financial Inc. (US), Wellesley Hills, MA",2.0,2017,866796105,2017-11-09
+"SunTrust Banks Inc., Atlanta, GA",2.0,2017,867914103,2017-11-09
+"Symantec Corp., Mountain View, CA",2.0,2017,871503108,2017-11-09
+"T. Rowe Price Associates Inc., Baltimore, MD",2.0,2017,74144T108,2017-11-09
+"Target Corp., Minneapolis, MN",2.0,2017,87612E106,2017-11-09
+"Teva Pharmaceutical USA Inc., North Wales, PA",2.0,2017,881624209,2017-11-09
+"Cracker Barrel Old Country Store Inc., Lebanon, TN",55.0,2018,22410J106,2019-03-28
+"3M Company, St. Paul, MN",100.0,2019,88579Y101,2020-01-21
+"A-Mark Precious Metals, Santa Monica, CA",0.0,2019,00181T107,2020-01-21
+"AECOM, Los Angeles, CA",100.0,2019,00766T100,2020-01-21
+"AES Corp., The, Arlington, VA",0.0,2019,00130H105,2020-01-21
+"AFLAC Inc., Columbus, GA",80.0,2019,001055102,2020-01-21
+"AK Steel Holding Corp., West Chester, OH",20.0,2019,001547108,2020-01-21
+"AMC Entertainment Inc., Leawood , KS",100.0,2019,01199Y005,2020-01-21
+"AMN Healthcare Services, Inc., San Diego, CA",90.0,2019,001744101,2020-01-21
+"AT&T Inc., Dallas, TX",100.0,2019,00206R102,2020-01-21
+"AbbVie Inc., North Chicago, IL",100.0,2019,00287Y109,2020-01-21
+"Abbott Laboratories, Abbott Park, IL",90.0,2019,002824100,2020-01-21
+"Abercrombie & Fitch Co., New Albany, OH",100.0,2019,002896207,2020-01-21
+"Adecco North America LLC, Jacksonville, FL",70.0,2019,006754105,2020-01-21
+"Adobe Systems Inc., San Jose, CA",100.0,2019,00724F101,2020-01-21
+"Advance Auto Parts (Advance Holding), Roanoke, VA",90.0,2019,00751Y106,2020-01-21
+"Advanced Micro Devices Inc., Sunnyvale, CA",100.0,2019,007903107,2020-01-21
+"Aetna Inc., Hartford, CT",100.0,2019,00817Y108,2020-01-21
+"Agco, Duluth, GA",10.0,2019,001084102,2020-01-21
+"Agilent Technologies Inc., Santa Clara, CA",85.0,2019,00846U101,2020-01-21
+"Air Products & Chemicals Inc., Allentown, PA",100.0,2019,009158106,2020-01-21
+"Airgas Inc., Radnor, PA",20.0,2019,009363102,2020-01-21
+"Akamai Technologies Inc., Cambridge, MA",100.0,2019,00971T101,2020-01-21
+"Alaska Airlines, Seattle, WA",90.0,2019,011662004,2020-01-21
+"Alcoa Inc., Chicago, IL",95.0,2019,013817507,2020-01-21
+"Alleghany Corp., New York, NY",20.0,2019,017175100,2020-01-21
+"Alliance Data Systems Corp., Plano, TX",85.0,2019,018581108,2020-01-21
+"Alliance One International, Morrisville, NC",0.0,2019,25493Y932,2020-01-21
+"AllianceBernstein LP, New York, NY",100.0,2019,01881G106,2020-01-21
+"Alliant Energy Corp., Madison, WI",100.0,2019,018802108,2020-01-21
+"Allianz Life Insurance Co. of North America, Minneapolis, MN",100.0,2019,018805101,2020-01-21
+"Allscripts-Misys Healthcare Solutions Inc., Chicago, IL",20.0,2019,01999Y932,2020-01-21
+"Allstate Insurance Co., Northbrook, IL",95.0,2019,02099X006,2020-01-21
+"Ally Financial Inc., Detroit, MI",100.0,2019,02005N100,2020-01-21
+"Altria Group Inc., Richmond, VA",100.0,2019,02209S103,2020-01-21
+"Amazon.com Inc., Seattle, WA",100.0,2019,023135106,2020-01-21
+"Ameren Corp., St. Louis, MO",100.0,2019,023608102,2020-01-21
+"American Airlines, Fort Worth, TX",100.0,2019,023771009,2020-01-21
+"American Apparel LLC, Los Angeles, CA",80.0,2019,023850100,2020-01-21
+"American Eagle Outfitters Inc., Pittsburgh, PA",85.0,2019,02553E106,2020-01-21
+"American Electric Power Co. Inc., Columbus, OH",85.0,2019,025537101,2020-01-21
+"American Express Co., New York, NY",100.0,2019,025816109,2020-01-21
+"American Express Global Business Travel, Jersey City, NJ",100.0,2019,025816109,2020-01-21
+"American Financial Group, Cincinnati, OH",20.0,2019,025932104,2020-01-21
+"Ameriprise Financial Inc., Minneapolis, MN",90.0,2019,03076C106,2020-01-21
+"AmerisourceBergen Corp., Chesterbrook, PA",100.0,2019,03073E105,2020-01-21
+"Amgen Inc., Thousand Oaks, CA",100.0,2019,031162100,2020-01-21
+"Amphenol Corp., Wallingford, CT",20.0,2019,032095101,2020-01-21
+"Anadarko Petroleum, The Woodlands, TX",65.0,2019,032511107,2020-01-21
+"Anheuser-Busch Companies Inc., St. Louis, MO",100.0,2019,035229103,2020-01-21
+"Anixter International Inc., Glenview, IL",20.0,2019,035290105,2020-01-21
+"Anthem Inc., Indianapolis, IN",100.0,2019,036752103,2020-01-21
+"Aon Corp., Chicago, IL",100.0,2019,G0408V102,2020-01-21
+"Apache Corp., Houston, TX",20.0,2019,037411105,2020-01-21
+"Apple Inc., Cupertino, CA",100.0,2019,037833100,2020-01-21
+"Applied Materials Inc., Santa Clara, CA",100.0,2019,038222105,2020-01-21
+"Aramark Corp., Philadelphia, PA",100.0,2019,002034932,2020-01-21
+"Archer Daniels Midland Co., Chicago, IL",60.0,2019,039483102,2020-01-21
+"Arconic Inc., New York, NY",100.0,2019,013817507,2020-01-21
+"Arrow Electronics, Centennial, CO",100.0,2019,042735100,2020-01-21
+"Asbury Automotive Group, Duluth, GA",20.0,2019,043436104,2020-01-21
+"Ascena Retail Group Inc., Mahwah, NJ",90.0,2019,04351G101,2020-01-21
+"Ashland Inc., Covington, KY",40.0,2019,044186104,2020-01-21
+"AstraZeneca PLC, Wilmington, DE",95.0,2019,046353108,2020-01-21
+"AthenaHealth Inc., Watertown, MA",100.0,2019,04685W103,2020-01-21
+"AutoNation Inc., Fort Lauderdale, FL",10.0,2019,05329W102,2020-01-21
+"AutoZone Inc., Memphis, TN",40.0,2019,053332102,2020-01-21
+"Autodesk Inc., San Rafael, CA",100.0,2019,052769106,2020-01-21
+"Autoliv Inc., Auburn Hills, MI",10.0,2019,052800109,2020-01-21
+"Avaya Inc., Santa Clara, CA",60.0,2019,05399R942,2020-01-21
+"Aventis Pharmaceuticals Inc., Bridgewater, NJ",100.0,2019,053561106,2020-01-21
+"Avery Dennison, Glendale, CA",20.0,2019,053611109,2020-01-21
+"Avis Budget Group Inc., Parsippany, NJ",90.0,2019,053774105,2020-01-21
+"Avnet Inc., Phoenix, AZ",65.0,2019,053807103,2020-01-21
+"Avon Products Inc., New York, NY",90.0,2019,054303102,2020-01-21
+"Aéropostale Inc., Lyndhurst, NJ",90.0,2019,00215Q103,2020-01-21
+"B J’s Wholesale Club, Westborough, MA",85.0,2019,05548J106,2020-01-21
+"BAE Systems Inc., Arlington, VA",85.0,2019,055231104,2020-01-21
+"BASF Corp., Florham Park, NJ",100.0,2019,055262505,2020-01-21
+"BB&T Corp., Winston- Salem, NC",90.0,2019,054937107,2020-01-21
+"BMC Software Inc., Houston, TX",45.0,2019,055921100,2020-01-21
+"BNP Paribas, New York, NY",100.0,2019,05565A202,2020-01-21
+"BP America Inc., Houston, TX",100.0,2019,055625008,2020-01-21
+"Baker Hughes Inc., Houston, TX",10.0,2019,057224107,2020-01-21
+"Baldor Electric Co., Fort Smith, AR",25.0,2019,057741100,2020-01-21
+"Ball Corp., Broomfield, CO",95.0,2019,058498106,2020-01-21
+"Bank of America Corp., Charlotte, NC",75.0,2019,060505104,2020-01-21
+"Bank of New York Mellon Corp., The, New York, NY",100.0,2019,064058100,2020-01-21
+"Barnes & Noble Inc., New York, NY",100.0,2019,067774109,2020-01-21
+"Baxter International Inc., Deerfield, IL",100.0,2019,071813109,2020-01-21
+"Bayer U.S. LLC, Whippany, NJ",100.0,2019,459041109,2020-01-21
+"Becton, Dickinson and Co., Franklin Lakes, NJ",100.0,2019,075887109,2020-01-21
+"Bed Bath & Beyond Inc., Union, NJ",20.0,2019,075896100,2020-01-21
+"Ben & Jerry’s Homemade Inc., South Burlington, VT",95.0,2019,081465106,2020-01-21
+"Berkshire Hathaway Inc., Omaha, NE",20.0,2019,084670702,2020-01-21
+"Best Buy Co. Inc., Richfield, MN",100.0,2019,086516101,2020-01-21
+"Big Lots, Columbus, OH",20.0,2019,089302103,2020-01-21
+"Bloomin’ Brands Inc., Tampa, FL",50.0,2019,094235108,2020-01-21
+"Bob Evans Farms Inc., New Albany, OH",75.0,2019,096761101,2020-01-21
+"Boeing Co., Chicago, IL",90.0,2019,097023105,2020-01-21
+"Bon-Ton Stores, Inc., York, PA",60.0,2019,09776J101,2020-01-21
+"Books-A-Million Inc., Birmingham, AL",80.0,2019,098570104,2020-01-21
+"Booz Allen Hamilton Inc., McLean, VA",100.0,2019,099500100,2020-01-21
+"Borders Group Inc., Ann Arbor, MI",30.0,2019,099709107,2020-01-21
+"BorgWarner Inc., Auburn Hills, MI",40.0,2019,099724106,2020-01-21
+"Boston Scientific Corp., Marlborough, MA",100.0,2019,101137107,2020-01-21
+"Box Inc., Redwood City, CA",100.0,2019,10316T104,2020-01-21
+"Bridgestone Americas Holding Inc., Nashville, TN",90.0,2019,318315108,2020-01-21
+"Brinker International Inc., Dallas, TX",65.0,2019,109641100,2020-01-21
+"Bristol-Myers Squibb Co., New York, NY",100.0,2019,110122108,2020-01-21
+"Broadridge Financial Solutions Inc., Lake Success, NY",100.0,2019,11133T103,2020-01-21
+"Brown-Forman Corp., Louisville, KY",100.0,2019,115637209,2020-01-21
+"Burger King Corp., Miami, FL",100.0,2019,12122010,2020-01-21
+"Burlington Northern Santa Fe Corp., Fort Worth, TX",20.0,2019,08499Z004,2020-01-21
+"Burlington Store, Inc., Burlington, NJ",80.0,2019,122017106,2020-01-21
+"C. H. Robinson Worldwide, Eden Prairie, MN",20.0,2019,12541W209,2020-01-21
+"CBRE, Inc., Los Angeles, CA",100.0,2019,12504L109,2020-01-21
+"CBS Corp., New York, NY",100.0,2019,124857202,2020-01-21
+"CDW Corp., Lincolnshire, IL",100.0,2019,12514G108,2020-01-21
+"CHS Inc., Inver Grove Heights, MN",20.0,2019,12542R993,2020-01-21
+"CIT Group Inc., New York, NY",95.0,2019,125581801,2020-01-21
+"CME Group Inc., Chicago, IL",100.0,2019,12572Q105,2020-01-21
+"CST Brands, San Antonio, TX",10.0,2019,12646R105,2020-01-21
+"CSX Corp., Jacksonville, FL",70.0,2019,126408103,2020-01-21
+"CVS Health Corp., Woonsocket, RI",90.0,2019,126650100,2020-01-21
+"Caesars Entertainment Corp., Las Vegas, NV",100.0,2019,127686103,2020-01-21
+"Calpine Corp., Houston, TX",20.0,2019,131347304,2020-01-21
+"Campbell Soup Co., Camden, NJ",100.0,2019,134429109,2020-01-21
+"Capital One Financial Corp., McLean, VA",100.0,2019,14040H105,2020-01-21
+"CarMax Inc., Richmond, VA",100.0,2019,143130102,2020-01-21
+"Cardinal Health Inc., Dublin, OH",100.0,2019,14149Y108,2020-01-21
+"Caribou Coffee Company Inc., Minneapolis, MN",55.0,2019,142042209,2020-01-21
+"Carlson, Inc., Minnetonka, MN",100.0,2019,145845103,2020-01-21
+"Carlyle Group LP, The, Washington, DC",100.0,2019,14309L102,2020-01-21
+"Carnival Corp., Miami, FL",100.0,2019,143658300,2020-01-21
+"Casey’s General Stores, Inc., Ankeny, IA",0.0,2019,147528103,2020-01-21
+"Caterpillar Inc., Peoria, IL",85.0,2019,149123101,2020-01-21
+"Celanese Corp., Irving, TX",100.0,2019,150870103,2020-01-21
+"Celgene Corp., Summit, NJ",100.0,2019,151020104,2020-01-21
+"Centene Corp., St. Louis, MO",95.0,2019,15135B101,2020-01-21
+"CenterPoint Energy Inc., Houston, TX",20.0,2019,15189T107,2020-01-21
+"CenturyLink Inc., Monroe, LA",100.0,2019,156700106,2020-01-21
+"Cerner Corp., North Kansas City, MO",100.0,2019,156782104,2020-01-21
+"Charles Schwab & Co. Inc., San Francisco, CA",100.0,2019,808513105,2020-01-21
+"Charter Communications, Stamford, CT",90.0,2019,16119P108,2020-01-21
+"Chesapeake Energy Corp., Oklahoma City, OK",65.0,2019,165167107,2020-01-21
+"Chevron Corp., San Ramon, CA",100.0,2019,166764100,2020-01-21
+"Chipotle Mexican Grill Inc., Denver, CO",70.0,2019,169656105,2020-01-21
+"Choice Hotels International Inc., Rockville, MD",100.0,2019,169905106,2020-01-21
+"Chubb Corp., Philadelphia, PA",100.0,2019,171232101,2020-01-21
+"Cigna, Philadelphia, PA",100.0,2019,125509109,2020-01-21
+"Cisco Systems Inc., San Jose, CA",100.0,2019,17275R102,2020-01-21
+"Citigroup Inc., New York, NY",100.0,2019,172967424,2020-01-21
+"Citizens Financial Group, Providence, RI",90.0,2019,174610105,2020-01-21
+"Citrix Systems Inc., Fort Lauderdale, FL",100.0,2019,177376100,2020-01-21
+"Clorox Co., The, Oakland, CA",100.0,2019,189054109,2020-01-21
+"Coca-Cola Co., The, Atlanta, GA",100.0,2019,191216100,2020-01-21
+"Cognizant Technology Solutions Corp., Teaneck, NJ",20.0,2019,192446102,2020-01-21
+"Colgate-Palmolive Co., New York, NY",100.0,2019,194162103,2020-01-21
+"Columbia Pipeline Group, Houston, TX",50.0,2019,198280109,2020-01-21
+"Comerica Inc., Dallas, TX",100.0,2019,200340107,2020-01-21
+"Community Health Systems Inc., Franklin, TN",20.0,2019,203668108,2020-01-21
+"Compass Bancshares Inc. (BBVA Compass), Birmingham, AL",100.0,2019,05946K002,2020-01-21
+"Computer Sciences Corp. (CSC), Falls Church, VA",55.0,2019,205363100,2020-01-21
+"ConAgra Brands Inc., Chicago, IL",100.0,2019,205887102,2020-01-21
+"ConocoPhillips, Houston, TX",90.0,2019,20825C104,2020-01-21
+"Consolidated Edison Co., New York, NY",65.0,2019,209115104,2020-01-21
+"Constellation Brands Inc., Victor, NY",100.0,2019,21036P108,2020-01-21
+"Constellation Energy Group Inc., Baltimore, MD",60.0,2019,210371100,2020-01-21
+"Consumers Energy, Jackson, MI",90.0,2019,210518007,2020-01-21
+"Cooper Tire & Rubber Co., Findlay, OH",75.0,2019,216831107,2020-01-21
+"Corbis Corp., Seattle, WA",35.0,2019,218525103,2020-01-21
+"Core-Mark Holding Company, Inc., South San Francisco, CA",25.0,2019,218682102,2020-01-21
+"Costco Wholesale Corp., Issaquah, WA",60.0,2019,22160K105,2020-01-21
+"Cox Communications Inc., Atlanta, GA",100.0,2019,22499Z005,2020-01-21
+"Cox Enterprises Inc., Atlanta, GA",100.0,2019,22499Z005,2020-01-21
+"Cracker Barrel Old Country Store Inc., Lebanon, TN",80.0,2019,22410J106,2020-01-21
+"Credit Suisse USA Inc., New York, NY",100.0,2019,225401009,2020-01-21
+"Crown Holdings, Philadelphia, PA",10.0,2019,228368106,2020-01-21
+"Cummins Inc., Columbus, IN",100.0,2019,231021106,2020-01-21
+"DISH Network Corp., Englewood, CO",10.0,2019,25470M109,2020-01-21
+"DR Horton Inc., Fort Worth, TX",20.0,2019,23331A109,2020-01-21
+"DTE Energy Co., Detroit, MI",85.0,2019,233331107,2020-01-21
+"DaVita Inc., Denver, CO",65.0,2019,23918K108,2020-01-21
+"Daimler Trucks North America LLC, Portland, OR",90.0,2019,D1668R123,2020-01-21
+"Dana Corp., Toledo, OH",75.0,2019,23599Z937,2020-01-21
+"Danaher Corp., Washington, DC",100.0,2019,235851102,2020-01-21
+"Darden Restaurants Inc., Orlando, FL",90.0,2019,237194105,2020-01-21
+"Dean Foods Co., Dallas, TX",20.0,2019,242370203,2020-01-21
+"Deere & Co., Moline, IL",90.0,2019,244199105,2020-01-21
+"Delek US Holdings, Brentwood, TN",20.0,2019,24665A103,2020-01-21
+"Delta Air Lines Inc., Atlanta, GA",85.0,2019,247361702,2020-01-21
+"Denny’s Corp., Spartanburg, SC",90.0,2019,24869P104,2020-01-21
+"Deutsche Bank, New York, NY",100.0,2019,D18190898,2020-01-21
+"Devon Energy Corp., Oklahoma City, OK",50.0,2019,25179M103,2020-01-21
+"Diageo North America, Norwalk, CT",100.0,2019,25243Q205,2020-01-21
+"Dick’s Sporting Goods Inc., Coraopolis, PA",20.0,2019,253393102,2020-01-21
+"Dillard’s Inc., Little Rock, AR",0.0,2019,254067101,2020-01-21
+"Discover Financial Services, Riverwoods, IL",100.0,2019,254709108,2020-01-21
+"Discovery Communications Inc., Silver Spring, MD",20.0,2019,25470F104,2020-01-21
+"Dole Food Co. Inc., Westlake Village, CA",0.0,2019,256603101,2020-01-21
+"Dollar General Corp., Goodlettsville, TN",90.0,2019,256677105,2020-01-21
+"Dollar Tree Stores, Inc., Chesapeake, VA",20.0,2019,256746108,2020-01-21
+"Domino’s Pizza Inc., Ann Arbor, MI",50.0,2019,25754A201,2020-01-21
+"Dover Corp., Downers Grove, IL",10.0,2019,260003108,2020-01-21
+"Dow Chemical Co., The, Midland, MI",100.0,2019,26078J100,2020-01-21
+"Duke Energy Corp., Charlotte, NC",100.0,2019,26441C204,2020-01-21
+"Dun & Bradstreet Corp., The, Short Hills, NJ",100.0,2019,26483E100,2020-01-21
+"Dunkin’ Brands Group Inc., Canton, MA",100.0,2019,265504100,2020-01-21
+"E*TRADE Financial Corporation, New York, NY",100.0,2019,269246401,2020-01-21
+"E. I. du Pont de Nemours and Co. (DuPont), Wilmington, DE",100.0,2019,263534109,2020-01-21
+"EMCOR Group Inc., Norwalk, CT",10.0,2019,29084Q100,2020-01-21
+"EOG Resources, Houston, TX",20.0,2019,26875P101,2020-01-21
+"EarthLink Inc., Atlanta, GA",35.0,2019,270322100,2020-01-21
+"Eastman Chemical Co., Kingsport, TN",90.0,2019,277432100,2020-01-21
+"Eastman Kodak Co., Rochester, NY",100.0,2019,277461406,2020-01-21
+"Eaton Corp., Cleveland, OH",100.0,2019,277910105,2020-01-21
+"Ecolab Inc., St. Paul, MN",100.0,2019,278865100,2020-01-21
+"Edison International, Rosemead, CA",100.0,2019,281020107,2020-01-21
+"Edward Jones, St. Louis, MO",100.0,2019,48099X108,2020-01-21
+"Electronic Arts Inc., Redwood City, CA",100.0,2019,285512109,2020-01-21
+"Eli Lilly & Co., Indianapolis, IN",100.0,2019,532457108,2020-01-21
+"Emerson Electric Co., St. Louis, MO",100.0,2019,291011104,2020-01-21
+"Emmis Communications Corporation, Indianapolis, IN",30.0,2019,291525400,2020-01-21
+"Energy Transfer Equity L.P., Dallas, TX",20.0,2019,29273V100,2020-01-21
+"Entergy Corp., New Orleans, LA",85.0,2019,29364G103,2020-01-21
+"Enterprise Holdings Inc., St. Louis, MO",95.0,2019,12643Y202,2020-01-21
+"Enterprise Products Partners LP, Houston, TX",0.0,2019,293792107,2020-01-21
+"Essendant Inc., Deerfield, IL",10.0,2019,296689102,2020-01-21
+"Estée Lauder Companies Inc., The, New York, NY",100.0,2019,518439104,2020-01-21
+"Eversource Energy, Springfield, MA",75.0,2019,30040W108,2020-01-21
+"Exelon Corp., Chicago, IL",100.0,2019,30161N101,2020-01-21
+"Expeditors International of Washington, Inc., Seattle, WA",10.0,2019,302130109,2020-01-21
+"Express Scripts Holding Company, St. Louis, MO",100.0,2019,30219G108,2020-01-21
+"Exxon Mobil Corp., Irving, TX",85.0,2019,30231G102,2020-01-21
+"Facebook Inc., Menlo Park, CA",100.0,2019,30303M102,2020-01-21
+"FactSet Research Systems Inc., Norwalk, CT",100.0,2019,303075105,2020-01-21
+"FedEx Corp., Memphis, TN",90.0,2019,31428X106,2020-01-21
+"Federal Home Loan Mortgage Corp. (Freddie Mac), McLean, VA",100.0,2019,313400301,2020-01-21
+"Federal National Mortgage Association (Fannie Mae), Washington, DC",100.0,2019,313586109,2020-01-21
+"Fidelity National Financial Corp., Jacksonville, FL",20.0,2019,316326107,2020-01-21
+"Fidelity National Information Services Inc., Jacksonville, FL",100.0,2019,31699Y932,2020-01-21
+"Fifth Third Bancorp, Cincinnati, OH",100.0,2019,316773100,2020-01-21
+"First American Financial Corp., Santa Ana, CA",100.0,2019,31847R102,2020-01-21
+"First Data Corp., Atlanta, GA",100.0,2019,32008D106,2020-01-21
+"First Horizon National Corp., Memphis, TN",75.0,2019,320517105,2020-01-21
+"FirstEnergy Corp., Akron, OH",20.0,2019,337932107,2020-01-21
+"Fiserv Inc., Brookfield, WI",20.0,2019,337738108,2020-01-21
+"Fluor Corp., Irving, TX",60.0,2019,343412102,2020-01-21
+"Foot Locker Inc., New York, NY",10.0,2019,344849104,2020-01-21
+"Ford Motor Co., Dearborn, MI",90.0,2019,345370860,2020-01-21
+"Fortive Corp., Everett, WA",100.0,2019,34959J108,2020-01-21
+"Fossil Inc., Richardson, TX",80.0,2019,34988V106,2020-01-21
+"Franklin Templeton Investments, San Mateo, CA",100.0,2019,35472T100,2020-01-21
+"Freeport-McMoRan Copper & Gold Inc., Phoenix, AZ",20.0,2019,35693Y939,2020-01-21
+"Freescale Semiconductor Inc., Austin, TX",50.0,2019,35699Z005,2020-01-21
+"Frontier Communications, Stamford, CT",10.0,2019,35906A306,2020-01-21
+"GODADDY Inc., Scottsdale, AZ",100.0,2019,380237107,2020-01-21
+"GameStop Corp., Grapevine, TX",100.0,2019,36467W109,2020-01-21
+"Gannett Co. Inc., McLean, VA",100.0,2019,36473H104,2020-01-21
+"Gap Inc., San Francisco, CA",100.0,2019,364760108,2020-01-21
+"Gartner Inc., Stamford, CT",100.0,2019,366651107,2020-01-21
+"Genentech Inc., South San Francisco, CA",100.0,2019,368710406,2020-01-21
+"General Dynamics Corp., Falls Church, VA",75.0,2019,369550108,2020-01-21
+"General Electric Co., Boston, MA",90.0,2019,369604103,2020-01-21
+"General Mills Inc., Minneapolis, MN",100.0,2019,370334104,2020-01-21
+"General Motors Corp., Milford, MI",90.0,2019,37099Z932,2020-01-21
+"Genesco Inc., Nashville, TN",90.0,2019,371532102,2020-01-21
+"Genesis HealthCare Corp., Kennett Square, PA",20.0,2019,37184D101,2020-01-21
+"Genuine Parts Co., Atlanta, GA",0.0,2019,372460105,2020-01-21
+"Genworth Financial Inc., Richmond, VA",100.0,2019,37247D106,2020-01-21
+"Gilead Sciences Inc., Foster City, CA",100.0,2019,375558103,2020-01-21
+"GlaxoSmithKline LLC, Research Triangle Park, NC",100.0,2019,37733W105,2020-01-21
+"Global Partners, Waltham, MA",10.0,2019,37931J203,2020-01-21
+"Goldman Sachs Group Inc., The, New York, NY",100.0,2019,38141G104,2020-01-21
+"Goodyear Tire & Rubber Co., Akron, OH",90.0,2019,382550101,2020-01-21
+"Google Inc., Mountain View, CA",100.0,2019,38259P500,2020-01-21
+"Graham Holdings, Arlington, VA",10.0,2019,384637104,2020-01-21
+"Graybar Electric Company, Inc., St. Louis, MO",20.0,2019,389406109,2020-01-21
+"Group 1 Automotive, Houston, TX",25.0,2019,398905109,2020-01-21
+"Groupon Inc., Chicago, IL",100.0,2019,399473107,2020-01-21
+"Guardian Life Insurance Co. of America, The, New York, NY",100.0,2019,40199Y938,2020-01-21
+"H&R Block Inc., Kansas City, MO",85.0,2019,093671105,2020-01-21
+"HCA - Hospital Corporation of America, Nashville, TN",70.0,2019,404120107,2020-01-21
+"HD Supply, Atlanta, GA",20.0,2019,40416M105,2020-01-21
+"HP Inc., Palo Alto, CA",90.0,2019,40434L105,2020-01-21
+"HRG Group, New York, NY",10.0,2019,40434J100,2020-01-21
+"HSBC USA Inc., Prospect Heights, IL",100.0,2019,40499Y000,2020-01-21
+"HSN Inc., St. Petersburg, FL",90.0,2019,404303109,2020-01-21
+"Hain Celestial Group, Inc (The), Boulder, CO",80.0,2019,405217100,2020-01-21
+"Halliburton Co., Houston, TX",0.0,2019,406216101,2020-01-21
+"Hanesbrands Inc., Winston-Salem, NC",75.0,2019,410345102,2020-01-21
+"Hanover Insurance Group Inc., Worcester, MA",100.0,2019,410867105,2020-01-21
+"Harley-Davidson Inc., Milwaukee, WI",90.0,2019,412822108,2020-01-21
+"Harman International Industries Inc., Stamford, CT",0.0,2019,413085101,2020-01-21
+"Harris Corp., Melbourne, FL",100.0,2019,413875105,2020-01-21
+"Hartford Financial Services Group Inc., The, Hartford, CT",100.0,2019,416515104,2020-01-21
+"Hasbro Inc., Pawtucket, RI",85.0,2019,418056107,2020-01-21
+"Hawaiian Airlines Inc., Honolulu, HI",85.0,2019,419849100,2020-01-21
+"Health Care Service Corp., Chicago, IL",100.0,2019,299783936,2020-01-21
+"Henry Schein Inc., Melville, NY",100.0,2019,806407102,2020-01-21
+"Herman Miller Inc., Zeeland, MI",100.0,2019,600544100,2020-01-21
+"Hershey Co., The, Hershey, PA",100.0,2019,427866108,2020-01-21
+"Hertz Global Holdings Inc., Estero, FL",100.0,2019,42806J106,2020-01-21
+"Hess Corp., New York, NY",65.0,2019,42809H107,2020-01-21
+"Hewlett Packard Enterprise Co., Palo Alto, CA",80.0,2019,42824C109,2020-01-21
+"Hilton Inc., McLean, VA",100.0,2019,43300A203,2020-01-21
+"HollyFrontier Corp., Dallas, TX",20.0,2019,436106108,2020-01-21
+"Home Depot Inc., The, Atlanta, GA",90.0,2019,437076102,2020-01-21
+"Honda North America Inc., Marysville, OH",75.0,2019,438128308,2020-01-21
+"Honeywell International Inc., Morris Township, NJ",55.0,2019,438516106,2020-01-21
+"Hormel Foods Corp., Austin, MN",95.0,2019,440452100,2020-01-21
+"Hortonworks Inc., Santa Clara, CA",50.0,2019,440894103,2020-01-21
+"Host Hotels & Resorts Inc., Bethesda, MD",80.0,2019,44107P104,2020-01-21
+"Houghton Mifflin Harcourt Co., Boston, MA",85.0,2019,44157R109,2020-01-21
+"Humana Inc., Louisville, KY",100.0,2019,444859102,2020-01-21
+"Huntington Bancshares Inc., Columbus, OH",100.0,2019,446150104,2020-01-21
+"Huntington Ingalls Industries, Newport News, VA",90.0,2019,446413106,2020-01-21
+"Huntsman Corp., The Woodlands, TX",45.0,2019,447011107,2020-01-21
+"Huron Consulting Group Inc., Chicago, IL",100.0,2019,447462102,2020-01-21
+"Hyatt Hotels Corp., Chicago, IL",100.0,2019,448579102,2020-01-21
+"IAC/InterActiveCorp., New York, NY",100.0,2019,44919P508,2020-01-21
+"IBM Corp., Armonk, NY",100.0,2019,449220003,2020-01-21
+"IHS Markit Ltd., Houston, TX",90.0,2019,G47567105,2020-01-21
+"INTL FCStone Inc., New York, NY",10.0,2019,46116V105,2020-01-21
+"ITT Corp., White Plains, NY",25.0,2019,450680004,2020-01-21
+"Icahn Enterprises LP, New York, NY",0.0,2019,451100101,2020-01-21
+"Illinois Tool Works Inc., Glenview, IL",30.0,2019,452308109,2020-01-21
+"Imation Corp., Oakdale, MN",30.0,2019,377185103,2020-01-21
+"Infosys Limited Inc., Plano, TX",50.0,2019,456788108,2020-01-21
+"Ingram Micro, Irvine, CA",90.0,2019,457153104,2020-01-21
+"Insight Enterprises, Inc., Tempe, AZ",60.0,2019,45765U103,2020-01-21
+"Intel Corp., Santa Clara, CA",100.0,2019,458140100,2020-01-21
+"InterContinental Hotels Group Americas, Atlanta, GA",100.0,2019,45857P707,2020-01-21
+"International Paper Co., Memphis, TN",20.0,2019,460146103,2020-01-21
+"Interpublic Group of Companies Inc., New York, NY",100.0,2019,460690100,2020-01-21
+"Intuit Inc., Mountain View, CA",100.0,2019,461202103,2020-01-21
+"Invesco Ltd., Atlanta, GA",45.0,2019,G491BT108,2020-01-21
+"Iron Mountain Inc., Boston, MA",100.0,2019,46284V101,2020-01-21
+"J. B. Hunt Transport Services, Inc., Lowell, AR",20.0,2019,445658107,2020-01-21
+"J. M. Smucker Co., Orrville, OH",55.0,2019,832696405,2020-01-21
+"J.C. Penney Corp. Inc., Plano, TX",80.0,2019,708152004,2020-01-21
+"JPMorgan Chase & Co., New York, NY",100.0,2019,46625H100,2020-01-21
+"Jabil Circuit Inc., St. Petersburg, FL",20.0,2019,466313103,2020-01-21
+"Jacobs Engineering Group Inc., Pasadena, CA",35.0,2019,469814107,2020-01-21
+"JetBlue Airways Corp., Long Island City, NY",90.0,2019,477143101,2020-01-21
+"John Hancock Financial Services Inc., Boston, MA",100.0,2019,41014S106,2020-01-21
+"Johnson & Johnson, New Brunswick, NJ",100.0,2019,478160104,2020-01-21
+"Johnson Controls Inc., Milwaukee, WI",80.0,2019,G51502105,2020-01-21
+"KB Home, Los Angeles, CA",35.0,2019,48666K109,2020-01-21
+"KKR & Co. LP, New York, NY",100.0,2019,48248M102,2020-01-21
+"KLA-Tencor Corp., Milpitas, CA",20.0,2019,482480100,2020-01-21
+"Kate Spade & Company, New York, NY",55.0,2019,485865109,2020-01-21
+"Kellogg Co., Battle Creek, MI",100.0,2019,487836108,2020-01-21
+"Kelly Services Inc., Troy, MI",100.0,2019,488152208,2020-01-21
+"Kenneth Cole Productions Inc., New York, NY",90.0,2019,193294105,2020-01-21
+"Kimberly-Clark Corporation, Irving, TX",90.0,2019,494368103,2020-01-21
+"Kinder Morgan Inc., Houston, TX",20.0,2019,49456B101,2020-01-21
+"Kindred Healthcare Inc., Louisville, KY",70.0,2019,494580103,2020-01-21
+"Kohler Co., Kohler, WI",90.0,2019,500236104,2020-01-21
+"Kohl’s Corp., Menomonee Falls, WI",80.0,2019,500255104,2020-01-21
+"Komatsu Mining Corp., Milwaukee, WI",75.0,2019,500458401,2020-01-21
+"Kraft Heinz Company, The, Pittsburgh, PA",90.0,2019,500754106,2020-01-21
+"Kroger Co., The, Cincinnati, OH",95.0,2019,501044101,2020-01-21
+"L Brands Inc., Columbus, OH",100.0,2019,501797104,2020-01-21
+"LKQ Corp., Chicago, IL",20.0,2019,501889208,2020-01-21
+"LPL Financial Holdings Inc., Boston, MA",100.0,2019,50212V100,2020-01-21
+"Laboratory Corporation of America Holdings, Burlington, NC",100.0,2019,50540R409,2020-01-21
+"Laclede Group Inc., The, St. Louis, MO",60.0,2019,505597100,2020-01-21
+"Land O’Lakes Inc., Arden Hills, MN",90.0,2019,514666932,2020-01-21
+"Las Vegas Sands Corp., Las Vegas, NV",20.0,2019,517834107,2020-01-21
+"Lear Corp., Southfield, MI",90.0,2019,521865204,2020-01-21
+"Legg Mason, Inc., Baltimore, MD",95.0,2019,524901105,2020-01-21
+"Leidos Holdings, Reston, VA",85.0,2019,525327102,2020-01-21
+"Lendlease Americas Inc., New York, NY",100.0,2019,027118108,2020-01-21
+"Lennar Corp., Miami, FL",20.0,2019,526057104,2020-01-21
+"Leucadia National Corporation, New York, NY",0.0,2019,527288104,2020-01-21
+"Levi Strauss & Co., San Francisco, CA",100.0,2019,52736R938,2020-01-21
+"Lexmark International Inc., Lexington, KY",100.0,2019,529771107,2020-01-21
+"Liberty Global Inc., Englewood, CO",15.0,2019,53093Y938,2020-01-21
+"Liberty Interactive Corp., Englewood, CO",0.0,2019,53071M930,2020-01-21
+"Liberty Mutual Group, Boston, MA",100.0,2019,53099X934,2020-01-21
+"LifePoint Health Inc., Brentwood, TN",10.0,2019,53219L109,2020-01-21
+"Lincoln National Corp., Radnor, PA",100.0,2019,534187109,2020-01-21
+"Lithia Motors, Inc., Medford, OR",10.0,2019,536797103,2020-01-21
+"Lockheed Martin Corp., Bethesda, MD",100.0,2019,539830109,2020-01-21
+"Loews Corp., New York, NY",55.0,2019,540424108,2020-01-21
+"Lowe's Companies Inc., Mooresville, NC",75.0,2019,548661107,2020-01-21
+"Lowe’s Companies, Inc., Mooresville, NC",100.0,2019,548661107,2020-01-21
+"Lubrizol Corporation, Wickliffe, OH",85.0,2019,549271104,2020-01-21
+"L’Oréal USA Inc., New York, NY",100.0,2019,502117203,2020-01-21
+"M&T Bank Corp., Buffalo, NY",95.0,2019,55261F104,2020-01-21
+"MB Financial Inc., Chicago, IL",90.0,2019,55264U108,2020-01-21
+"MGM Resorts International, Las Vegas, NV",100.0,2019,552953101,2020-01-21
+"Macy's Inc., Cincinnati, OH",100.0,2019,55616P104,2020-01-21
+"Macy’s Inc., Cincinnati, OH",100.0,2019,55616P104,2020-01-21
+"Mallinckrodt LLC, Hazelwood, MO",100.0,2019,561232109,2020-01-21
+"ManpowerGroup, Milwaukee, WI",100.0,2019,56418H100,2020-01-21
+"Marathon Oil Corp., Houston, TX",60.0,2019,565849106,2020-01-21
+"Marathon Petroleum Corp., Findlay, OH",95.0,2019,56585A102,2020-01-21
+"Marriott International Inc., Bethesda, MD",100.0,2019,571903202,2020-01-21
+"Mars Inc., Mt. Olive, NJ",90.0,2019,571726108,2020-01-21
+"Marsh & McLennan Companies Inc., New York, NY",100.0,2019,571748102,2020-01-21
+"Masco Corp., Taylor, MI",85.0,2019,574599106,2020-01-21
+"Massachusetts Mutual Life Insurance Company, Springfield, MA",100.0,2019,575767934,2020-01-21
+"Mattel Inc., El Segundo, CA",65.0,2019,577081102,2020-01-21
+"McCormick & Company Inc., Sparks, MD",90.0,2019,579780206,2020-01-21
+"McDonald's Corp., Oak Brook, IL",100.0,2019,580135101,2020-01-21
+"McDonald’s Corp., Oak Brook, IL",100.0,2019,580135101,2020-01-21
+"McKesson Corp., San Francisco, CA",100.0,2019,58155Q103,2020-01-21
+"Medtronic PLC, Minneapolis, MN",90.0,2019,G5960L103,2020-01-21
+"MetLife Inc., New York, NY",100.0,2019,59156R108,2020-01-21
+"Micron Technology Inc., Boise, ID",20.0,2019,595112103,2020-01-21
+"Microsoft Corp., Redmond, WA",100.0,2019,594918104,2020-01-21
+"Mohawk Industries Inc., Calhoun, GA",0.0,2019,608190104,2020-01-21
+"Molina Healthcare Inc., Long Beach, CA",40.0,2019,60855R100,2020-01-21
+"Mondelez International Inc., East Hanover, nj",80.0,2019,609207105,2020-01-21
+"Moody's Corp., New York, NY",100.0,2019,615369105,2020-01-21
+"Moody’s Corp., New York, NY",100.0,2019,615369105,2020-01-21
+"Morgan Stanley, New York, NY",100.0,2019,617446448,2020-01-21
+"Morningstar Inc., Chicago, IL",100.0,2019,617700109,2020-01-21
+"Mosaic Company, Plymouth, MN",60.0,2019,61945C103,2020-01-21
+"Motorola Solutions Inc., Chicago, IL",95.0,2019,620076307,2020-01-21
+"Murphy USA, El Dorado, AR",0.0,2019,626755102,2020-01-21
+"Mutual of Omaha Insurance, Omaha, NE",90.0,2019,62899Q932,2020-01-21
+"NASDAQ Inc., New York, NY",85.0,2019,631103108,2020-01-21
+"NCR Corp., Duluth, GA",100.0,2019,62886E108,2020-01-21
+"NGL Energy Partners, Tulsa, OK",20.0,2019,62913M107,2020-01-21
+"NRG Energy Inc., Princeton, NJ",40.0,2019,629377508,2020-01-21
+"NVIDIA Corp., Santa Clara, CA",100.0,2019,67066G104,2020-01-21
+"National Grid USA, Waltham, MA",85.0,2019,636274409,2020-01-21
+"National Oilwell Varco, Inc., Houston, TX",20.0,2019,637071101,2020-01-21
+"Navigant Consulting Inc., Chicago , IL",100.0,2019,63935N107,2020-01-21
+"Navistar International Corp., Lisle, IL",70.0,2019,63934E108,2020-01-21
+"NetApp Inc., Sunnyvale, CA",85.0,2019,64110D104,2020-01-21
+"Netflix Inc., Los Gatos, CA",100.0,2019,64110L106,2020-01-21
+"New Relic Inc., San Francisco, CA",95.0,2019,64829B100,2020-01-21
+"New York Life Insurance Co., New York, NY",95.0,2019,64952G934,2020-01-21
+"New York Times Co., New York, NY",85.0,2019,650111107,2020-01-21
+"Newmont Mining Corporation, Greenwood Village, CO",95.0,2019,651639106,2020-01-21
+"News Corp., New York, NY",0.0,2019,65249B109,2020-01-21
+"NextEra Energy Inc., Juno Beach, FL",50.0,2019,65339F101,2020-01-21
+"NiSource Inc., Merrillville, IN",90.0,2019,65473P105,2020-01-21
+"Nike Inc., Beaverton, OR",100.0,2019,654106103,2020-01-21
+"Nissan North America Inc., Franklin, TN",90.0,2019,654744408,2020-01-21
+"Nokia Inc., Irving, TX",100.0,2019,654902204,2020-01-21
+"Nordstrom Inc., Seattle, WA",100.0,2019,655664100,2020-01-21
+"Norfolk Southern Corp., Norfolk, VA",65.0,2019,655844108,2020-01-21
+"Nortel Networks Corp., Richardson, TX",30.0,2019,656568508,2020-01-21
+"Northern Trust Corp., Chicago, IL",100.0,2019,665859104,2020-01-21
+"Northrop Grumman Corp., Falls Church, VA",100.0,2019,666807102,2020-01-21
+"Northwestern Mutual Life Insurance, Milwaukee, WI",100.0,2019,668133945,2020-01-21
+"Novo Nordisk Inc., Plainsboro, NJ",95.0,2019,670100205,2020-01-21
+"Nuance Communications, Burlington, MA",80.0,2019,67020Y100,2020-01-21
+"Nucor Corp., Charlotte, NC",0.0,2019,670346105,2020-01-21
+"ONE Gas Inc., Tulsa, OK",40.0,2019,68235P108,2020-01-21
+"ONEOK Inc., Tulsa, OK",95.0,2019,682680103,2020-01-21
+"Occidental Petroleum, Los Angeles, CA",20.0,2019,674599105,2020-01-21
+"Office Depot Inc., Boca Raton, FL",100.0,2019,676220106,2020-01-21
+"Ogilvy Group Inc., The, New York, NY",100.0,2019,676601107,2020-01-21
+"Old Republic International, Chicago, IL",20.0,2019,680223104,2020-01-21
+"Omnicom Group, New York, NY",100.0,2019,681919106,2020-01-21
+"OppenheimerFunds Inc., New York, NY",100.0,2019,683800106,2020-01-21
+"Oracle Corp., Redwood City, CA",100.0,2019,68389X105,2020-01-21
+"Oshkosh Corp., Oshkosh, WI",10.0,2019,688239201,2020-01-21
+"Outerwall Inc., Bellevue, WA",80.0,2019,690070107,2020-01-21
+"Overstock.com Inc., Midvale, UT",70.0,2019,690370101,2020-01-21
+"Owens & Minor Inc., Mechanicsville, VA",60.0,2019,690732102,2020-01-21
+"Owens Corning, Toledo, OH",100.0,2019,690742101,2020-01-21
+"Owens-Illinois Inc., Perrysburg, OH",20.0,2019,690768403,2020-01-21
+"O’Reilly Automotive Inc., Springfield, MO",10.0,2019,67103H107,2020-01-21
+"PBF Energy, Parsippany, NJ",20.0,2019,69318G106,2020-01-21
+"PG&E Corp., San Fran- cisco, CA",100.0,2019,69331C108,2020-01-21
+"PNC Financial Services Group Inc., The, Pittsburgh, PA",100.0,2019,693475105,2020-01-21
+"PNM Resources Inc., Albuquerque, NM",45.0,2019,69349H107,2020-01-21
+"PPG Industries Inc., Pittsburgh, PA",90.0,2019,693506107,2020-01-21
+"PPL Corp., Allentown, PA",100.0,2019,69351T106,2020-01-21
+"PVH Corp., New York, NY",100.0,2019,693656100,2020-01-21
+"Paccar Inc., Bellevue, WA",20.0,2019,693718108,2020-01-21
+"Pacific Life Insurance Co., Newport Beach, CA",80.0,2019,69499P008,2020-01-21
+"Packaging Corporation of America, Lake Forest, IL",20.0,2019,695156109,2020-01-21
+"Pandora Media Inc., Oakland, CA",100.0,2019,698354107,2020-01-21
+"Parker Hannifin Corp., Cleveland, OH",20.0,2019,701094104,2020-01-21
+"Patterson Companies (Patterson Dental Supply), St. Paul, MN",40.0,2019,703395103,2020-01-21
+"PayPal Holdings Inc., San Jose, CA",100.0,2019,70450Y103,2020-01-21
+"Pearson Inc., Hoboken, NJ",90.0,2019,71534C109,2020-01-21
+"Penske Automotive Group Inc., Bloomfield Hills, MI",0.0,2019,70959W103,2020-01-21
+"Pep Boys-Manny, Moe & Jack, Philadelphia, PA",30.0,2019,713278109,2020-01-21
+"PepsiCo Inc., Purchase, NY",100.0,2019,713448108,2020-01-21
+"PetSmart Inc., Phoenix, AZ",90.0,2019,716768106,2020-01-21
+"Peter Kiewit Sons’ Inc., Omaha, NE",10.0,2019,71699X948,2020-01-21
+"Pfizer Inc., New York, NY",100.0,2019,717081103,2020-01-21
+"Philip Morris International Inc., New York, NY",10.0,2019,718172109,2020-01-21
+"Phillips 66, Houston, TX",95.0,2019,718546104,2020-01-21
+"Pinnacle West Capital, Phoenix, AZ",70.0,2019,723484101,2020-01-21
+"Pitney Bowes Inc., Stamford, CT",55.0,2019,724479100,2020-01-21
+"Plains GP Holdings, Houston, TX",0.0,2019,72651A207,2020-01-21
+"Portland General Electric Co., Portland, OR",100.0,2019,736508847,2020-01-21
+"Praxair Inc., Danbury, CT",90.0,2019,74005P104,2020-01-21
+"Principal Financial Group, Des Moines, IA",100.0,2019,74299X938,2020-01-21
+"Procter & Gamble Co., Cincinnati, OH",100.0,2019,742718109,2020-01-21
+"Progressive Corp., The, Mayfield Village, OH",80.0,2019,743315103,2020-01-21
+"Prudential Financial Inc., Newark, NJ",100.0,2019,744320102,2020-01-21
+"Public Service Enterprise Group, Newark, NJ",90.0,2019,744573106,2020-01-21
+"Publicis Inc., New York, NY",95.0,2019,74463M106,2020-01-21
+"Publix Super Markets Inc., Lakeland, FL",0.0,2019,744663105,2020-01-21
+"PulteGroup Inc., Atlanta, GA",10.0,2019,745867101,2020-01-21
+"QualComm, San Diego, CA",90.0,2019,747525103,2020-01-21
+"Quanta Services, Houston, TX",10.0,2019,74762E102,2020-01-21
+"Quantcast Corp., San Francisco, CA",80.0,2019,747906501,2020-01-21
+"Quest Diagnostics Inc., Madison, NJ",100.0,2019,74834L100,2020-01-21
+"Quintiles Transnational, Durham, NC",20.0,2019,74899Y914,2020-01-21
+"R.R. Donnelley & Sons Co., Chicago, IL",90.0,2019,257867200,2020-01-21
+"Ralph Lauren Corp., New York, NY",90.0,2019,751212101,2020-01-21
+"Raymond James Financial Inc., St. Petersburg, FL",90.0,2019,754730109,2020-01-21
+"Raytheon Co., Waltham, MA",90.0,2019,755111507,2020-01-21
+"Re:Sources USA Inc., Long Island City, NY",100.0,2019,844027102,2020-01-21
+"Realogy Holdings Corp., Madison, NJ",85.0,2019,75605Y106,2020-01-21
+"Regal Entertainment Group, Knoxville, TN",60.0,2019,758766109,2020-01-21
+"Regions Financial Corp., Birmingham, AL",85.0,2019,7591EP100,2020-01-21
+"Regis Corp., Edina, MN",15.0,2019,758932107,2020-01-21
+"Reinsurance Group of America Inc., Chesterfield, MO",80.0,2019,759351604,2020-01-21
+"Reliance Steel & Aluminum Co., Los Angeles, CA",10.0,2019,759509102,2020-01-21
+"Republic Services Inc., Phoenix, AZ",85.0,2019,760759100,2020-01-21
+"Reynolds American Inc., Winston-Salem, NC",90.0,2019,761713106,2020-01-21
+"Rite Aid Corp., Camp Hill, PA",50.0,2019,767754104,2020-01-21
+"Robert Half, Menlo Park, CA",100.0,2019,770323103,2020-01-21
+"Rockwell Automation Inc., Milwaukee, WI",100.0,2019,773903109,2020-01-21
+"Ross Stores Inc., Dublin, CA",75.0,2019,778296103,2020-01-21
+"Royal Caribbean Cruises Ltd., Miami, FL",90.0,2019,V7780T103,2020-01-21
+"Ryder System Inc., Miami, FL",80.0,2019,783549108,2020-01-21
+"Ryland Group Inc., The, Calabasas, CA",15.0,2019,783764103,2020-01-21
+"S&P Global Inc., New York, NY",100.0,2019,78409V104,2020-01-21
+"SLM Corp. (Sallie Mae), Newark, DE",55.0,2019,78442P106,2020-01-21
+"SRA International Inc., Fairfax, VA",75.0,2019,78464R105,2020-01-21
+"SYNNEX Corp., Fremont, CA",95.0,2019,87162W100,2020-01-21
+"SYSCO Corp., Houston, TX",65.0,2019,871829107,2020-01-21
+"Saatchi & Saatchi North America Inc., New York, NY",100.0,2019,785144205,2020-01-21
+"Sabre Holdings Inc., Southlake, TX",45.0,2019,785905100,2020-01-21
+"Saks Inc., New York, NY",50.0,2019,79377W108,2020-01-21
+"Sanderson Farms Inc., Laurel, MS",30.0,2019,800013104,2020-01-21
+"Sanmina-SCI, San Jose, CA",0.0,2019,80099Y935,2020-01-21
+"Scholastic Corp., New York, NY",65.0,2019,807066105,2020-01-21
+"Science Applications International Corp., Reston, VA",85.0,2019,808626105,2020-01-21
+"Seaboard Corp., Shawnee Mission, KS",20.0,2019,811543107,2020-01-21
+"Seagate Technology LLC, Scotts Valley, CA",25.0,2019,G7945M107,2020-01-21
+"Sealed Air Corp., Elmwood Park, NJ",20.0,2019,81211K100,2020-01-21
+"Sears Holdings Corp., Hoffman Estates, IL",80.0,2019,812350106,2020-01-21
+"Selective Insurance Group, Branchville, NJ",35.0,2019,816300107,2020-01-21
+"Sempra Energy, San Diego, CA",100.0,2019,816851109,2020-01-21
+"Shell Oil Co., Houston, TX",100.0,2019,822635009,2020-01-21
+"Sherwin-Williams Co., The, Cleveland, OH",80.0,2019,824348106,2020-01-21
+"Siemens, Malvern, PA",95.0,2019,826197501,2020-01-21
+"SkyWest Airlines Inc., St. George, UT",70.0,2019,830879102,2020-01-21
+"Sodexo Inc., Gaithersburg, MD",100.0,2019,833792104,2020-01-21
+"Software AG USA Inc., Reston, VA",40.0,2019,834024100,2020-01-21
+"Sonic Automotive Inc., Charlotte, NC",0.0,2019,83545G102,2020-01-21
+"Sonoco Products Company, Hartsville, SC",55.0,2019,835495102,2020-01-21
+"Sony Corporation of America, New York, NY",100.0,2019,835699307,2020-01-21
+"Southern California Edison Company, Rosemead, CA",100.0,2019,842400004,2020-01-21
+"Southern Co., Atlanta, GA",100.0,2019,842812109,2020-01-21
+"Southwest Airlines Co., Dallas, TX",100.0,2019,844741108,2020-01-21
+"SpartanNash, Grand Rapids, MI",80.0,2019,847215100,2020-01-21
+"Spirit AeroSystems Inc., Wichita, KS",85.0,2019,848574109,2020-01-21
+"Sprint Corp., Overland Park, KS",100.0,2019,85207U105,2020-01-21
+"St. Jude Medical Inc., St. Paul, MN",65.0,2019,790849103,2020-01-21
+"Stanley Black & Decker Inc., New Britain, CT",85.0,2019,854502101,2020-01-21
+"Staples Inc., Framingham, MA",85.0,2019,855030102,2020-01-21
+"Starbucks Corp., Seattle, WA",100.0,2019,855244109,2020-01-21
+"State Farm Group, Bloomington, IL",100.0,2019,85699K938,2020-01-21
+"State Street Corp., Boston, MA",100.0,2019,857477103,2020-01-21
+"Steel Dynamics, Inc., Fort Wayne, IN",55.0,2019,858119100,2020-01-21
+"Steelcase Inc., Grand Rapids, MI",95.0,2019,858155203,2020-01-21
+"Stryker Corp., Kalamazoo, MI",100.0,2019,863667101,2020-01-21
+"Subaru of America Inc., Cherry Hill, NJ",100.0,2019,864278106,2020-01-21
+"Sun Life Financial Inc. (US), Wellesley Hills, MA",100.0,2019,866796105,2020-01-21
+"SunPower Corp., San Jose, CA",45.0,2019,867652406,2020-01-21
+"SunTrust Banks Inc., Atlanta, GA",100.0,2019,867914103,2020-01-21
+"Supervalu Inc., Eden Prairie, MN",60.0,2019,868536301,2020-01-21
+"Symantec Corp., Mountain View, CA",100.0,2019,871503108,2020-01-21
+"T-Mobile USA Inc., Bellevue, WA",100.0,2019,872590104,2020-01-21
+"T. Rowe Price Associates Inc., Baltimore, MD",100.0,2019,74144T108,2020-01-21
+"TD Ameritrade, Omaha, NE",100.0,2019,87236Y108,2020-01-21
+"TD Bank, N.A., Wilmington, DE",100.0,2019,87235A101,2020-01-21
+"TE Connectivity Inc., Berwyn, PA",100.0,2019,H84989104,2020-01-21
+"TEGNA Inc., McLean, VA",100.0,2019,87901J105,2020-01-21
+"TJX Companies, Inc., The, Framingham, MA",90.0,2019,872540109,2020-01-21
+"Tailored Brands Inc., Houston, TX",95.0,2019,87403A107,2020-01-21
+"Targa Resources Corp., Houston, TX",0.0,2019,87612G101,2020-01-21
+"Target Corp., Minneapolis, MN",100.0,2019,87612E106,2020-01-21
+"Tech Data Corp., Clearwater, FL",100.0,2019,878237106,2020-01-21
+"Tenet Healthcare Corporation, Dallas, TX",80.0,2019,88033G407,2020-01-21
+"Tenneco Inc., Lake Forest, IL",10.0,2019,880349105,2020-01-21
+"Terex Corporation, Westport, CT",20.0,2019,880779103,2020-01-21
+"Tesla Inc., Palo Alto, CA",100.0,2019,88160R101,2020-01-21
+"Teva Pharmaceutical USA Inc., North Wales, PA",100.0,2019,881624209,2020-01-21
+"Texas Instruments Inc., Dallas, TX",100.0,2019,882508104,2020-01-21
+"Textron Inc., Providence, RI",30.0,2019,883203101,2020-01-21
+"Thermo Fisher Scientific Inc., Waltham, MA",100.0,2019,883556102,2020-01-21
+"Thomson Reuters, New York, NY",100.0,2019,884903105,2020-01-21
+"Thrivent Financial, Minneapolis, MN",80.0,2019,88599Y933,2020-01-21
+"Tiffany & Co., New York, NY",100.0,2019,886547108,2020-01-21
+"Toyota Motor North America Inc., Plano, TX",100.0,2019,892331307,2020-01-21
+"Tractor Supply Company, Brentwood, TN",20.0,2019,892356106,2020-01-21
+"Transamerica Corp., The, Cedar Rapids, IA",100.0,2019,893485102,2020-01-21
+"TravelCenters of America LLC, Westlake, OH",10.0,2019,894174101,2020-01-21
+"Travelers Companies Inc., The, New York, NY",100.0,2019,89417E109,2020-01-21
+"Travelport Ltd., Parsippany, NJ",45.0,2019,G9019D104,2020-01-21
+"TripAdvisor Inc., Needham, MA",90.0,2019,896945201,2020-01-21
+"True Value Co., Chicago, IL",80.0,2019,89899X930,2020-01-21
+"Twitter Inc., San Francisco, CA",100.0,2019,90184L102,2020-01-21
+"Tyson Foods, Inc., Springdale, AR",90.0,2019,902494103,2020-01-21
+"U.S. Bancorp, Minneapolis, MN",100.0,2019,902973304,2020-01-21
+"UBM plc, New York, NY",85.0,2019,90265U203,2020-01-21
+"UBS AG, New York, NY",100.0,2019,H42097107,2020-01-21
+"UGI Corp., King of Prussia, PA",20.0,2019,902681105,2020-01-21
+"US Foods Inc., Rosemont, IL",45.0,2019,912008109,2020-01-21
+"USG Corp., Chicago, IL",40.0,2019,903293405,2020-01-21
+"Under Armour Inc., Baltimore, MD",100.0,2019,904311107,2020-01-21
+"Union Pacific Corporation, Omaha, NE",80.0,2019,907818108,2020-01-21
+"Unisys Corp., Blue Bell, PA",60.0,2019,909214306,2020-01-21
+"United Airlines, Chicago, IL",100.0,2019,910047000,2020-01-21
+"United Natural Foods Inc., Providence, RI",20.0,2019,911163103,2020-01-21
+"United Parcel Service Inc., Atlanta, GA",100.0,2019,911312106,2020-01-21
+"United Rentals Inc., Stamford, CT",50.0,2019,911363109,2020-01-21
+"United States Steel Corp., Pittsburgh, PA",20.0,2019,912909108,2020-01-21
+"United Technologies Corp., Farmington, CT",100.0,2019,913017109,2020-01-21
+"UnitedHealth Group Inc., Minnetonka, MN",95.0,2019,91324P102,2020-01-21
+"Univar, Downers Grove, IL",60.0,2019,91336L107,2020-01-21
+"Universal Health Services, King of Prussia, PA",10.0,2019,913903100,2020-01-21
+"University of Phoenix, Tempe, AZ",100.0,2019,037604204,2020-01-21
+"Univision Communications Inc., New York, NY",100.0,2019,91499R966,2020-01-21
+"Unum Group, Chattanooga, TN",100.0,2019,91529Y106,2020-01-21
+"Urban Outfitters Inc., Philadelphia, PA",75.0,2019,917047102,2020-01-21
+"VF Corp., Greensboro, NC",100.0,2019,918204108,2020-01-21
+"VMware Inc., Palo Alto, CA",100.0,2019,928563402,2020-01-21
+"Valero Energy Corp., San Antonio, TX",20.0,2019,91913Y100,2020-01-21
+"Vanguard Group Inc., Malvern, PA",100.0,2019,92293Y934,2020-01-21
+"Verizon Communications Inc., New Jersey, NJ",90.0,2019,92343V104,2020-01-21
+"Viacom Inc., New York, NY",100.0,2019,92553P201,2020-01-21
+"Virgin America, Burlingame, CA",65.0,2019,92765X208,2020-01-21
+"Visteon Corp., Van Buren Township, MI",70.0,2019,92839U206,2020-01-21
+"Volkswagen Group of America Inc., Herndon, VA",90.0,2019,928662303,2020-01-21
+"Voya Financial, New York, NY",100.0,2019,929089100,2020-01-21
+"W.R. Berkley, Greenwich, CT",10.0,2019,084423102,2020-01-21
+"W.W. Grainger Inc., Lake Forest, IL",100.0,2019,384802104,2020-01-21
+"WEC Energy Group, Milwaukee, WI",40.0,2019,92939U106,2020-01-21
+"WESCO International Inc., Pittsburgh, PA",40.0,2019,95082P105,2020-01-21
+"Waddell & Reed Financial Inc., Overland Park, KS",45.0,2019,930059100,2020-01-21
+"Walgreen Co., Deerfield, IL",100.0,2019,931427108,2020-01-21
+"Walt Disney Co., The, Burbank, CA",100.0,2019,254687106,2020-01-21
+"Waste Management Inc., Houston, TX",90.0,2019,94106L109,2020-01-21
+"WellCare Health Plans, Inc., Tampa, FL",100.0,2019,94946T106,2020-01-21
+"Wellmark Inc., Des Moines, IA",100.0,2019,949702104,2020-01-21
+"Wells Fargo & Co., San Francisco, CA",100.0,2019,949746101,2020-01-21
+"Wendy’s Co., The, Dublin, OH",80.0,2019,95058W100,2020-01-21
+"West Corp., Omaha, NE",80.0,2019,952355204,2020-01-21
+"Western Digital Corp., Irvine, CA",20.0,2019,958102105,2020-01-21
+"Western Refining Inc., El Paso, TX",0.0,2019,959319104,2020-01-21
+"Western Union Co., The, Englewood, CO",50.0,2019,959802109,2020-01-21
+"Weyerhaeuser Co., Federal Way, WA",95.0,2019,962166104,2020-01-21
+"Whirlpool Corp., Benton Harbor, MI",100.0,2019,963320106,2020-01-21
+"Williams-Sonoma Inc., San Francisco, CA",90.0,2019,969904101,2020-01-21
+"Willis Towers Watson, Arlington, VA",100.0,2019,G96629103,2020-01-21
+"Windstream Corp., Little Rock, AR",20.0,2019,980524102,2020-01-21
+"Winn-Dixie Stores Inc., Jacksonville, FL",35.0,2019,974280307,2020-01-21
+"Workday Inc., Pleasanton, CA",100.0,2019,98138H101,2020-01-21
+"World Fuel Services, Miami, FL",20.0,2019,981475106,2020-01-21
+"Wynn Resorts Ltd., Las Vegas, NV",90.0,2019,983134107,2020-01-21
+"Xcel Energy Inc., Minneapolis, MN",100.0,2019,98389B100,2020-01-21
+"Xerox Corp., Norwalk, CT",100.0,2019,984121608,2020-01-21
+"Xylem Inc., Rye Brook, NY",75.0,2019,98419M100,2020-01-21
+"YRC Worldwide Inc., Overland Park, KS",10.0,2019,984249607,2020-01-21
+"Yelp Inc., San Francisco, CA",100.0,2019,985817105,2020-01-21
+"Yum! Brands Inc., Louisville, KY",70.0,2019,988498101,2020-01-21
+"Zimmer Holdings Inc., Warsaw, IN",20.0,2019,98956P102,2020-01-21
+"eBay Inc., San Jose, CA",100.0,2019,278642103,2020-01-21
+"iHeartMedia Inc., San Antonio, TX",60.0,2019,45174J103,2020-01-21
+"priceline.com LLC, Norwalk, CT",55.0,2019,741503100,2020-01-21
+"Bridgestone Americas Holding Inc., Nashville, TN",90.0,2020,318315108.0,2021-01-28
+"Cognizant Technology Solutions Corp., Teaneck, NJ",20.0,2020,192446102.0,2021-01-28
+"Federal Home Loan Mortgage Corp. (Freddie Mac), McLean, VA",100.0,2020,313400301.0,2021-01-28
+"Federal National Mortgage Association (Fannie Mae), Washington, DC",100.0,2020,313586109.0,2021-01-28
+"Hartford Financial Services Group Inc., The, Hartford, CT",100.0,2020,416515104.0,2021-01-28
+"Toyota Motor North America Inc., Plano, TX",100.0,2020,892331307.0,2021-01-28

@@ -1,38 +1,38 @@
-Company,CEI_Score,Year
-— Medically necessary surgical procedures insurance 15 pts,5.0,2005
-Out Equal Workplace Advocates,5.0,2005
-Avnet Inc. Phoenix AZ 217 43 43 v v v,2.0,2005
-Bank of New York Co. New York NY 293 86 86 v v v v v v,2.0,2005
-Cummins Inc. Columbus IN 257 100 86 v v v v v v v,2.0,2005
-H. J. Heinz Co. Pittsburgh PA 259 29 29 v v,3.0,2005
-Harris Chicago IL 86 86 V V V V v V,5.0,2005
-MasterCard Inc. Purchase NY 86 86 v v v v v v,3.0,2005
-The Procter Gamble Cincinnati OH 26 86 86 v v v v v v,3.0,2005
-International Inc.?,8.0,2005
-Unisys Corp. Blue Bell PA 343 100 86 v v v v v v v |,29.0,2005
-US Bancorp Minneapolis MN 13°°«71~«OT71 V v V V v,5.0,2005
-Mellon Financial Corp. Pittsburgh PA 391 100 86 v v v v v v v,5.0,2005
-Merrill Lynch Co. New York NY 53 100 86 v v v v v v v,2.0,2005
-Bank of America Corp. Charlotte NC 18 86 86 v v v v v v,8.0,2005
-International Inc,35.0,2005
-Tech Data Corp. Clearwater FL 110 100 57 v v v v v v v,3.0,2005
-Silicon Graphics Inc. Mountain CA 86 86 v v v v v v,2.0,2005
-Cargill Inc. Wayzata MN 100 100 v J v J v Vv v,2.0,2005
-Miller Brewing Co. Milwaukee —- WI 100 100 v v v v v v v,5.0,2005
-Newell Rubbermaid Inc. Alpharetta GA 304 29 29 v v,2.0,2005
-Shaw Industries Inc. Dalton GA 14 14 v,2.0,2005
-Global Hyatt Corp. Chicago IL 100 86 v v v v v v v,2.0,2005
-Chevron Corp. SanRamon CA 6 100 86 v v v v v v v,5.0,2005
-ATT Corp. Bedminster NJ 56 100 100 v v v v v v v,3.0,2005
-"There are still many companies in the United States that have yet , Faroe h",9.0,2005
-of a medically supervised treatment plan: identity and/or expression 15 pts,5.0,2005
-should be viewed as a composite of its activity over Project is to assist all companies in improving the,5.0,2005
-the last several years. While some components of policies and climate for GLBT employees. To those,9.0,2005
-"resources, best practice information and on-site",5.0,2005
-staff act as business consultants for diversity,3.0,2005
-Inc.,4.0,2005
-—— EEE EEE  ee  ee Eee,2.0,2005
-United Parcel Service Atlanta GA 42 86 86 v v v v v v,3.0,2005
-Northrop Los Angeles CA 58 86 79 v v v v v v,2.0,2005
-International Inc.,35.0,2005
-2006 Your answers to these questions this year are for informational purposes only.,9.0,2005
+Company,CEI_Score,Year,cusip,firm_name,fuzzy_match_score
+— Medically necessary surgical procedures insurance pts,5.0,2005,,,0
+Out Equal Workplace Advocates,5.0,2005,,,0
+Avnet Inc Phoenix 217,2.0,2005,,,0
+Bank New York New York 293,2.0,2005,,,0
+Cummins Inc Columbus 257,2.0,2005,,,0
+Heinz Pittsburgh 259,3.0,2005,,,0
+Harris Chicago,5.0,2005,,,0
+MasterCard Inc Purchase,3.0,2005,,,0
+The Procter Gamble Cincinnati,3.0,2005,,,0
+International Inc ?,8.0,2005,78464R105,"SRA International Inc., Fairfax, VA",87
+Unisys Corp Blue Bell 343,29.0,2005,,,0
+Bancorp Minneapolis «~«OT71,5.0,2005,,,0
+Mellon Financial Corp Pittsburgh 391,5.0,2005,,,0
+Merrill Lynch New York,2.0,2005,,,0
+Bank America Corp Charlotte,8.0,2005,,,0
+International Inc,35.0,2005,78464R105,"SRA International Inc., Fairfax, VA",87
+Tech Data Corp Clearwater 110,3.0,2005,,,0
+Silicon Graphics Inc Mountain,2.0,2005,,,0
+Cargill Inc Wayzata,2.0,2005,,,0
+Miller Brewing Milwaukee —,5.0,2005,,,0
+Newell Rubbermaid Inc Alpharetta 304,2.0,2005,,,0
+Shaw Industries Inc Dalton,2.0,2005,,,0
+Global Hyatt Corp Chicago,2.0,2005,,,0
+Chevron Corp SanRamon,5.0,2005,,,0
+ATT Corp Bedminster,3.0,2005,,,0
+There are still many companies the United States that have yet Faroe,9.0,2005,,,0
+medically supervised treatment plan identity and/ expression pts,5.0,2005,,,0
+should viewed composite its activity over Project assist all companies improving the,5.0,2005,,,0
+the last several years While some components policies and climate for GLBT employees those,9.0,2005,,,0
+resources best practice information and site,5.0,2005,,,0
+staff act business consultants for diversity,3.0,2005,,,0
+Inc,4.0,2005,,,0
+—— EEE EEE Eee,2.0,2005,,,0
+United Parcel Service Atlanta,3.0,2005,,,0
+Northrop Los Angeles,2.0,2005,,,0
+International Inc,35.0,2005,78464R105,"SRA International Inc., Fairfax, VA",87
+Your answers these questions this year are for informational purposes only,9.0,2005,,,0
